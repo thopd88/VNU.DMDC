@@ -1,26 +1,26 @@
 77. Danh mục lĩnh vực đào tạo
-Mã Tên
-077.00000086 An ninh, quốc phòng
-077.00000032 Báo chí và thông tin
-077.00000051 Công nghệ kỹ thuật
-077.00000084 Dịch vụ vận tải
-077.00000076 Dịch vụ xã hội
-077.00000081 Du lịch, khách sạn, thể thao và dịch vụ cá nhân
-077.00000014 Khoa học giáo dục và đào tạo giáo viên
-077.00000042 Khoa học sự sống
-077.00000044 Khoa học tự nhiên
-077.00000031 Khoa học xã hội và hành vi
-077.00000058 Kiến trúc và xây dựng
-077.00000034 Kinh doanh và quản lý
-077.00000052 Kỹ thuật
-077.00000048 Máy tính và công nghệ thông tin
-077.00000085 Môi trường và bảo vệ môi trường
-077.00000021 Nghệ thuật
-077.00000022 Nhân văn
-077.00000062 Nông, lâm nghiệp và thủy sản
-077.00000038 Pháp luật
-077.00000054 Sản xuất và chế biến
-077.00000072 Sức khỏe
-077.00000064 Thú y
-077.00000046 Toán và thống kê
-077.00000024 Lĩnh vực khác
+Mã|Tên
+077.00000086|An ninh, quốc phòng
+077.00000032|Báo chí và thông tin
+077.00000051|Công nghệ kỹ thuật
+077.00000084|Dịch vụ vận tải
+077.00000076|Dịch vụ xã hội
+077.00000081|Du lịch, khách sạn, thể thao và dịch vụ cá nhân
+077.00000014|Khoa học giáo dục và đào tạo giáo viên
+077.00000042|Khoa học sự sống
+077.00000044|Khoa học tự nhiên
+077.00000031|Khoa học xã hội và hành vi
+077.00000058|Kiến trúc và xây dựng
+077.00000034|Kinh doanh và quản lý
+077.00000052|Kỹ thuật
+077.00000048|Máy tính và công nghệ thông tin
+077.00000085|Môi trường và bảo vệ môi trường
+077.00000021|Nghệ thuật
+077.00000022|Nhân văn
+077.00000062|Nông, lâm nghiệp và thủy sản
+077.00000038|Pháp luật
+077.00000054|Sản xuất và chế biến
+077.00000072|Sức khỏe
+077.00000064|Thú y
+077.00000046|Toán và thống kê
+077.00000024|Lĩnh vực khác

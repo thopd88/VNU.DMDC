@@ -1,6 +1,6 @@
 109. Danh mục hình thức doanh nghiệp KHCN
-Mã Tên
-109.00000001 Doanh nghiệp
-109.00000002 Doanh nghiệp KHCN
-109.00000003 Liên doanh
-109.00000004 Liên kết
+Mã|Tên
+109.00000001|Doanh nghiệp
+109.00000002|Doanh nghiệp KHCN
+109.00000003|Liên doanh
+109.00000004|Liên kết

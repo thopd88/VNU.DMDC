@@ -1,5 +1,5 @@
 99. Danh mục tình trạng thiết bị
-Mã Tên
-099.00000001 Hiện đại
-099.00000002 Trung bình
-099.00000003 Lạc hậu
+Mã|Tên
+099.00000001|Hiện đại
+099.00000002|Trung bình
+099.00000003|Lạc hậu

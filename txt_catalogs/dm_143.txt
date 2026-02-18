@@ -1,130 +1,130 @@
 143. Danh mục cây tổ chức ĐHQGHN
-Mã Tên đơn vị Đơn vị cha
-143.G25.39.000 Trung tâm Giáo dục Quốc phòng và An ninh G25
-143.G25.39.100 Ban Giám đốc 143.G25.39.000
-143.G25.39.001 Phòng Hành chính - Tổng hợp 143.G25.39.000
-143.G25.39.002 Phòng Đào tạo và Quản lý người học 143.G25.39.000
-143.G25.39.005 Khoa Chính trị 143.G25.39.000
-143.G25.39.006 Khoa Quân sự 143.G25.39.000
-143.G25.40.000 Trung tâm Giáo dục Thể chất và Thể thao G25
-143.G25.40.100 Ban Giám đốc 143.G25.40.000
-143.G25.40.001 Phòng Hành chính – Tổ chức 143.G25.40.000
-143.G25.40.002 Phòng Đào tạo và Khoa học Công nghệ 143.G25.40.000
-143.G25.40.003 Bộ môn Thể thao 143.G25.40.000
-143.G25.25.000 Công viên Công nghệ cao và Đổi mới sáng tạo G25
-143.G25.25.100 Ban Giám đốc 143.G25.25.000
-143.G25.25.001 Phòng Hành chính - Tổng hợp 143.G25.25.000
-143.G25.25.002 Phòng Hợp tác và Đầu tư 143.G25.25.000
-143.G25.43.000 Trung tâm Chuyển giao tri thức và Hỗ trợ khởi nghiệp 143.G25.25.000
-143.G25.43.100 Ban Giám đốc 143.G25.43.000
-143.G25.43.001 Phòng Hành chính - Tổng hợp 143.G25.43.000
-143.G25.43.002 Phòng Khởi nghiệp và Đổi mới sáng tạo 143.G25.43.000
-143.G25.01.003 Phòng Sở hữu trí tuệ và Chuyển giao tri thức 143.G25.43.000
-143.G25.42.000 Trung tâm Dự báo và Phát triển nguồn nhân lực 143.G25.25.000
-143.G25.42.100 Ban Giám đốc Trung tâm 143.G25.42.000
-143.G25.42.001 Phòng Tổ chức - Hành chính 143.G25.42.000
-143.G25.42.002 Phòng Đào tạo 143.G25.42.000
-143.G25.42.003 Phòng Nghiên cứu Khoa học và Hợp tác phát triển 143.G25.42.000
-143.G25.61.000 Trung tâm Hỗ trợ sinh viên 143.G25.25.000
-143.G25.61.100 Ban Giám đốc 143.G25.61.000
-143.G25.61.001 Phòng Hành chính - Tổ chức 143.G25.61.000
-143.G25.61.002 Phòng Kế hoạch - Tài chính 143.G25.61.000
-143.G25.61.006 Phòng Công tác Học sinh, sinh viên 143.G25.61.000
-143.G25.25.004 Viện Bán dẫn và Vật liệu tiên tiến 143.G25.25.000
-143.G25.25.005 Viện Công nghệ Lượng tử 143.G25.25.000
-143.G25.25.006 Viện Nghiên cứu Ứng dụng trí tuệ nhân tạo trong phát triển bền vững 143.G25.25.000
-143.G25.30.000 Viện Đào tạo số và Khảo thí G25
-143.G25.30.100 Ban Lãnh đạo Viện 143.G25.30.000
-143.G25.30.001 Phòng Hành chính - Tổng hợp 143.G25.30.000
-143.G25.30.005 Phòng Đào tạo 143.G25.30.000
-143.G25.30.100 Phòng Công nghệ Thông tin và Truyền thông 143.G25.30.000
-143.G25.30.003 Phòng Nghiên cứu Đo lường và Đánh giá 143.G25.30.000
-143.G25.30.002 Phòng Nghiên cứu và Phát triển giáo dục số 143.G25.30.000
-143.G25.44.000 Trung tâm Kiểm định chất lượng giáo dục G25
-143.G25.44.100 Ban Giám đốc 143.G25.44.000
-143.G25.44.001 Phòng Hành chính - Tổ chức 143.G25.44.000
-143.G25.44.002 Phòng Đánh giá và công nhận chất lượng giáo dục 143.G25.44.000
-143.G25.72.000 Trung tâm quản lý đô thị đại học G25
-143.G25.72.100 Ban Giám đốc 143.G25.72.000
-143.G25.72.001 Phòng Hành chính - Tổ chức 143.G25.72.000
-143.G25.72.002 Phòng Kế hoạch - Tài chính 143.G25.72.000
-143.G25.72.003 Phòng Quản lý đất đai và An ninh trật tự 143.G25.72.000
-143.G25.72.006 Phòng Hỗ trợ đào tạo và dịch vụ khoa học công nghệ 143.G25.72.000
-143.G25.63.000 Trung tâm Thư viện và Tri thức số G25
-143.G25.63.100 Ban Giám đốc 143.G25.63.000
-143.G25.63.001 Phòng Hành chính - Tổ chức 143.G25.63.000
-143.G25.63.002 Phòng Kế hoạch - Tài chính 143.G25.63.000
-143.G25.63.011 Phòng Dịch vụ tri thức Cầu Giấy 143.G25.63.000
-143.G25.63.008 Phòng Dịch vụ tri thức Thanh Xuân 143.G25.63.000
-143.G25.63.010 Phòng Dịch vụ tri thức Hoà Lạc 143.G25.63.000
-143.G25.63.007 Phòng Phát triển và tổ chức Tri thức số 143.G25.63.000
-143.G25.63.005 Phòng Công nghệ và Truyền thông số 143.G25.63.000
-143.G25.66.000 Nhà xuất bản ĐHQGHN G25
-143.G25.66.100 Ban Giám đốc 143.G25.66.000
-143.G25.66.001 Phòng Hành chính - Tổng hợp 143.G25.66.000
-143.G25.66.002 Phòng Kinh doanh và hợp tác xuất bản 143.G25.66.000
-143.G25.66.003 Phòng Kế hoạch xuất bản 143.G25.66.000
-143.G25.66.004 Phòng Biên tập 143.G25.66.000
-143.G25.73.000 Bệnh viện Đại học Quốc gia Hà Nội G25
-143.G25.73.100 Ban Giám đốc 143.G25.73.000
-143.G25.73.003 Phòng Kế hoạch Tổng hợp & quản lý chất lượng 143.G25.73.000
-143.G25.73.002 Phòng Điều dưỡng & Kiểm soát nhiễm khuẩn 143.G25.73.000
-143.G25.73.001 Phòng Tổ chức Hành chính - Trang thiết bị y tế 143.G25.73.000
-143.G25.73.004 Phòng Kế toán -Tài chính 143.G25.73.000
-143.G25.73.005 Khoa Khám bệnh 143.G25.73.000
-143.G25.73.006 Khoa Nội - Nhi 143.G25.73.000
-143.G25.73.007 Khoa Ngoại - Sản 143.G25.73.000
-143.G25.73.008 Khoa Ung bướu và y học hạt nhân 143.G25.73.000
-143.G25.73.009 Khoa Liên chuyên khoa 143.G25.73.000
-143.G25.73.010 Khoa Cận lâm sàng (Xét nghiệm - Chẩn đoán hình ảnh) 143.G25.73.000
-143.G25.73.011 Khoa Dược 143.G25.73.000
-143.G25.68.000 Ban Quản lý dự án G25
-143.G25.68.100 Ban Giám đốc 143.G25.68.000
-143.G25.68.001 Phòng Tổng hợp 143.G25.68.000
-143.G25.68.002 Phòng Quản lý dự án 1 143.G25.68.000
-143.G25.68.003 Phòng Quản lý dự án 2 143.G25.68.000
-143.G25.68.004 Phòng Quản lý dự án 3 143.G25.68.000
-143.G25.71.000 Ban Quản lý dự án Trường Đại học Việt Nhật 143.G25.68.000
-143.G25.77.000 Ban Quản lý dự án" Phát triển các đại học quốc gia Việt Nam - Tiểu dự án ĐHQGHN" G25
-143.G25.77.100 Ban Giám đốc 143.G25.77.000
-143.G25.77.001 Phòng Kế toán - Hành chính tổng hợp 143.G25.77.000
-143.G25.77.002 Phòng Quản lý dự án 143.G25.77.000
-143.G25.77.003 Phòng Đấu thầu và Khoa học công nghệ 143.G25.77.000
-143.G25.00.000 Cơ quan ĐHQGHN G25
-143.G25.00.100 Ban giám đốc 143.G25.00.000
-143.G25.00.002 Ban Cố vấn 143.G25.00.000
-143.G25.82.000 Ban Đào tạo và Công tác sinh viên 143.G25.00.000
-143.G25.84.000 Ban Hợp tác và Phát triển 143.G25.00.000
-143.G25.83.000 Ban Khoa học và Đổi mới sáng tạo 143.G25.00.000
-143.G25.86.000 Ban Tài chính và Đầu tư 143.G25.00.000
-143.G25.81.000 Ban Tổ chức và Thanh tra 143.G25.00.000
-143.G25.99.000 Khối Văn phòng Đảng - đoàn thể 143.G25.00.000
-143.G25.90.000 Văn phòng Đảng ủy ĐHQGHN 143.G25.99.000
-143.G25.98.000 Cơ quan Ủy ban Kiểm tra Đảng ủy ĐHQGHN 143.G25.99.000
-143.G25.91.000 Văn phòng Công đoàn ĐHQGHN 143.G25.99.000
-143.G25.92.000 Văn phòng Đoàn TNCS Hồ Chí Minh ĐHQGHN 143.G25.99.000
-143.G25.89.000 Văn phòng Đại học Quốc gia Hà Nội 143.G25.00.000
-143.G25.89.005 Phòng Hành chính - Tổng hợp 143.G25.89.000
-143.G25.89.002 Phòng Thư ký - Pháp chế 143.G25.89.000
-143.G25.89.004 Phòng Quản trị 143.G25.89.000
-143.G25.89.003 Phòng Kế hoạch - Tài chính 143.G25.89.000
-143.G25.89.001 Trung tâm Quản trị đại học số 143.G25.89.000
-143.G25.69.000 Tạp chí Khoa học ĐHQGHN 143.G25.89.000
-143.G25.51.000 Trung tâm Hỗ trợ Nghiên cứu Châu Á 143.G25.89.000
-143.G25.12.000 Trường Đại học khoa học tự nhiên G25
-143.G25.03.000 Trường Đại học Khoa học Xã hội và Nhân văn G25
-143.G25.04.000 Trường Đại học Ngoại ngữ G25
-143.G25.02.000 Trường Đại học Công nghệ G25
-143.G25.05.000 Trường Đại học Kinh tế G25
-143.G25.01.000 Trường Đại học Giáo dục G25
-143.G25.11.000 Trường Đại học Việt Nhật G25
-143.G25.10.000 Trường Đại học Y dược G25
-143.G25.06.000 Trường Đại Học Luật G25
-143.G25.08.000 Trường Quản trị và Kinh doanh G25
-143.G25.07.000 Trường Quốc tế G25
-143.G25.09.000 Trường Khoa học liên ngành và Nghệ thuật G25
-143.G25.21.000 Viện Công nghệ thông tin G25
-143.G25.22.000 Viện Vi sinh vật và Công nghệ sinh học G25
-143.G25.32.000 Viện Tài nguyên và Môi trường G25
-143.G25.23.000 Viện Việt Nam học và Khoa học phát triển G25
-143.G25.24.000 Viện Trần Nhân Tông G25
+Mã|Tên đơn vị Đơn vị cha
+143.G25.39.000|Trung tâm Giáo dục Quốc phòng và An ninh G25
+143.G25.39.100|Ban Giám đốc 143.G25.39.000
+143.G25.39.001|Phòng Hành chính - Tổng hợp 143.G25.39.000
+143.G25.39.002|Phòng Đào tạo và Quản lý người học 143.G25.39.000
+143.G25.39.005|Khoa Chính trị 143.G25.39.000
+143.G25.39.006|Khoa Quân sự 143.G25.39.000
+143.G25.40.000|Trung tâm Giáo dục Thể chất và Thể thao G25
+143.G25.40.100|Ban Giám đốc 143.G25.40.000
+143.G25.40.001|Phòng Hành chính – Tổ chức 143.G25.40.000
+143.G25.40.002|Phòng Đào tạo và Khoa học Công nghệ 143.G25.40.000
+143.G25.40.003|Bộ môn Thể thao 143.G25.40.000
+143.G25.25.000|Công viên Công nghệ cao và Đổi mới sáng tạo G25
+143.G25.25.100|Ban Giám đốc 143.G25.25.000
+143.G25.25.001|Phòng Hành chính - Tổng hợp 143.G25.25.000
+143.G25.25.002|Phòng Hợp tác và Đầu tư 143.G25.25.000
+143.G25.43.000|Trung tâm Chuyển giao tri thức và Hỗ trợ khởi nghiệp 143.G25.25.000
+143.G25.43.100|Ban Giám đốc 143.G25.43.000
+143.G25.43.001|Phòng Hành chính - Tổng hợp 143.G25.43.000
+143.G25.43.002|Phòng Khởi nghiệp và Đổi mới sáng tạo 143.G25.43.000
+143.G25.01.003|Phòng Sở hữu trí tuệ và Chuyển giao tri thức 143.G25.43.000
+143.G25.42.000|Trung tâm Dự báo và Phát triển nguồn nhân lực 143.G25.25.000
+143.G25.42.100|Ban Giám đốc Trung tâm 143.G25.42.000
+143.G25.42.001|Phòng Tổ chức - Hành chính 143.G25.42.000
+143.G25.42.002|Phòng Đào tạo 143.G25.42.000
+143.G25.42.003|Phòng Nghiên cứu Khoa học và Hợp tác phát triển 143.G25.42.000
+143.G25.61.000|Trung tâm Hỗ trợ sinh viên 143.G25.25.000
+143.G25.61.100|Ban Giám đốc 143.G25.61.000
+143.G25.61.001|Phòng Hành chính - Tổ chức 143.G25.61.000
+143.G25.61.002|Phòng Kế hoạch - Tài chính 143.G25.61.000
+143.G25.61.006|Phòng Công tác Học sinh, sinh viên 143.G25.61.000
+143.G25.25.004|Viện Bán dẫn và Vật liệu tiên tiến 143.G25.25.000
+143.G25.25.005|Viện Công nghệ Lượng tử 143.G25.25.000
+143.G25.25.006|Viện Nghiên cứu Ứng dụng trí tuệ nhân tạo trong phát triển bền vững 143.G25.25.000
+143.G25.30.000|Viện Đào tạo số và Khảo thí G25
+143.G25.30.100|Ban Lãnh đạo Viện 143.G25.30.000
+143.G25.30.001|Phòng Hành chính - Tổng hợp 143.G25.30.000
+143.G25.30.005|Phòng Đào tạo 143.G25.30.000
+143.G25.30.100|Phòng Công nghệ Thông tin và Truyền thông 143.G25.30.000
+143.G25.30.003|Phòng Nghiên cứu Đo lường và Đánh giá 143.G25.30.000
+143.G25.30.002|Phòng Nghiên cứu và Phát triển giáo dục số 143.G25.30.000
+143.G25.44.000|Trung tâm Kiểm định chất lượng giáo dục G25
+143.G25.44.100|Ban Giám đốc 143.G25.44.000
+143.G25.44.001|Phòng Hành chính - Tổ chức 143.G25.44.000
+143.G25.44.002|Phòng Đánh giá và công nhận chất lượng giáo dục 143.G25.44.000
+143.G25.72.000|Trung tâm quản lý đô thị đại học G25
+143.G25.72.100|Ban Giám đốc 143.G25.72.000
+143.G25.72.001|Phòng Hành chính - Tổ chức 143.G25.72.000
+143.G25.72.002|Phòng Kế hoạch - Tài chính 143.G25.72.000
+143.G25.72.003|Phòng Quản lý đất đai và An ninh trật tự 143.G25.72.000
+143.G25.72.006|Phòng Hỗ trợ đào tạo và dịch vụ khoa học công nghệ 143.G25.72.000
+143.G25.63.000|Trung tâm Thư viện và Tri thức số G25
+143.G25.63.100|Ban Giám đốc 143.G25.63.000
+143.G25.63.001|Phòng Hành chính - Tổ chức 143.G25.63.000
+143.G25.63.002|Phòng Kế hoạch - Tài chính 143.G25.63.000
+143.G25.63.011|Phòng Dịch vụ tri thức Cầu Giấy 143.G25.63.000
+143.G25.63.008|Phòng Dịch vụ tri thức Thanh Xuân 143.G25.63.000
+143.G25.63.010|Phòng Dịch vụ tri thức Hoà Lạc 143.G25.63.000
+143.G25.63.007|Phòng Phát triển và tổ chức Tri thức số 143.G25.63.000
+143.G25.63.005|Phòng Công nghệ và Truyền thông số 143.G25.63.000
+143.G25.66.000|Nhà xuất bản ĐHQGHN G25
+143.G25.66.100|Ban Giám đốc 143.G25.66.000
+143.G25.66.001|Phòng Hành chính - Tổng hợp 143.G25.66.000
+143.G25.66.002|Phòng Kinh doanh và hợp tác xuất bản 143.G25.66.000
+143.G25.66.003|Phòng Kế hoạch xuất bản 143.G25.66.000
+143.G25.66.004|Phòng Biên tập 143.G25.66.000
+143.G25.73.000|Bệnh viện Đại học Quốc gia Hà Nội G25
+143.G25.73.100|Ban Giám đốc 143.G25.73.000
+143.G25.73.003|Phòng Kế hoạch Tổng hợp & quản lý chất lượng 143.G25.73.000
+143.G25.73.002|Phòng Điều dưỡng & Kiểm soát nhiễm khuẩn 143.G25.73.000
+143.G25.73.001|Phòng Tổ chức Hành chính - Trang thiết bị y tế 143.G25.73.000
+143.G25.73.004|Phòng Kế toán -Tài chính 143.G25.73.000
+143.G25.73.005|Khoa Khám bệnh 143.G25.73.000
+143.G25.73.006|Khoa Nội - Nhi 143.G25.73.000
+143.G25.73.007|Khoa Ngoại - Sản 143.G25.73.000
+143.G25.73.008|Khoa Ung bướu và y học hạt nhân 143.G25.73.000
+143.G25.73.009|Khoa Liên chuyên khoa 143.G25.73.000
+143.G25.73.010|Khoa Cận lâm sàng (Xét nghiệm - Chẩn đoán hình ảnh) 143.G25.73.000
+143.G25.73.011|Khoa Dược 143.G25.73.000
+143.G25.68.000|Ban Quản lý dự án G25
+143.G25.68.100|Ban Giám đốc 143.G25.68.000
+143.G25.68.001|Phòng Tổng hợp 143.G25.68.000
+143.G25.68.002|Phòng Quản lý dự án 1 143.G25.68.000
+143.G25.68.003|Phòng Quản lý dự án 2 143.G25.68.000
+143.G25.68.004|Phòng Quản lý dự án 3 143.G25.68.000
+143.G25.71.000|Ban Quản lý dự án Trường Đại học Việt Nhật 143.G25.68.000
+143.G25.77.000|Ban Quản lý dự án" Phát triển các đại học quốc gia Việt Nam - Tiểu dự án ĐHQGHN" G25
+143.G25.77.100|Ban Giám đốc 143.G25.77.000
+143.G25.77.001|Phòng Kế toán - Hành chính tổng hợp 143.G25.77.000
+143.G25.77.002|Phòng Quản lý dự án 143.G25.77.000
+143.G25.77.003|Phòng Đấu thầu và Khoa học công nghệ 143.G25.77.000
+143.G25.00.000|Cơ quan ĐHQGHN G25
+143.G25.00.100|Ban giám đốc 143.G25.00.000
+143.G25.00.002|Ban Cố vấn 143.G25.00.000
+143.G25.82.000|Ban Đào tạo và Công tác sinh viên 143.G25.00.000
+143.G25.84.000|Ban Hợp tác và Phát triển 143.G25.00.000
+143.G25.83.000|Ban Khoa học và Đổi mới sáng tạo 143.G25.00.000
+143.G25.86.000|Ban Tài chính và Đầu tư 143.G25.00.000
+143.G25.81.000|Ban Tổ chức và Thanh tra 143.G25.00.000
+143.G25.99.000|Khối Văn phòng Đảng - đoàn thể 143.G25.00.000
+143.G25.90.000|Văn phòng Đảng ủy ĐHQGHN 143.G25.99.000
+143.G25.98.000|Cơ quan Ủy ban Kiểm tra Đảng ủy ĐHQGHN 143.G25.99.000
+143.G25.91.000|Văn phòng Công đoàn ĐHQGHN 143.G25.99.000
+143.G25.92.000|Văn phòng Đoàn TNCS Hồ Chí Minh ĐHQGHN 143.G25.99.000
+143.G25.89.000|Văn phòng Đại học Quốc gia Hà Nội 143.G25.00.000
+143.G25.89.005|Phòng Hành chính - Tổng hợp 143.G25.89.000
+143.G25.89.002|Phòng Thư ký - Pháp chế 143.G25.89.000
+143.G25.89.004|Phòng Quản trị 143.G25.89.000
+143.G25.89.003|Phòng Kế hoạch - Tài chính 143.G25.89.000
+143.G25.89.001|Trung tâm Quản trị đại học số 143.G25.89.000
+143.G25.69.000|Tạp chí Khoa học ĐHQGHN 143.G25.89.000
+143.G25.51.000|Trung tâm Hỗ trợ Nghiên cứu Châu Á 143.G25.89.000
+143.G25.12.000|Trường Đại học khoa học tự nhiên G25
+143.G25.03.000|Trường Đại học Khoa học Xã hội và Nhân văn G25
+143.G25.04.000|Trường Đại học Ngoại ngữ G25
+143.G25.02.000|Trường Đại học Công nghệ G25
+143.G25.05.000|Trường Đại học Kinh tế G25
+143.G25.01.000|Trường Đại học Giáo dục G25
+143.G25.11.000|Trường Đại học Việt Nhật G25
+143.G25.10.000|Trường Đại học Y dược G25
+143.G25.06.000|Trường Đại Học Luật G25
+143.G25.08.000|Trường Quản trị và Kinh doanh G25
+143.G25.07.000|Trường Quốc tế G25
+143.G25.09.000|Trường Khoa học liên ngành và Nghệ thuật G25
+143.G25.21.000|Viện Công nghệ thông tin G25
+143.G25.22.000|Viện Vi sinh vật và Công nghệ sinh học G25
+143.G25.32.000|Viện Tài nguyên và Môi trường G25
+143.G25.23.000|Viện Việt Nam học và Khoa học phát triển G25
+143.G25.24.000|Viện Trần Nhân Tông G25

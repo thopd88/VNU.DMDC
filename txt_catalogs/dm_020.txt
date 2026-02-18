@@ -1,58 +1,58 @@
 20. Danh mục hình thức khen thưởng
-Mã Tên
-020.00000100 Huân chương Sao Vàng
-020.00000101 Huân chương Hồ Chí Minh
-020.00000102 Huân chương Độc lập hạng 1
-020.00000103 Huân chương Độc lập hạng 2
-020.00000104 Huân chương Độc lập hạng 3
-020.00000105 Huân chương Quân công hạng 1
-020.00000106 Huân chương Quân công hạng 2
-020.00000107 Huân chương Quân công hạng 3
-020.00000108 Huân chương Lao động hạng 1
-020.00000109 Huân chương Lao động hạng 2
-020.00000110 Huân chương Lao động hạng 3
-020.00000111 Huân chương Bảo vệ Tổ quốc hạng 1
-020.00000112 Huân chương Bảo vệ Tổ quốc hạng 2
-020.00000113 Huân chương Bảo vệ Tổ quốc hạng 3
-020.00000114 Huân chương Chiến công hạng 1
-020.00000115 Anh hùng Lao động
-020.00000116 Anh hùng Lực lượng vũ trang nhân dân
-020.00000117 Bà mẹ Việt Nam Anh hùng
-020.00000118 Bằng khen cấp Bộ, ngành, tỉnh, đoàn thể trung ương
-020.00000119 Bằng khen của Thủ tướng Chính phủ
-020.00000120 Chiến sỹ thi đua cấp Bộ, ngành, tỉnh, đoàn thể trung ương
-020.00000121 Chiến sỹ thi đua cơ sở
-020.00000122 Chiến sỹ thi đua toàn quốc
-020.00000123 Chiến sỹ tiên tiến
-020.00000125 Cờ thi đua cấp Bộ, ngành, tỉnh, đoàn thể trung ương
-020.00000126 Cờ thi đua của Chính phủ
-020.00000127 Giải thưởng Hải Thượng Lãn Ông
-020.00000128 Giải thưởng Hồ Chí Minh
-020.00000129 Giải thường Khoa học kỹ thuật thanh niên
-020.00000130 Giải thưởng Lý Tự Trọng
-020.00000131 Giải thưởng Nhà nước
-020.00000132 Giải thưởng Trần Văn Ơn
-020.00000133 Giấy khen
-020.00000134 Huân chương Chiến công hạng ba
-020.00000135 Huân chương Chiến công hạng nhì
-020.00000136 Huân chương Đại đoàn kết dân tộc
-020.00000137 Huân chương Dũng cảm
-020.00000138 Huân chương Hữu nghị
-020.00000139 Huy chương Chiến sỹ vẻ vang hạng ba
-020.00000140 Huy chương Chiến sỹ vẻ vang hạng nhất
-020.00000141 Huy chương Chiến sỹ vẻ vang hạng nhì
-020.00000142 Huy chương Hữu nghị
-020.00000143 Huy chương Quân kỳ quyết thắng
-020.00000144 Huy chương Vì an ninh Tổ quốc
-020.00000146 Kỷ niệm chương và Huy hiệu
-020.00000147 Lao động tiên tiến
-020.00000148 Nghệ nhân nhân dân
-020.00000149 Nghệ nhân ưu tú
-020.00000150 Nghệ sĩ nhân dân
-020.00000151 Nghệ sĩ ưu tú
-020.00000152 Nhà giáo nhân dân
-020.00000153 Nhà giáo ưu tú
-020.00000154 Thầy thuốc nhân dân
-020.00000155 Thầy thuốc ưu tú
-020.00000124 Chưa xác định
-020.00000145 Khác
+Mã|Tên
+020.00000100|Huân chương Sao Vàng
+020.00000101|Huân chương Hồ Chí Minh
+020.00000102|Huân chương Độc lập hạng 1
+020.00000103|Huân chương Độc lập hạng 2
+020.00000104|Huân chương Độc lập hạng 3
+020.00000105|Huân chương Quân công hạng 1
+020.00000106|Huân chương Quân công hạng 2
+020.00000107|Huân chương Quân công hạng 3
+020.00000108|Huân chương Lao động hạng 1
+020.00000109|Huân chương Lao động hạng 2
+020.00000110|Huân chương Lao động hạng 3
+020.00000111|Huân chương Bảo vệ Tổ quốc hạng 1
+020.00000112|Huân chương Bảo vệ Tổ quốc hạng 2
+020.00000113|Huân chương Bảo vệ Tổ quốc hạng 3
+020.00000114|Huân chương Chiến công hạng 1
+020.00000115|Anh hùng Lao động
+020.00000116|Anh hùng Lực lượng vũ trang nhân dân
+020.00000117|Bà mẹ Việt Nam Anh hùng
+020.00000118|Bằng khen cấp Bộ, ngành, tỉnh, đoàn thể trung ương
+020.00000119|Bằng khen của Thủ tướng Chính phủ
+020.00000120|Chiến sỹ thi đua cấp Bộ, ngành, tỉnh, đoàn thể trung ương
+020.00000121|Chiến sỹ thi đua cơ sở
+020.00000122|Chiến sỹ thi đua toàn quốc
+020.00000123|Chiến sỹ tiên tiến
+020.00000125|Cờ thi đua cấp Bộ, ngành, tỉnh, đoàn thể trung ương
+020.00000126|Cờ thi đua của Chính phủ
+020.00000127|Giải thưởng Hải Thượng Lãn Ông
+020.00000128|Giải thưởng Hồ Chí Minh
+020.00000129|Giải thường Khoa học kỹ thuật thanh niên
+020.00000130|Giải thưởng Lý Tự Trọng
+020.00000131|Giải thưởng Nhà nước
+020.00000132|Giải thưởng Trần Văn Ơn
+020.00000133|Giấy khen
+020.00000134|Huân chương Chiến công hạng ba
+020.00000135|Huân chương Chiến công hạng nhì
+020.00000136|Huân chương Đại đoàn kết dân tộc
+020.00000137|Huân chương Dũng cảm
+020.00000138|Huân chương Hữu nghị
+020.00000139|Huy chương Chiến sỹ vẻ vang hạng ba
+020.00000140|Huy chương Chiến sỹ vẻ vang hạng nhất
+020.00000141|Huy chương Chiến sỹ vẻ vang hạng nhì
+020.00000142|Huy chương Hữu nghị
+020.00000143|Huy chương Quân kỳ quyết thắng
+020.00000144|Huy chương Vì an ninh Tổ quốc
+020.00000146|Kỷ niệm chương và Huy hiệu
+020.00000147|Lao động tiên tiến
+020.00000148|Nghệ nhân nhân dân
+020.00000149|Nghệ nhân ưu tú
+020.00000150|Nghệ sĩ nhân dân
+020.00000151|Nghệ sĩ ưu tú
+020.00000152|Nhà giáo nhân dân
+020.00000153|Nhà giáo ưu tú
+020.00000154|Thầy thuốc nhân dân
+020.00000155|Thầy thuốc ưu tú
+020.00000124|Chưa xác định
+020.00000145|Khác

@@ -1,4 +1,4 @@
 112. Danh mục mục đích sử dụng đất đai
-Mã Tên
-112.00000001 Đất xây dựng công trình sự nghiệp giáo dục
-112.00000002 Đất sử dụng vào mục đích khác
+Mã|Tên
+112.00000001|Đất xây dựng công trình sự nghiệp giáo dục
+112.00000002|Đất sử dụng vào mục đích khác

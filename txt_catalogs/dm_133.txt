@@ -1,4 +1,4 @@
 133. Danh mục phân loại đối tượng tham gia nghiên cứu khoa học
-Mã Tên
-133.00000001 Đội ngũ
-133.00000002 Người học
+Mã|Tên
+133.00000001|Đội ngũ
+133.00000002|Người học

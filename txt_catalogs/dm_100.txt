@@ -1,4 +1,4 @@
 100. Danh mục thành viên nhóm nghiên cứu mạnh
-Mã Tên
-100.00000001 Trưởng nhóm
-100.00000002 Thành viên nhóm
+Mã|Tên
+100.00000001|Trưởng nhóm
+100.00000002|Thành viên nhóm

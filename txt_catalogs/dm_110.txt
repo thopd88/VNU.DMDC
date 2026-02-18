@@ -1,6 +1,6 @@
 110. Danh mục vai trò tham gia đoàn công tác
-Mã Tên
-110.00000001 Trưởng nhóm
-110.00000002 Thành viên
-110.00000003 Chủ nhiệm
-110.00000004 Thư ký
+Mã|Tên
+110.00000001|Trưởng nhóm
+110.00000002|Thành viên
+110.00000003|Chủ nhiệm
+110.00000004|Thư ký

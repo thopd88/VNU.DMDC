@@ -1,4 +1,4 @@
 130. Danh mục phân loại đoàn công tác
-Mã Tên
-130.00000001 Đoàn công tác ra
-130.00000002 Đoàn công tác vào
+Mã|Tên
+130.00000001|Đoàn công tác ra
+130.00000002|Đoàn công tác vào

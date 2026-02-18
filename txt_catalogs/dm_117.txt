@@ -1,4 +1,4 @@
 117. Danh mục trạng thái hội đồng/ ban giám hiệu
-Mã Tên
-117.00000001 Đang làm việc
-117.00000002 Miễn nhiệm
+Mã|Tên
+117.00000001|Đang làm việc
+117.00000002|Miễn nhiệm

@@ -1,5 +1,5 @@
 80. Danh sách nội dung hoạt động tại Việt Nam
-Mã Tên
-080.00000001 Chuyên gia
-080.00000002 Giảng dạy
-080.00000003 Tình nguyện
+Mã|Tên
+080.00000001|Chuyên gia
+080.00000002|Giảng dạy
+080.00000003|Tình nguyện

@@ -1,5 +1,5 @@
 150. Danh mục loại kỷ yếu
-Mã Tên
-150.00000050 Hội thảo khoa học quốc tế
-150.00000052 Hội thảo khoa học quốc gia
-150.00000051 Hội thảo khoa học chuyên ngành thuộc trường Đại học, Viện
+Mã|Tên
+150.00000050|Hội thảo khoa học quốc tế
+150.00000052|Hội thảo khoa học quốc gia
+150.00000051|Hội thảo khoa học chuyên ngành thuộc trường Đại học, Viện

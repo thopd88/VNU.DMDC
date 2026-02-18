@@ -1,16 +1,16 @@
 63. Danh mục tôn giáo
-Mã Tên
-063.00000050 Phật giáo
-063.00000051 Công giáo
-063.00000052 Phật giáo Hòa Hảo
-063.00000053 Hồi giáo
-063.00000054 Cao Đài
-063.00000055 Minh sư đạo
-063.00000056 Minh Lý đạo
-063.00000057 Tin Lành
-063.00000058 Tịnh độ cư sĩ Phật hội Việt Nam
-063.00000059 Đạo tứ ân hiếu nghĩa
-063.00000060 Bửu sơn Kỳ Hương
-063.00000061 Ba Ha'i
-063.00000062 Tôn giáo khác
-063.00000063 Không theo tôn giáo nào
+Mã|Tên
+063.00000050|Phật giáo
+063.00000051|Công giáo
+063.00000052|Phật giáo Hòa Hảo
+063.00000053|Hồi giáo
+063.00000054|Cao Đài
+063.00000055|Minh sư đạo
+063.00000056|Minh Lý đạo
+063.00000057|Tin Lành
+063.00000058|Tịnh độ cư sĩ Phật hội Việt Nam
+063.00000059|Đạo tứ ân hiếu nghĩa
+063.00000060|Bửu sơn Kỳ Hương
+063.00000061|Ba Ha'i
+063.00000062|Tôn giáo khác
+063.00000063|Không theo tôn giáo nào

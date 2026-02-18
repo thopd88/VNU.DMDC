@@ -1,6 +1,6 @@
 57. Danh mục tạp chí khoa học quốc tế
-Mã Tên
-057.00000050 Thuộc danh mục Web of science
-057.00000051 Scopus
-057.00000052 ACI
-057.00000053 Khác
+Mã|Tên
+057.00000050|Thuộc danh mục Web of science
+057.00000051|Scopus
+057.00000052|ACI
+057.00000053|Khác

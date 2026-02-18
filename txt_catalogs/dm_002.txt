@@ -1,5 +1,5 @@
 2. Danh mục chủ cơ sở
-Mã Tên
-002.00000001 Nhà nước
-002.00000002 Cộng đồng nhà trường
-002.00000003 Cá nhân, tổ chức góp vốn
+Mã|Tên
+002.00000001|Nhà nước
+002.00000002|Cộng đồng nhà trường
+002.00000003|Cá nhân, tổ chức góp vốn

@@ -1,5 +1,5 @@
 149. Danh mục nguồn kinh phí KHCN
-Mã Tên
-149.00000050 Sự nghiệp khoa học và công nghệ
-149.00000051 Đơn vị chủ trì
-149.00000052 Hợp tác bên ngoài, địa phương
+Mã|Tên
+149.00000050|Sự nghiệp khoa học và công nghệ
+149.00000051|Đơn vị chủ trì
+149.00000052|Hợp tác bên ngoài, địa phương

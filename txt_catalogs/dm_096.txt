@@ -1,5 +1,5 @@
 96. Danh mục nguồn kinh phí cho giảng viên được cử đi đào tạo
-Mã Tên
-096.00000001 Ngân sách nhà nước
-096.00000002 Tự túc
-096.00000003 Phía nước ngoài đài thọ
+Mã|Tên
+096.00000001|Ngân sách nhà nước
+096.00000002|Tự túc
+096.00000003|Phía nước ngoài đài thọ

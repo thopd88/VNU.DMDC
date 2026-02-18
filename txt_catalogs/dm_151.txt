@@ -1,5 +1,5 @@
 151. Danh mục loại giải thưởng
-Mã Tên
-151.00000050 Giải thưởng khoa học công nghệ của giảng viên
-151.00000051 Giải thưởng khoa học công nghệ của sinh viên
-151.00000052 Giải thưởng khác
+Mã|Tên
+151.00000050|Giải thưởng khoa học công nghệ của giảng viên
+151.00000051|Giải thưởng khoa học công nghệ của sinh viên
+151.00000052|Giải thưởng khác

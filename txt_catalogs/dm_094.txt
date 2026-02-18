@@ -1,5 +1,5 @@
 94. Danh mục hình thức tham gia của giảng viên được cử đi đào tạo
-Mã Tên
-094.00000001 Đào tạo sau đại học
-094.00000002 Giảng dạy
-094.00000003 Nghiên cứu khoa học và trao đổi học thuật
+Mã|Tên
+094.00000001|Đào tạo sau đại học
+094.00000002|Giảng dạy
+094.00000003|Nghiên cứu khoa học và trao đổi học thuật

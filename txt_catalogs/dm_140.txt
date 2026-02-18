@@ -1,4 +1,4 @@
 140. Danh mục đối tượng ưu tiên
-Mã Tên
-140.00000001 Nhóm ưu tiên 1
-140.00000002 Nhóm ưu tiên 2
+Mã|Tên
+140.00000001|Nhóm ưu tiên 1
+140.00000002|Nhóm ưu tiên 2

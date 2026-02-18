@@ -1,4 +1,4 @@
 78. Danh mục nguồn kinh phí cho lưu học sinh, sinh viên nước ngoài
-Mã Tên
-078.00000001 Thuộc hiệp định
-078.00000002 Không thuộc hiệp định
+Mã|Tên
+078.00000001|Thuộc hiệp định
+078.00000002|Không thuộc hiệp định

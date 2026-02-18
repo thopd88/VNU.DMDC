@@ -1,7 +1,7 @@
 55. Danh mục phân loại cơ sở
-Mã Tên
-055.00000002 Cơ sở đào tạo
-055.00000004 Khoa trực thuộc
-055.00000003 Phân hiệu/Phân viện
-055.00000001 Trụ sở chính
-055.00000005 Trung tâm thực hành/thực tập (ngoài Tỉnh/ Thành phố của trụ sở chính/cơ sở đào tạo/phân hiệu)
+Mã|Tên
+055.00000002|Cơ sở đào tạo
+055.00000004|Khoa trực thuộc
+055.00000003|Phân hiệu/Phân viện
+055.00000001|Trụ sở chính
+055.00000005|Trung tâm thực hành/thực tập (ngoài Tỉnh/ Thành phố của trụ sở chính/cơ sở đào tạo/phân hiệu)

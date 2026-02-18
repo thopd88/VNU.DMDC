@@ -1,7 +1,7 @@
 64. Danh mục loại tốt nghiệp
-Mã Tên
-064.00000001 Xuất sắc
-064.00000002 Giỏi
-064.00000003 Khá
-064.00000005 Trung bình khá
-064.00000004 Trung bình
+Mã|Tên
+064.00000001|Xuất sắc
+064.00000002|Giỏi
+064.00000003|Khá
+064.00000005|Trung bình khá
+064.00000004|Trung bình

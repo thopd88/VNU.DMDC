@@ -1,5 +1,5 @@
 60. Danh mục tình trạng CSVC
-Mã Tên
-060.00000001 Kiến cố
-060.00000002 Bán kiên cố
-060.00000003 Đang sửa chữa, nâng cấp
+Mã|Tên
+060.00000001|Kiến cố
+060.00000002|Bán kiên cố
+060.00000003|Đang sửa chữa, nâng cấp

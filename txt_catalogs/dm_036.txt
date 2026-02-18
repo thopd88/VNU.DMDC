@@ -1,5 +1,5 @@
 36. Danh mục loại chương trình liên kết đào tạo
-Mã Tên
-036.00000001 100% tại Việt Nam
-036.00000002 Tại Việt Nam và tại nước ngoài
-036.00000003 Khác
+Mã|Tên
+036.00000001|100% tại Việt Nam
+036.00000002|Tại Việt Nam và tại nước ngoài
+036.00000003|Khác

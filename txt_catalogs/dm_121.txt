@@ -1,4 +1,4 @@
 121. Danh mục phân loại người
-Mã Tên
-121.00000001 Sinh viên
-121.00000002 Học viên/ nghiên cứu sinh
+Mã|Tên
+121.00000001|Sinh viên
+121.00000002|Học viên/ nghiên cứu sinh

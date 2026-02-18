@@ -1,14 +1,14 @@
 104. Danh mục phân loại nhiệm vụ KHCN
-Mã Tên
-104.00000050 Chương trình KHCN
-104.00000051 Đề tài KHCN
-104.00000052 Đề án KHCN
-104.00000053 Dự án SXTN
-104.00000054 Dự án tạp chí
-104.00000055 Dự án duy tu
-104.00000056 Dự án TCNLNC
-104.00000058 Đề tài nhánh
-104.00000059 Chương trình KH&CN trọng điểm
-104.00000060 Nhiệm vụ KH&CN trọng điểm
-104.00000061 Nhiệm vụ KH&CN
-104.00000057 Khác
+Mã|Tên
+104.00000050|Chương trình KHCN
+104.00000051|Đề tài KHCN
+104.00000052|Đề án KHCN
+104.00000053|Dự án SXTN
+104.00000054|Dự án tạp chí
+104.00000055|Dự án duy tu
+104.00000056|Dự án TCNLNC
+104.00000058|Đề tài nhánh
+104.00000059|Chương trình KH&CN trọng điểm
+104.00000060|Nhiệm vụ KH&CN trọng điểm
+104.00000061|Nhiệm vụ KH&CN
+104.00000057|Khác

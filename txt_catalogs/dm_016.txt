@@ -1,5 +1,5 @@
 16. Danh mục hình thức chuyển giao công nghệ
-Mã Tên
-016.00000001 Độc lập
-016.00000002 Trong dự án hoặc hợp đồng
-016.00000003 Khác
+Mã|Tên
+016.00000001|Độc lập
+016.00000002|Trong dự án hoặc hợp đồng
+016.00000003|Khác

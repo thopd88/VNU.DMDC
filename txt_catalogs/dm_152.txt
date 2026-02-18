@@ -1,20 +1,20 @@
 152. Danh mục sản phẩm đề tài
-Mã Tên
-152.00000050 Các loại hình sản phẩm
-152.00000051 Hàng hoá, thiết bị, nguyên vật liệu, dây chuyền công nghệ, giống cây trồng, giống vật nuôi
-152.00000052 Báo cáo mô tả về nguyên lý ứng dụng, phương pháp, tiêu chuẩn, quy phạm; Phần mềm máy tính; Bản vẽ thiết kế; Quy trình công nghệ; Sơ đồ, bản đồ: Số liệu, cơ sở dữ liệu; Báo cáo phân tích; Tài liệu dự báo (phương pháp, quy trình, mô hình,..); Đề án, quy hoạch; Luận chứng kinh tế-kỹ thuật, Báo cáo nghiên cứu khả thi và các sản phẩm khác,...
-152.00000053 Cấp độ công bố sản phẩm
-152.00000054 Sản phẩm chuyển giao(báo cáo tư vấn chính sách, hợp đồng chuyển giao công nghệ, hợp đồng dịch vụ công nghệ,…)
-152.00000055 Bài báo trên tạp chí khoa học quốc tế thuộc hệ thống Web of Science
-152.00000056 Bài báo trên tạp chí khoa học quốc tế thuộc hệ thống Scopus
-152.00000057 Báo cáo khoa học toàn văn đăng trong kỷ yếu hội nghị quốc tế (có phản biện) thuộc hệ thống Web of Science, Scopus
-152.00000058 Bài báo quốc tế không thuộc hệ thống Web of Science, Scopus
-152.00000059 Bài báo trên các tạp chí khoa học chuyên ngành quốc gia/ báo cáo khoa học toàn văn đăng trong kỷ yếu hội nghị quốc tế (có phản biện)
-152.00000060 Sách chuyên khảo/Chương sách chuyên khảo được ấn hành bởi các nhà xuất bản quốc tế uy tín
-152.00000061 Sách chuyên khảo quốc tế (xuất bản ở nước ngoài)
-152.00000062 Sách chuyên khảo trong nước
-152.00000063 Sở hữu trí tuệ
-152.00000065 Sản phẩm đào tạo
-152.00000066 Nghiên cứu sinh (hỗ trợ đào tạo)
-152.00000067 Thạc sĩ (được cấp bằng)
-152.00000064 Sản phẩm khác (ghi rõ)
+Mã|Tên
+152.00000050|Các loại hình sản phẩm
+152.00000051|Hàng hoá, thiết bị, nguyên vật liệu, dây chuyền công nghệ, giống cây trồng, giống vật nuôi
+152.00000052|Báo cáo mô tả về nguyên lý ứng dụng, phương pháp, tiêu chuẩn, quy phạm; Phần mềm máy tính; Bản vẽ thiết kế; Quy trình công nghệ; Sơ đồ, bản đồ: Số liệu, cơ sở dữ liệu; Báo cáo phân tích; Tài liệu dự báo (phương pháp, quy trình, mô hình,..); Đề án, quy hoạch; Luận chứng kinh tế-kỹ thuật, Báo cáo nghiên cứu khả thi và các sản phẩm khác,...
+152.00000053|Cấp độ công bố sản phẩm
+152.00000054|Sản phẩm chuyển giao(báo cáo tư vấn chính sách, hợp đồng chuyển giao công nghệ, hợp đồng dịch vụ công nghệ,…)
+152.00000055|Bài báo trên tạp chí khoa học quốc tế thuộc hệ thống Web of Science
+152.00000056|Bài báo trên tạp chí khoa học quốc tế thuộc hệ thống Scopus
+152.00000057|Báo cáo khoa học toàn văn đăng trong kỷ yếu hội nghị quốc tế (có phản biện) thuộc hệ thống Web of Science, Scopus
+152.00000058|Bài báo quốc tế không thuộc hệ thống Web of Science, Scopus
+152.00000059|Bài báo trên các tạp chí khoa học chuyên ngành quốc gia/ báo cáo khoa học toàn văn đăng trong kỷ yếu hội nghị quốc tế (có phản biện)
+152.00000060|Sách chuyên khảo/Chương sách chuyên khảo được ấn hành bởi các nhà xuất bản quốc tế uy tín
+152.00000061|Sách chuyên khảo quốc tế (xuất bản ở nước ngoài)
+152.00000062|Sách chuyên khảo trong nước
+152.00000063|Sở hữu trí tuệ
+152.00000065|Sản phẩm đào tạo
+152.00000066|Nghiên cứu sinh (hỗ trợ đào tạo)
+152.00000067|Thạc sĩ (được cấp bằng)
+152.00000064|Sản phẩm khác (ghi rõ)

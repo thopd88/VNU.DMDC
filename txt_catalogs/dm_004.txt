@@ -1,6 +1,6 @@
 4. Danh mục chức danh nghề nghiệp viên chức giảng dạy trong cơ sở giáo dục đại học công lập
-Mã Tên
-004.V.07.01.01 Giảng viên cao cấp (Hạng I)
-004.V.07.01.02 Giảng viên chính (Hạng II)
-004.V.07.01.03 Giảng viên (Hạng III)
-004.V.07.01.23 Trợ giảng (Hạng III)
+Mã|Tên
+004.V.07.01.01|Giảng viên cao cấp (Hạng I)
+004.V.07.01.02|Giảng viên chính (Hạng II)
+004.V.07.01.03|Giảng viên (Hạng III)
+004.V.07.01.23|Trợ giảng (Hạng III)

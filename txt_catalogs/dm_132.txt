@@ -1,4 +1,4 @@
 132. Danh mục phân loại bài báo
-Mã Tên
-132.00000001 Bài báo đăng trên tạp chí
-132.00000002 Bài báo tại kỷ yếu hội nghị
+Mã|Tên
+132.00000001|Bài báo đăng trên tạp chí
+132.00000002|Bài báo tại kỷ yếu hội nghị

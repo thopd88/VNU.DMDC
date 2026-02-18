@@ -1,10 +1,10 @@
 15. Danh mục hình thức bổ nhiệm
-Mã Tên
-015.00000050 Trường quyết định
-015.00000051 Bộ công nhận
-015.00000052 Bổ nhiệm
-015.00000053 Bổ nhiệm lại
-015.00000054 Chuyển đổi chức vụ
-015.00000055 Điều động và bổ nhiệm
-015.00000056 Kéo dài thời gian công tác
-015.00000057 Tiếp nhận và bổ nhiệm
+Mã|Tên
+015.00000050|Trường quyết định
+015.00000051|Bộ công nhận
+015.00000052|Bổ nhiệm
+015.00000053|Bổ nhiệm lại
+015.00000054|Chuyển đổi chức vụ
+015.00000055|Điều động và bổ nhiệm
+015.00000056|Kéo dài thời gian công tác
+015.00000057|Tiếp nhận và bổ nhiệm

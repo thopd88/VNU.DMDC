@@ -1,29 +1,29 @@
 73. Danh mục trình độ tin học
-Mã Tên
-073.00000075 Tiến sĩ
-073.00000073 Thạc sĩ
-073.00000055 Đại học
-073.00000054 Cao đẳng
-073.00000053 Trung cấp
-073.00000057 Chuẩn IC3
-073.00000050 Cơ bản (TT03)
-073.00000051 Nâng cao (TT03)
-073.00000058 A
-073.00000060 B
-073.00000063 C
-073.00000059 An toàn, bảo mật thông tin
-073.00000061 Biên tập ảnh
-073.00000062 Biên tập trang thông tin điện tử
-073.00000064 Hiểu biết về CNTT cơ bản
-073.00000065 Sử dụng bảng tính cơ bản
-073.00000066 Sử dụng bảng tính nâng cao
-073.00000067 Sử dụng hệ quản trị cơ sở dữ liệu
-073.00000068 Sử dụng Internet cơ bản
-073.00000069 Sử dụng máy tính cơ bản
-073.00000070 Sử dụng phần mềm kế hoạch dự án
-073.00000071 Sử dụng trình chiếu cơ bản
-073.00000072 Sử dụng trình chiếu nâng cao
-073.00000074 Thiết kế đồ họa hai chiều
-073.00000076 Xử lý văn bản cơ bản
-073.00000077 Xử lý văn bản nâng cao
-073.00000052 Khác
+Mã|Tên
+073.00000075|Tiến sĩ
+073.00000073|Thạc sĩ
+073.00000055|Đại học
+073.00000054|Cao đẳng
+073.00000053|Trung cấp
+073.00000057|Chuẩn IC3
+073.00000050|Cơ bản (TT03)
+073.00000051|Nâng cao (TT03)
+073.00000058|A
+073.00000060|B
+073.00000063|C
+073.00000059|An toàn, bảo mật thông tin
+073.00000061|Biên tập ảnh
+073.00000062|Biên tập trang thông tin điện tử
+073.00000064|Hiểu biết về CNTT cơ bản
+073.00000065|Sử dụng bảng tính cơ bản
+073.00000066|Sử dụng bảng tính nâng cao
+073.00000067|Sử dụng hệ quản trị cơ sở dữ liệu
+073.00000068|Sử dụng Internet cơ bản
+073.00000069|Sử dụng máy tính cơ bản
+073.00000070|Sử dụng phần mềm kế hoạch dự án
+073.00000071|Sử dụng trình chiếu cơ bản
+073.00000072|Sử dụng trình chiếu nâng cao
+073.00000074|Thiết kế đồ họa hai chiều
+073.00000076|Xử lý văn bản cơ bản
+073.00000077|Xử lý văn bản nâng cao
+073.00000052|Khác

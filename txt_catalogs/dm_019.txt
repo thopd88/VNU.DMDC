@@ -1,9 +1,9 @@
 19. Danh mục hình thức hợp tác quốc tế
-Mã Tên
-019.00000001 Liên kết đào tạo
-019.00000002 Thành lập văn phòng đại diện của cơ sở giáo dục nghề nghiệp nước ngoài tại Việt Nam
-019.00000004 Hợp tác nghiên cứu khoa học, chuyển giao công nghệ và tổ chức hội nghị, hội thảo khoa học
-019.00000006 Bồi dưỡng, trao đổi nhà giáo, cán bộ quản lý giáo dục nghề nghiệp và người học
-019.00000007 Trao đổi thông tin phục vụ hoạt động đào tạo; cung ứng chương trình đào tạo; trao đổi các ấn phẩm, tài liệu và kết quả hoạt động đào tạo
-019.00000008 Tham gia các tổ chức giáo dục, hội nghề nghiệp khu vực và quốc tế
-019.00000009 Mở văn phòng đại diện cơ sở giáo dục nghề nghiệp của Việt Nam ở nước ngoài
+Mã|Tên
+019.00000001|Liên kết đào tạo
+019.00000002|Thành lập văn phòng đại diện của cơ sở giáo dục nghề nghiệp nước ngoài tại Việt Nam
+019.00000004|Hợp tác nghiên cứu khoa học, chuyển giao công nghệ và tổ chức hội nghị, hội thảo khoa học
+019.00000006|Bồi dưỡng, trao đổi nhà giáo, cán bộ quản lý giáo dục nghề nghiệp và người học
+019.00000007|Trao đổi thông tin phục vụ hoạt động đào tạo; cung ứng chương trình đào tạo; trao đổi các ấn phẩm, tài liệu và kết quả hoạt động đào tạo
+019.00000008|Tham gia các tổ chức giáo dục, hội nghề nghiệp khu vực và quốc tế
+019.00000009|Mở văn phòng đại diện cơ sở giáo dục nghề nghiệp của Việt Nam ở nước ngoài

@@ -1,4 +1,4 @@
 120. Danh mục phân loại giảng viên đào tạo QPAN
-Mã Tên
-120.00000001 Cử nhân
-120.00000002 Văn bằng 2
+Mã|Tên
+120.00000001|Cử nhân
+120.00000002|Văn bằng 2

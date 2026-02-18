@@ -1,5 +1,5 @@
 68. Danh mục trạng thái hợp đồng/ Tình trạng hợp đồng
-Mã Tên
-068.00000001 Có hiệu lực
-068.00000002 Hết hiệu lực
-068.00000003 Vô hiệu lực
+Mã|Tên
+068.00000001|Có hiệu lực
+068.00000002|Hết hiệu lực
+068.00000003|Vô hiệu lực

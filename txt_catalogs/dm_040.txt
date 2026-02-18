@@ -1,4 +1,4 @@
 40. Danh mục loại giảng viên quốc phòng an ninh
-Mã Tên
-040.00000001 Biệt phái
-040.00000002 Dân sự
+Mã|Tên
+040.00000001|Biệt phái
+040.00000002|Dân sự

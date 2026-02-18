@@ -1,5 +1,5 @@
 125. Danh mục phân loại dự án, chương trình
-Mã Tên
-125.00000001 Các chương trình, dự án
-125.00000002 Dự án liên doanh, liên kết, PPP
-125.00000003 Vốn đầu tư ODA
+Mã|Tên
+125.00000001|Các chương trình, dự án
+125.00000002|Dự án liên doanh, liên kết, PPP
+125.00000003|Vốn đầu tư ODA

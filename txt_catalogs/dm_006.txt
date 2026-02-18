@@ -1,6 +1,6 @@
 6. Danh mục chức danh nghiên cứu khoa học
-Mã Tên
-006.V.05.01.01 Nghiên cứu viên cao cấp
-006.V.05.01.02 Nghiên cứu viên chính
-006.V.05.01.03 Nghiên cứu viên
-006.V.05.01.04 Trợ lý nghiên cứu
+Mã|Tên
+006.V.05.01.01|Nghiên cứu viên cao cấp
+006.V.05.01.02|Nghiên cứu viên chính
+006.V.05.01.03|Nghiên cứu viên
+006.V.05.01.04|Trợ lý nghiên cứu

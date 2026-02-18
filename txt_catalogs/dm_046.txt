@@ -1,15 +1,15 @@
 46. Danh mục loại mục tiêu, nhiệm vụ KHCN
-Mã Tên
-046.00000014 Bảo đảm an ninh, quốc phòng
-046.00000013 Nghiên cứu dân sự khác
-046.00000011 Nghiên cứu do các trường đại học cấp kinh phí
-046.00000012 Nghiên cứu không định hướng ứng dụng
-046.00000002 Phát triển cơ sở hạ tầng và quy hoạch sử dụng đất
-046.00000007 Phát triển giáo dục và đào tạo
-046.00000003 Phát triển sản xuất và công nghệ nông nghiệp
-046.00000008 Phát triển và bảo vệ môi trường
-046.00000009 Phát triển xã hội và dịch vụ
-046.00000006 Phát triển y tế và bảo vệ sức khỏe con người
-046.00000005 Phát triển, phân phối và sử dụng hợp lý năng lượng
-046.00000001 Thăm dò, nghiên cứu và khai thác trái đất, khí quyển
-046.00000010 Thăm dò, nghiên cứu và khai thác vũ trụ
+Mã|Tên
+046.00000014|Bảo đảm an ninh, quốc phòng
+046.00000013|Nghiên cứu dân sự khác
+046.00000011|Nghiên cứu do các trường đại học cấp kinh phí
+046.00000012|Nghiên cứu không định hướng ứng dụng
+046.00000002|Phát triển cơ sở hạ tầng và quy hoạch sử dụng đất
+046.00000007|Phát triển giáo dục và đào tạo
+046.00000003|Phát triển sản xuất và công nghệ nông nghiệp
+046.00000008|Phát triển và bảo vệ môi trường
+046.00000009|Phát triển xã hội và dịch vụ
+046.00000006|Phát triển y tế và bảo vệ sức khỏe con người
+046.00000005|Phát triển, phân phối và sử dụng hợp lý năng lượng
+046.00000001|Thăm dò, nghiên cứu và khai thác trái đất, khí quyển
+046.00000010|Thăm dò, nghiên cứu và khai thác vũ trụ
