@@ -1,0 +1,6 @@
+42. Danh mục loại hình trường
+Mã Tên
+042.00000001 Công lập
+042.00000002 Tư thục
+042.00000003 Dân lập
+042.00000004 Nước ngoài

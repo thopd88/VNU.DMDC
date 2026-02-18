@@ -1,0 +1,6 @@
+75. Danh mục vai trò trong bài báo
+Mã Tên
+075.00000001 Tác giả chính
+075.00000002 Đồng tác giả
+075.00000003 Tác giả liên hệ
+075.00000004 Tác giả phụ

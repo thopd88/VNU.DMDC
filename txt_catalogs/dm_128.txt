@@ -1,0 +1,13 @@
+128. Hình thức kỷ luật
+Mã Tên
+128.00000104 Bãi nhiệm
+128.00000106 Cách chức
+128.00000107 Giáng chức
+128.00000108 Hạ bậc lương
+128.00000100 Khiển trách
+128.00000105 Buộc thôi việc
+128.00000103 Buộc thôi học
+128.00000101 Cảnh cáo
+128.00000102 Đình chỉ học tập
+128.00000110 Vi phạm quy chế
+128.00000109 Khác

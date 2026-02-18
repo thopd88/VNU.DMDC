@@ -1,0 +1,6 @@
+53. Danh mục nguồn vốn đầu tư
+Mã Tên
+053.00000001 Trường
+053.00000002 Doanh nghiệp
+053.00000004 Viện
+053.00000003 Khác

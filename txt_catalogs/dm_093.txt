@@ -1,0 +1,178 @@
+93. Danh mục mã ngạch/chức danh nghề nghiệp
+Mã Tên
+093.01.001 Chuyên viên cao cấp
+093.01.002 Chuyên viên chính
+093.01.003 Chuyên viên
+093.01.004 Cán sự
+093.01.005 Nhân viên
+093.06.031 Kế toán viên
+093.06.032 Kế toán viên trung cấp
+093.07.02.25 Giáo viên mầm non hạng II
+093.07.02.26 Giáo viên mầm non hạng III
+093.16.129 Y công
+093.16.13 Hộ lý
+093.16.131 Nhân viên nhà xác
+093.16.136 Dược tá
+093.2.006 Văn thư chính
+093.2.007 Văn thư
+093.2.008 Văn thư trung cấp
+093.V.01.02.01 Lưu trữ viên chính (hạng II)
+093.V.01.02.02 Lưu trữ viên (hạng III)
+093.V.01.02.03 Lưu trữ viên trung cấp (hạng IV)
+093.V.03.01.01 Bảo vệ viên bảo vệ thực vật hạng II
+093.V.03.01.02 Bảo vệ viên bảo vệ thực vật hạng III
+093.V.03.01.03 Kỹ thuật viên bảo vệ thực vật hạng IV
+093.V.03.02.04 Giám định viên thuốc bảo vệ thực vật hạng II
+093.V.03.02.05 Giám định viên thuốc bảo vệ thực vật hạng III
+093.V.03.02.06 Kỹ thuật viên giám định thuốc bảo vệ thực vật hạng IV
+093.V.03.03.07 Kiểm nghiệm viên cây trồng hạng II
+093.V.03.03.08 Kiểm nghiệm viên cây trồng hạng III
+093.V.03.03.09 Kỹ thuật viên kiểm nghiệm cây trồng hạng IV
+093.V.03.04.10 Chẩn đoán viên bệnh động vật hạng II
+093.V.03.04.11 Chẩn đoán viên bệnh động vật hạng III
+093.V.03.04.12 Chẩn đoán viên bệnh động vật hạng IV
+093.V.03.05.13 Kiểm tra viên vệ sinh thú y hạng II
+093.V.03.05.14 Kiểm tra viên vệ sinh thú y hạng III
+093.V.03.05.15 Kiểm tra viên vệ sinh thú y hạng IV
+093.V.03.06.16 Kiểm nghiệm viên thuốc thú y hạng II
+093.V.03.06.17 Kiểm nghiệm viên thuốc thú y hạng III
+093.V.03.06.18 Kiểm nghiệm viên thuốc thú y hạng IV
+093.V.03.07.19 Kiểm nghiệm viên chăn nuôi hạng II
+093.V.03.07.20 Kiểm nghiệm viên chăn nuôi hạng III
+093.V.03.07.21 Kiểm nghiệm viên chăn nuôi hạng IV
+093.V.04.01.01 Kiến trúc sư Hạng I
+093.V.04.01.02 Kiến trúc sư Hạng II
+093.V.04.01.03 Kiến trúc sư Hạng III
+093.V.04.02.04 Thẩm kế viên hạng I
+093.V.04.02.05 Thẩm kế viên hạng II
+093.V.04.02.06 Thẩm kế viên hạng III
+093.V.04.02.07 Thẩm kế viên hạng IV
+093.V.05.01.01 Nghiên cứu viên cao cấp (Hạng I)
+093.V.05.01.02 Nghiên cứu viên chính (Hạng II)
+093.V.05.01.03 Nghiên cứu viên(Hạng III)
+093.V.05.01.04 Trợ lý nghiên cứu (hạng IV)
+093.V.05.02.05 Kỹ sư cao cấp (Hạng I)
+093.V.05.02.06 Kỹ sư chính (Hạng II)
+093.V.05.02.07 Kỹ sư (Hạng III)
+093.V.05.02.08 Kỹ thuật viên (hạng IV)
+093.V.06.03.07 Dự báo viên khí tượng thủy văn hạng II
+093.V.06.03.08 Dự báo viên khí tượng thủy văn hạng III
+093.V.06.03.09 Dự báo viên khí tượng thủy văn hạng IV
+093.V.06.05.13 Quan trắc viên tài nguyên môi trường hạng II
+093.V.06.05.14 Quan trắc viên tài nguyên môi trường hạng III
+093.V.07.01.01 Giảng viên cao cấp (hạng I)
+093.V.07.01.02 Giảng viên chính (hạng II)
+093.V.07.01.03 Giảng viên (hạng III)
+093.V.07.01.23 Trợ giảng (Hạng III)
+093.V.07.02.24 Giáo viên mầm non hạng I
+093.V.07.03.27 Giáo viên tiểu học hạng I
+093.V.07.03.28 Giáo viên tiểu học hạng II
+093.V.07.03.29 Giáo viên tiểu học hạng III
+093.V.07.04.30 Giáo viên trung học cơ sở hạng I
+093.V.07.04.31 Giáo viên trung học cơ sở hạng II
+093.V.07.04.32 Giáo viên trung học cơ sở hạng III
+093.V.07.05.13 Giáo viên trung học phổ thông (hạng I)
+093.V.07.05.14 Giáo viên trung học phổ thông (hạng II)
+093.V.07.05.15 Giáo viên trung học phổ thông hạng III
+093.V.07.06.16 Nhân viên hỗ trợ giáo dục người khuyết tật (hạng IV)
+093.V.07.07.17 Giáo viên dự bị đại học hạng I
+093.V.07.07.18 Giáo viên dự bị đại học hạng II
+093.V.07.07.19 Giáo viên dự bị đại học hạng III
+093.V.07.08.20 Giảng viên cao đẳng sư phạm cao cấp (hạng I)
+093.V.07.08.21 Giảng viên cao đẳng sư phạm chính (hạng II)
+093.V.07.08.22 Giảng viên cao đẳng sư phạm (hạng III)
+093.V.08.01.01 Bác sĩ cao cấp (hạng I)
+093.V.08.01.02 Bác sĩ chính (hạng II)
+093.V.08.01.03 Bác sĩ (hạng III)
+093.V.08.02.04 Bác sĩ y học dự phòng cao cấp (hạng I)
+093.V.08.02.05 Bác sĩ y học dự phòng chính (hạng II)
+093.V.08.02.06 Bác sĩ y học dự phòng (hạng III)
+093.V.08.03.07 Y sĩ hạng IV
+093.V.08.04.08 Y tế công cộng cao cấp (hạng I)
+093.V.08.04.09 Y tế công cộng chính (hạng II)
+093.V.08.04.10 Y tế công cộng (hạng III)
+093.V.08.05.11 Điều dưỡng hạng II
+093.V.08.05.12 Điều dưỡng hạng III
+093.V.08.05.13 Điều dưỡng hạng IV
+093.V.08.06.14 Hộ sinh hạng II
+093.V.08.06.15 Hộ sinh hạng III
+093.V.08.06.16 Hộ sinh hạng IV
+093.V.08.07.17 Kỹ thuật y hạng II
+093.V.08.07.18 Kỹ thuật y hạng III
+093.V.08.07.19 Kỹ thuật y hạng IV
+093.V.08.08.20 Dược sĩ cao cấp (hạng I)
+093.V.08.08.21 Dược sĩ chính (hạng II)
+093.V.08.08.22 Dược sĩ (hạng III)
+093.V.08.08.23 Dược hạng IV
+093.V.09.02.01 Giảng viên giáo dục nghề nghiệp cao cấp (hạng I)
+093.V.09.02.02 Giảng viên giáo dục nghề nghiệp chính (hạng II)
+093.V.09.02.03 Giảng viên giáo dục nghề nghiệp lý thuyết (hạng III)
+093.V.09.02.04 Giảng viên giáo dục nghề nghiệp thực hành (hạng III)
+093.V.09.02.05 Giáo viên giáo dục nghề nghiệp hạng I
+093.V.09.02.06 Giáo viên giáo dục nghề nghiệp hạng II
+093.V.09.02.07 Giáo viên giáo dục nghề nghiệp lý thuyết hạng III
+093.V.09.02.08 Giáo viên giáo dục nghề nghiệp thực hành hạng III
+093.V.09.02.09 Giáo viên giáo dục nghề nghiệp hạng IV
+093.V.09.03.01 Kiểm định viên chính kỹ thuật an toàn lao động (hạng II)
+093.V.09.03.02 Kiểm định viên kỹ thuật an toàn lao động (hạng III)
+093.V.09.03.03 Kỹ thuật viên kiểm định kỹ thuật an toàn lao động (hạng IV)
+093.V.09.04.01 Công tác xã hội viên chính (hạng II)
+093.V.09.04.02 Công tác xã hội viên (hạng III)
+093.V.09.04.03 Nhân viên công tác xã hội (hạng IV)
+093.V.10.01.01 Huấn luyện viên cao cấp (Hạng I)
+093.V.10.01.02 Huấn luyện viên chính (hạng II)
+093.V.10.01.03 Huấn luyện viên (hạng III)
+093.V.10.01.04 Hướng dẫn viên (hạng IV)
+093.V.10.02.05 Thư viện viên hạng II
+093.V.10.02.06 Thư viện viên hạng III
+093.V.10.02.07 Thư viện viên hạng IV
+093.V.10.03.08 Đạo diễn nghệ thuật hạng I
+093.V.10.03.09 Đạo diễn nghệ thuật hạng II
+093.V.10.03.10 Đạo diễn nghệ thuật hạng III
+093.V.10.03.11 Đạo diễn nghệ thuật hạng IV
+093.V.10.04.12 Diễn viên hạng I
+093.V.10.04.13 Diễn viên hạng II
+093.V.10.04.14 Diễn viên hạng III
+093.V.10.04.15 Diễn viên hạng IV
+093.V.10.05.16 Di sản viên hạng II
+093.V.10.05.17 Di sản viên hạng III
+093.V.10.05.18 Di sản viên hạng IV
+093.V.10.06.19 Phương pháp viên hạng II
+093.V.10.06.20 Phương pháp viên hạng III
+093.V.10.06.21 Phương pháp viên hạng IV
+093.V.10.07.22 Hướng dẫn viên văn hóa hạng II
+093.V.10.07.23 Hướng dẫn viên văn hóa hạng III
+093.V.10.07.24 Hướng dẫn viên văn hóa hạng IV
+093.V.10.08.25 Họa sĩ hạng I
+093.V.10.08.26 Họa sĩ hạng II
+093.V.10.08.27 Họa sĩ hạng III
+093.V.10.08.28 Họa sĩ hạng IV
+093.V.11.01.01 Biên tập viên hạng I
+093.V.11.01.02 Biên tập viên hạng II
+093.V.11.01.03 Biên tập viên hạng III
+093.V.11.02.04 Phóng viên hạng I
+093.V.11.02.05 Phóng viên hạng II
+093.V.11.02.06 Phóng viên hạng III
+093.V.11.03.07 Biên dịch viên hạng I
+093.V.11.03.08 Biên dịch viên hạng II
+093.V.11.03.09 Biên dịch viên hạng III
+093.V.11.04.10 Đạo diễn truyền hình hạng I
+093.V.11.04.11 Đạo diễn truyền hình hạng II
+093.V.11.04.12 Đạo diễn truyền hình hạng III
+093.V11.09.23 Âm thanh viên hạng I
+093.V11.09.24 Âm thanh viên hạng II
+093.V11.09.25 Âm thanh viên hạng III
+093.V11.09.26 Âm thanh viên hạng IV
+093.V11.10.27 Phát thanh viên hạng I
+093.V11.10.28 Phát thanh viên hạng II
+093.V11.10.29 Phát thanh viên hạng III
+093.V11.10.30 Phát thanh viên hạng IV
+093.V11.11.31 Kỹ thuật dựng phim hạng I
+093.V11.11.32 Kỹ thuật dựng phim hạng II
+093.V11.11.33 Kỹ thuật dựng phim hạng III
+093.V11.11.34 Kỹ thuật dựng phim hạng IV
+093.V11.12.35 Quay phim hạng I
+093.V11.12.36 Quay phim hạng II
+093.V11.12.37 Quay phim hạng III
+093.V11.12.38 Quay phim hạng IV
+093.00000001 Khác

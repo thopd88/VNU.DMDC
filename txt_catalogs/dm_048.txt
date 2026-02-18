@@ -1,0 +1,4 @@
+48. Danh mục thẩm quyền quyết định
+Mã Tên
+048.00000001 Bộ quyết định
+048.00000002 Trường công nhận

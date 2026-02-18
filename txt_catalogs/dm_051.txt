@@ -1,0 +1,14 @@
+51. Danh mục ngoại ngữ
+Mã Tên
+051.00000060 Tiếng Việt
+051.00000052 Tiếng Anh
+051.00000051 Tiếng Đức
+051.00000056 Tiếng Hàn Quốc
+051.00000058 Tiếng Nga
+051.00000055 Tiếng Nhật
+051.00000053 Tiếng Pháp
+051.00000059 Tiếng Tây Ban Nha
+051.00000050 Tiếng Trung Quốc
+051.00000054 Tiếng Ý
+051.00000061 Chưa xác định
+051.00000057 Ngoại ngữ khác

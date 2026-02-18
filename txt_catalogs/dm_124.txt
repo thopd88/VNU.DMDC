@@ -1,0 +1,7 @@
+124. Danh mục loại phòng học
+Mã Tên
+124.00000001 Phòng học máy tính
+124.00000002 Phòng học ngoại ngữ
+124.00000003 Phòng học nhạc, họa
+124.00000004 Phòng học đa năng
+124.00000005 Phòng học khác

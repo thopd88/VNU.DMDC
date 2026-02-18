@@ -1,0 +1,18 @@
+17. Danh mục hình thức đào tạo
+Mã Tên
+017.00000050 Chính quy
+017.00000052 Vừa làm vừa học
+017.00000051 Đào tạo từ xa
+017.00000064 Tập trung
+017.00000059 Không tập trung
+017.00000053 Bổ túc văn hóa
+017.00000054 Bồi dưỡng
+017.00000056 Chuyển đổi
+017.00000057 Chuyên tu
+017.00000060 Liên kết
+017.00000061 Liên thông
+017.00000062 Mở rộng
+017.00000063 Tại chức
+017.00000065 Văn bằng 2
+017.00000058 Khác
+017.00000055 Chưa xác định

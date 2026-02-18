@@ -1,0 +1,20 @@
+34. Danh mục loại chương trình đào tạo
+Mã Tên
+034.00000023 Chương trình cao đẳng sư phạm đại trà
+034.00000017 Chương trình chất lượng cao (do CSĐT tự xác định) cho các trình độ của GD-ĐH, cao đẳng sư phạm
+034.00000002 Chương trình chất lượng cao (Thông tư 23)
+034.00000003 Chương trình tiên tiến
+034.00000042 Chương trình đào tạo tài năng
+034.00000001 Chương trình đào tạo đại học đại trà
+034.00000024 Chương trình đào tạo VLVH
+034.00000031 Chương trình ĐTTX
+034.00000007 Chương trình dự bị đại học
+034.00000004 Chương trình kỹ sư chất lượng cao PFIEV
+034.00000015 Chương trình LKĐTNN do cơ sở đào tạo nước ngoài cấp bằng
+034.00000016 Chương trình LKĐTNN do cơ sở đào tạo nước ngoài và trong nước cùng cấp bằng
+034.00000014 Chương trình LKĐTNN do cơ sở đào tạo trong nước cấp bằng
+034.00000005 Chương trình POHE
+034.00000038 Chương trình thạc sĩ định hướng nghiên cứu
+034.00000037 Chương trình thạc sĩ định hướng ứng dụng
+034.00000039 Chương trình tiến sĩ
+034.00000041 Khác

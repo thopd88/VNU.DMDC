@@ -1,0 +1,11 @@
+39. Danh mục loại tài sản trí tuệ
+Mã Tên
+039.00000050 Sáng chế
+039.00000051 Giải pháp hữu ích
+039.00000052 Giống cây trồng
+039.00000053 Giống vật nuôi
+039.00000054 Chỉ dẫn địa lý
+039.00000055 Kiểu dáng công nghiệp
+039.00000056 Nhãn hiệu hàng hóa
+039.00000057 Bản quyền tác giả
+039.00000058 Khác

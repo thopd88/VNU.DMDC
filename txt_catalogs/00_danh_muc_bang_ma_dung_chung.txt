@@ -1,0 +1,155 @@
+III. Danh mục bảng mã dùng chung
+STT Mã danh mục Tên danh mục dùng chung Ký hiệu danh mục
+1 083 Danh mục bậc lương BAC-LUONG
+2 092 Danh mục cấp hội nghị CAP-HOI-NGHI
+3 001 Danh mục cấp khen thưởng CAP-KHEN-THUONG
+4 082 Danh mục cấp nhiệm vụ KHCN CAP-NHIEM-VU-KHCN
+5 143 Danh mục cây tổ chức ĐHQGHN CAY-TO-CHUC-DHQGHN
+6 002 Danh mục chủ sở hữu CHU-SO-HUU
+7 003 Danh mục chức danh giảng viên CHUC-DANH-GIANG-VIEN
+8 005 Danh mục chức danh hội đồng/ban CHUC-DANH-HOI-DONG-BAN
+9 025 Danh mục chức danh khoa học CHUC-DANH-KHOA-HOC
+10 004 Danh mục chức danh nghề nghiệp viên chức giảng dạy trong cơ sở giáo dục đại học công lập CHUC-DANH-NGHE-NGHIEP-VIEN-CHUC-GIANG-DAY-TRONG-CO-SO-GIAO-DUC-DAI-HOC-CONG-LAP
+11 006 Danh mục chức danh nghiên cứu khoa học CHUC-DANH-NGHIEN-CUU-KHOA-HOC
+12 007 Danh mục chức vụ CHUC-VU
+13 145 Danh mục cơ quan chủ quản CO-QUAN-CHU-QUAN
+14 008 Danh mục dân tộc DAN-TOC
+15 131 Danh mục dạng tài liệu DANG-TAI-LIEU
+16 085 Danh mục đánh giá công chức, viên chức DANH-GIA-CONG-CHUC-VIEN-CHUC
+17 144 Danh mục đánh giá kết quả nhiệm vụ KHCN DANH-GIA-KET-QUA-NHIEM-VU-KHCN
+18 009 Danh mục danh hiệu thi đua DANH-HIEU-THI-DUA
+19 033 Danh mục danh hiệu vinh dự và giải thưởng nhà nước DANH-HIEU-VINH-DU-GIAI-THUONG
+20 012 Danh mục đối tượng chính sách DOI-TUONG-CHINH-SACH
+21 011 Danh mục đối tượng tuyển sinh đầu vào DOI-TUONG-TUYEN-SINH-DAU-VAO
+22 140 Danh mục đối tượng ưu tiên DOI-TUONG-UU-TIEN
+23 013 Danh mục đơn vị cấp bằng DON-VI-CAP-BANG
+24 087 Danh mục gia đình chính sách GIA-DINH-CHINH-SACH
+25 014 Danh mục giới tính GIOI-TINH
+26 086 Danh mục hạng thương binh HANG-THUONG-BINH
+27 084 Danh mục hệ số lương HE-SO-LUONG
+28 015 Danh mục hình thức bổ nhiệm HINH-THUC-BO-NHIEM
+29 016 Danh mục hình thức chuyển giao công nghệ HINH-THUC-CHUYEN-GIAO-CONG-NGHE
+30 017 Danh mục hình thức đào tạo HINH-THUC-DAO-TAO
+31 109 Danh mục hình thức doanh nghiệp KHCN HINH-THUC-DOANH-NGHIEP-KHCN
+32 019 Danh mục hình thức hợp tác quốc tế HINH-THUC-HOP-TAC-QUOC-TE
+33 020 Danh mục hình thức khen thưởng HINH-THUC-KHEN-THUONG
+34 128 Danh mục hình thức kỷ luật HINH-THUC-KY-LUAT
+35 021 Danh mục hình thức sở hữu HINH-THUC-SO-HUU
+36 113 Danh mục hình thức sử dụng đất HINH-THUC-SU-DUNG-DAT
+37 094 Danh mục hình thức tham gia của giảng viên được cử đi đào tạo HINH-THUC-THAM-GIA-GIANG-VIEN-CU-DI-DAO-TAO
+38 022 Danh mục hình thức thành lập HINH-THUC-THANH-LAP
+39 023 Danh mục hình thức tuyển dụng HINH-THUC-TUYEN-DUNG
+40 138 Danh mục hình thức tuyển sinh HINH-THUC-TUYEN-SINH
+41 024 Danh mục học chế đào tạo HOC-CHE-DAO-TAO
+42 027 Danh mục kết quả kiểm định KET-QUA-KIEM-DINH
+43 028 Danh mục khối ngành KHOI-NGANH
+44 029 Danh mục khu vực KHU-VUC
+45 139 Danh mục khu vực tuyển sinh KHU-VUC-TUYEN-SINH
+46 030 Danh mục khung năng lực ngoại ngữ KHUNG-NANG-LUC-NGOAI-NGU
+47 077 Danh mục lĩnh vực đào tạo LINH-VUC-DAO-TAO
+48 031 Danh mục lĩnh vực đề tài LINH-VUC-DE-TAI
+49 035 Danh mục lĩnh vực nghiên cứu LINH-VUC-NGHIEN-CUU
+50 103 Danh mục loại bồi dưỡng LOAI-BOI-DUONG
+51 034 Danh mục loại chương trình đào tạo LOAI-CHUONG-TRINH-DAO-TAO
+52 036 Danh mục loại chương trình liên kết đào tạo LOAI-CHUONG-TRINH-LIEN-KET-DAO-TAO
+53 141 Danh mục loại cơ sở đào tạo LOAI-CO-SO-DAO-TAO
+54 037 Danh mục loại công trình khác LOAI-CONG-TRINH-KHAC
+55 010 Danh mục loại đầu mối liên hệ LOAI-DAU-MOI-LIEN-HE
+56 038 Danh mục loại đề tài khoa học LOAI-DE-TAI-KHOA-HOC
+57 151 Danh mục loại giải thưởng LOAI-GIAI-THUONG
+58 108 Danh mục loại giải thưởng KHCN LOAI-GIAI-THUONG-KHCN
+59 040 Danh mục loại giảng viên quốc phòng an ninh LOAI-GIANG-VIEN-QPAN
+60 041 Danh mục loại hình đào tạo LOAI-HINH-DAO-TAO
+61 042 Danh mục loại hình trường LOAI-HINH-TRUONG
+62 090 Danh mục loại học bổng LOAI-HOC-BONG
+63 147 Danh mục loại hội đồng LOAI-HOI-DONG
+64 018 Danh mục loại hợp đồng LOAI-HOP-DONG
+65 118 Danh mục loại khen thưởng LOAI-KHEN-THUONG
+66 043 Danh mục loại khuyết tật LOAI-KHUYET-TAT
+67 044 Danh mục loại kỷ luật LOAI-KY-LUAT
+68 150 Danh mục loại kỷ yếu LOAI-KY-YEU
+69 116 Danh mục loại liên kết cơ sở đào tạo LOAI-LIEN-KET-CO-SO-DAO-TAO
+70 045 Danh mục loại lưu học sinh LOAI-LUU-HOC-SINH
+71 107 Danh mục loại nhiệm vụ BVMT LOAI-NHIEM-VU-BVMT
+72 091 Danh mục loại phòng ban, đơn vị LOAI-PHONG-BAN-DON-VI
+73 124 Danh mục loại phòng học LOAI-PHONG-HOC
+74 047 Danh mục loại phòng thí nghiệm LOAI-PHONG-THI-NGHIEM
+75 146 Danh mục loại quyết định LOAI-QUYET-DINH
+76 126 Danh mục loại quyết định cấp phép chương trình đào tạo LOAI-QUYET-DINH-CAP-PHEP-CHUONG-TRINH-DAO-TAO
+77 032 Danh mục loại sách/tạp chí LOAI-SACH-TAP-CHI
+78 039 Danh mục loại tài sản trí tuệ LOAI-TAI-SAN-TRI-TUE
+79 064 Danh mục loại tốt nghiệp LOAI-TOT-NGHIEP
+80 142 Danh mục loại văn bản triển khai quyền tự chủ theo luật GDĐH LOAI-VAN-BAN-TRIEN-KHAI-QUYEN-TU-CHU-THEO-LUAT-GDDH
+81 093 Danh mục mã ngạch/chức danh nghề nghiệp MA-NGACH-CHUC-DANH-NGHE-NGHIEP
+82 097 Danh mục mục đích sử dụng CSVC MUC-DICH-SU-DUNG-CSVC
+83 112 Danh mục mục đích sử dụng đất đai MUC-DICH-SU-DUNG-DAT-DAI
+84 098 Danh mục mức giải thưởng MUC-GIAI-THUONG
+85 046 Danh mục mục tiêu, nhiệm vụ KHCN MUC-TIEU-NHIEM-VU-KHCN
+86 050 Danh mục ngành kinh tế NGANH-KINH-TE
+87 049 Danh mục ngành/ chuyên ngành/ chuyên môn được đào tạo NGANH-CHUYEN-NGANH-CHUYEN-MON-DAO-TAO
+88 051 Danh mục ngoại ngữ NGOAI-NGU
+89 127 Danh mục người học năm NGUOI-HOC-NAM
+90 052 Danh mục nguồn kinh phí NGUON-KINH-PHI
+91 149 Danh mục nguồn kinh phí KHCN NGUON-KINH-PHI-KHCN
+92 079 Danh mục nguồn kinh phí cho đề án/dự án/chương trình NGUON-KINH-PHI-DE-AN-DU-AN-CHUONG-TRINH
+93 096 Danh mục nguồn kinh phí cho giảng viên được cử đi đào tạo NGUON-KINH-PHI-GIANG-VIEN-CU-DI-DAO-TAO
+94 078 Danh mục nguồn kinh phí cho lưu học sinh, sinh viên nước ngoài NGUON-KINH-PHI-LUU-HSSV-NUOC-NGOAI
+95 148 Danh mục nguồn kinh phí đặt tại NGUON-KINH-PHI-DAT-TAI
+96 053 Danh mục nguồn vốn đầu tư NGUON-VON-DAU-TU
+97 054 Danh mục nhóm ngành NHOM-NGANH
+98 080 Danh mục nội dung hoạt động tại Việt Nam NOI-DUNG-HOAT-DONG-VIET-NAM
+99 132 Danh mục phân loại bài báo PHAN-LOAI-BAI-BAO
+100 055 Danh mục phân loại cơ sở PHAN-LOAI-CO-SO
+101 130 Danh mục phân loại đoàn công tác PHAN-LOAI-DOAN-CONG-TAC
+102 133 Danh mục phân loại đối tượng tham gia nghiên cứu khoa học PHAN-LOAI-DOI-TUONG-THAM-GIA-NCKH
+103 125 Danh mục phân loại dự án, chương trình PHAN-LOAI-DU-AN-CHUONG-TRINH
+104 120 Danh mục phân loại giảng viên đào tạo QPAN PHAN-LOAI-GIANG-VIEN-DAO-TAO-QPAN
+105 136 Danh mục phân loại hoạt động tài chính PHAN-LOAI-HOAT-DONG-TAI-CHINH
+106 121 Danh mục phân loại người học PHAN-LOAI-NGUOI-HOC
+107 104 Danh mục phân loại nhiệm vụ KHCN PHAN-LOAI-NHIEM-VU-KHCN
+108 123 Danh mục phân loại phòng học giảng đường hội trường PHAN-LOAI-PHONG-HOC-GIANG-DUONG-HOI-TRUONG
+109 137 Danh mục phân loại thu chi PHAN-LOAI-THU-CHI
+110 129 Danh mục phân loại tổ chức hợp tác doanh nghiệp PHAN-LOAI-TO-CHUC-HOP-TAC-DOANH-NGHIEP
+111 056 Danh mục phương thức khen thưởng PHUONG-THUC-KHEN-THUONG
+112 102 Danh mục quân hàm QUAN-HAM
+113 026 Danh mục quận/huyện cũ QUAN-HUYEN-CU
+114 081 Danh mục quốc gia/ quốc tịch/ nước QUOC-GIA-QUOC-TICH-NUOC
+115 152 Danh mục sản phẩm đề tài SAN-PHAM-DE-TAI
+116 057 Danh mục tạp chí khoa học quốc tế TAP-CHI-KHOA-HOC-QUOC-TE
+117 048 Danh mục thẩm quyền quyết định THAM-QUYEN-QUYET-DINH
+118 100 Danh mục thành viên nhóm nghiên cứu mạnh THANH-VIEN-NHOM-NGHIEN-CUU-MANH
+119 088 Danh mục tiếng dân tộc TIENG-DAN-TOC
+120 060 Danh mục tình trạng CSVC TINH-TRANG-CSVC
+121 095 Danh mục tình trạng giảng viên được cử đi đào tạo TINH-TRANG-GIANG-VIEN-CU-DI-DAO-TAO
+122 068 Danh mục tình trạng hợp đồng TINH-TRANG-HOP-DONG
+123 101 Danh mục tình trạng nhiệm vụ KHCN TINH-TRANG-NHIEM-VU-KHCN
+124 122 Danh mục tình trạng sử dụng công trình cơ sở vật chất TINH-TRANG-SU-DUNG-CONG-TRINH-CSVC
+125 099 Danh mục tình trạng thiết bị TINH-TRANG-THIET-BI
+126 089 Danh mục tình trạng việc làm TINH-TRANG-VIEC-LAM
+127 059 Danh mục Tỉnh/Thành phố cũ TINH-TP-CU
+128 058 Danh mục Tỉnh/Thành phố mới TINH-TP-MOI
+129 062 Danh mục tổ chức kiểm định TO-CHUC-KIEM-DINH
+130 063 Danh mục tôn giáo TON-GIAO
+131 065 Danh mục trạng thái cán bộ/trạng thái làm việc TRANG-THAI-CAN-BO-TRANG-THAI-LAM-VIEC
+132 115 Danh mục trạng thái cơ sở giáo dục TRANG-THAI-CO-SO-GIAO-DUC
+133 066 Danh mục trạng thái của chương trình đào tạo TRANG-THAI-CHUONG-TRINH-DAO-TAO
+134 067 Danh mục trạng thái học viên/trạng thái học TRANG-THAI-HOC-VIEN-TRANG-THAI-HOC
+135 117 Danh mục trạng thái hội đồng/ ban giám hiệu TRANG-THAI-HOI-DONG-BAN-GIAM-HIEU
+136 134 Danh mục trạng thái ngành đào tạo TRANG-THAI-NGANH-DAO-TAO
+137 114 Danh mục trạng thái phòng ban TRANG-THAI-PHONG-BAN
+138 135 Danh mục trạng thái tài sản TRANG-THAI-TAI-SAN
+139 119 Danh mục trạng thái văn bản triển khai quyền tự chủ theo luật GDĐH TRANG-THAI-VAN-BAN-TRIEN-KHAI-QUYEN-TU-CHU-THEO-LUAT-GDDH
+140 061 Danh mục trạng thái/tình trạng thực hiện TRANG-THAI-TINH-TRANG-THUC-HIEN
+141 070 Danh mục trình độ đào tạo TRINH-DO-DAO-TAO
+142 069 Danh mục trình độ đào tạo (Đầu ra) TRINH-DO-DAO-TAO-DAU-RA
+143 071 Danh mục trình độ lý luận chính trị TRINH-DO-LY-LUAN-CHINH-TRI
+144 072 Danh mục trình độ quản lý nhà nước TRINH-DO-QUAN-LY-NHA-NUOC
+145 073 Danh mục trình độ tin học TRINH-DO-TIN-HOC
+146 074 Danh mục vai trò liên quan đến cán bộ tham gia NCKH VAI-TRO-LIEN-QUAN-CAN-BO-THAM-GIA-NCKH
+147 110 Danh mục vai trò tham gia công tác VAI-TRO-THAM-GIA-CONG-TAC
+148 075 Danh mục vai trò trong bài báo VAI-TRO-TRONG-BAI-BAO
+149 111 Danh mục vị trí làm việc VI-TRI-LAM-VIEC
+150 076 Danh mục xã, phường XA-PHUONG
+151 153 Danh mục xã, phường cũ XA-PHUONG-CU
+152 106 Danh mục xếp hạng Q XEP-HANG-Q
+153 105 Danh mục xếp hạng tạp chí XEP-HANG-TAP-CHI

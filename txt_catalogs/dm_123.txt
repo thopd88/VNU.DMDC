@@ -1,0 +1,6 @@
+123. Danh mục phân loại phòng học giảng đường hội trường
+Mã Tên
+123.00000001 Phòng học
+123.00000002 Giảng đường
+123.00000003 Hội trường có bàn viết
+123.00000004 Hội trường không bàn viết

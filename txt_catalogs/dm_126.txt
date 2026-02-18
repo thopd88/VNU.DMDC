@@ -1,0 +1,5 @@
+126. Danh mục loại quyết định cấp phép chương trình đào tạo
+Mã Tên
+126.00000001 Quyết định phê duyệt cấp phép chương trình
+126.00000002 Quyết định cho phép đào tạo từ xa
+126.00000003 Quyết định cho phép đào tạo liên thông

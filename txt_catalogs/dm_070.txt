@@ -1,0 +1,16 @@
+70. Danh mục trình độ đào tạo
+Mã Tên
+070.00000055 Tiến sĩ
+070.00000056 Tiến sĩ khoa học
+070.00000054 Thạc sĩ
+070.00000053 Đại học
+070.00000052 Cao đẳng
+070.00000051 Trung cấp
+070.00000050 Sơ cấp I
+070.00000057 Sơ cấp II
+070.00000058 Sơ cấp III
+070.00000059 Chuyên khoa cấp I
+070.00000060 Chuyên khoa cấp II
+070.00000061 Bác sĩ nội trú
+070.00000062 Không có chuyên môn giảng dạy
+070.00000063 Chưa xác định

@@ -1,0 +1,6 @@
+138. Danh mục hình thức tuyển sinh
+Mã Tên
+138.00000004 Tuyển thẳng
+138.00000001 Tuyển sinh xét theo kết quả thi THPT
+138.00000002 Tuyển sinh xét theo học bạ
+138.00000003 Tuyển sinh theo hình thức khác

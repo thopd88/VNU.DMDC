@@ -1,0 +1,14 @@
+127. Danh mục người học năm
+Mã Tên
+127.00000001 Trình độ năm nhất
+127.00000002 Trình độ năm hai
+127.00000003 Trình độ năm ba
+127.00000004 Trình độ năm tư
+127.00000005 Trình độ năm năm
+127.00000006 Trình độ năm sáu
+127.00000007 Trình độ năm bảy
+127.00000008 Trình độ năm tám
+127.00000009 Trình độ năm chín
+127.00000010 Trình độ năm mười
+127.00000011 Trình độ năm mười một
+127.00000012 Trình độ năm mười hai

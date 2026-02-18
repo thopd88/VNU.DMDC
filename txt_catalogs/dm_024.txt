@@ -1,0 +1,5 @@
+24. Danh mục học chế đào tạo
+Mã Tên
+024.00000001 Niên chế
+024.00000002 Tín chỉ
+024.00000003 Kết hợp tín chỉ và niên chế

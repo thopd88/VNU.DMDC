@@ -1,0 +1,6 @@
+115. Danh mục trạng thái cơ sở giáo dục
+Mã Tên
+115.00000001 Đang hoạt động
+115.00000002 Dừng hoạt động
+115.00000003 Giải thể
+115.00000004 Chấm dứt hoạt động

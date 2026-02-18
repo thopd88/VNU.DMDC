@@ -1,0 +1,5 @@
+135. Danh mục trạng thái tài sản
+Mã Tên
+135.00000001 Đang sử dụng
+135.00000002 Dừng sử dụng
+135.00000003 Thanh lý

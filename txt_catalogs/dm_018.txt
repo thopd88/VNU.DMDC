@@ -1,0 +1,46 @@
+18. Danh mục loại hợp đồng
+Mã Tên
+018.00000050 HĐLĐ không xác định thời hạn
+018.00000051 HĐLĐ xác định thời hạn
+018.00000052 Hợp đồng thỉnh giảng
+018.00000053 Hợp đồng theo nghị định 68
+018.00000054 Biên chế
+018.00000056 Công chức
+018.00000057 Công chức dự bị
+018.00000058 Công chức tập sự
+018.00000059 Công chức tuyển dụng chính thức
+018.00000060 Hợp đồng dài hạn
+018.00000061 Hợp đồng làm việc đặc biệt
+018.00000062 Hợp đồng làm việc không xác định thời hạn
+018.00000063 Hợp đồng làm việc lần đầu
+018.00000064 Hợp đồng làm việc xác định thời hạn 12 tháng
+018.00000065 Hợp đồng làm việc xác định thời hạn 36 tháng
+018.00000066 Hợp đồng làm việc xác định thời hạn 36 tháng lần 1
+018.00000067 Hợp đồng làm việc xác định thời hạn 36 tháng lần 2
+018.00000068 Hợp đồng làm việc xác định thời hạn 36 tháng lần 3
+018.00000069 Hợp đồng lao động cộng tác viên 12 tháng lần 1
+018.00000070 Hợp đồng lao động dài hạn 18 tháng
+018.00000071 Hợp đồng lao động không xác định thời hạn theo QĐ 384
+018.00000072 Hợp đồng lao động không xác định thời hạn theo QĐ 396
+018.00000073 Hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 12 tháng
+018.00000074 Hợp đồng lao động theo Nghị định 161
+018.00000075 Hợp đồng lao động xác định 12 tháng theo QĐ 1541 lần 2 (gia hạn)
+018.00000076 Hợp đồng lao động xác định thời hạn 12 tháng
+018.00000077 Hợp đồng lao động xác định thời hạn 12 tháng theo NĐ 68
+018.00000078 Hợp đồng lao động xác định thời hạn 12 tháng theo QĐ 1541
+018.00000079 Hợp đồng lao động xác định thời hạn 12 tháng theo QĐ 1541 lần 1
+018.00000080 Hợp đồng lao động xác định thời hạn 12 tháng theo QĐ 1541 lần 2
+018.00000081 Hợp đồng lao động xác định thời hạn 12 tháng theo QĐ 384
+018.00000082 Hợp đồng lao động xác định thời hạn 12 tháng theo QĐ 396
+018.00000083 Hợp đồng lao động xác định thời hạn 36 tháng
+018.00000084 Hợp đồng lao động xác định thời hạn 36 tháng theo NĐ 68
+018.00000085 Hợp đồng lao động xác định thời hạn 36 tháng theo QĐ 384
+018.00000086 Hợp đồng lao động xác định thời hạn 36 tháng theo QĐ 396
+018.00000087 Hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng
+018.00000088 Hợp đồng ngắn hạn
+018.00000089 Hợp đồng thử việc
+018.00000090 Phụ lục gia hạn HĐ
+018.00000091 Thôi, chấm dứt hợp đồng
+018.00000093 Viên chức
+018.00000092 Vị trí tuyển dụng khác
+018.00000055 Chưa xác định

@@ -1,0 +1,5 @@
+116. Danh mục loại cơ sở giáo dục liên kết đào tạo
+Mã Tên
+116.00000001 Liên kết đào tạo GDQPAN
+116.00000002 Liên kết đào tạo HTQT
+116.00000003 Liên kết đào tạo NCKH

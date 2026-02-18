@@ -1,0 +1,18 @@
+65. Danh mục trạng thái cán bộ/trạng thái làm việc
+Mã Tên
+065.00000050 Đang làm việc
+065.00000051 Đã chuyển đi
+065.00000052 Luân chuyển/Điều động
+065.00000053 Chờ nghỉ hưu
+065.00000054 Đã nghỉ hưu
+065.00000055 Đã biệt phái
+065.00000056 Chuyển đến
+065.00000057 Thôi việc
+065.00000058 Đang đi học
+065.00000060 Tạm nghỉ
+065.00000061 Đã mất
+065.00000062 Kỷ luật buộc thôi việc
+065.00000063 Nghỉ kết thúc hợp đồng
+065.00000064 Nghỉ theo nguyện vọng
+065.00000065 Tinh giản biên chế
+065.00000059 Khác

@@ -1,0 +1,5 @@
+122. Danh mục tình trạng sử dụng công trình cơ sở vật chất
+Mã Tên
+122.00000001 Đang sử dụng
+122.00000000 Ngừng sử dụng
+122.00000002 Không sử dụng

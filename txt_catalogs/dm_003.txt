@@ -1,0 +1,7 @@
+3. Danh mục chức danh giảng viên
+Mã Tên
+003.00000001 Giáo sư
+003.00000002 Phó giáo sư
+003.00000003 Giảng viên chính
+003.00000004 Giảng viên
+003.00000005 Trợ giảng

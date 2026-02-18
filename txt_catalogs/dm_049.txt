@@ -1,0 +1,2082 @@
+49. Danh mục ngành/ chuyên ngành/ chuyên môn được đào tạo
+Mã Tên
+049.7310205-02 Quản lý tài chính công
+049.7310201-01 Chính sách công
+049.7310205-01 Quản lý nhà nước về kinh tế
+049.7380101-01 Thanh tra
+049.HTC1207 Kế toán - Kiểm soát - Kiểm toán
+049.HTC737 Tài chính doanh nghiệp và và kiểm soát quản trị
+049.HTC753 Bảo hiểm - Ngân hàng - Tài chính
+049.00073102 Khoa học chính trị
+049.00073403 Kế toán - Kiểm toán
+049.00075802 Xây dựng
+049.00077201 Y học
+049.05210201 Nghệ thuật biểu diễn ca kịch Huế
+049.05210202 Nghệ thuật biểu diễn dân ca
+049.05210203 Nghệ thuật biểu diễn chèo
+049.05210204 Nghệ thuật biểu diễn tuồng
+049.05210205 Nghệ thuật biểu diễn cải lương
+049.05210206 Nghệ thuật biểu diễn kịch múa
+049.05210207 Nghệ thuật biểu diễn múa dân gian dân tộc
+049.05210208 Nghệ thuật biểu diễn xiếc
+049.05210209 Nghệ thuật biểu diễn dân ca quan họ
+049.05210210 Nghệ thuật biểu diễn kịch nói
+049.05210218 Đờn ca nhạc tài tử Nam Bộ
+049.05210219 Nhạc công kịch hát dân tộc
+049.05210220 Nhạc công truyền thống Huế
+049.05210223 Violon
+049.05210224 Organ
+049.05210226 Lý thuyết âm nhạc
+049.05210228 Chỉ huy hợp xướng
+049.05210229 Biên tập và dàn dựng ca, múa, nhạc
+049.05210236 Văn hóa, văn nghệ quần chúng
+049.05210237 Tổ chức sự kiện
+049.05210412 Sơn mài
+049.05210415 Thêu ren mỹ thuật
+049.05210416 Sản xuất hàng mây tre đan
+049.05210417 Sản xuất tranh
+049.05210421 Thiết kế đồ gỗ
+049.05210422 Mộc mỹ nghệ
+049.05220106 Ngôn ngữ Jrai
+049.05220107 Ngôn ngữ Khmer
+049.05220207 Tiếng Nga
+049.05220210 Tiếng Đức
+049.05320103 Phóng viên, biên tập
+049.05320104 Công nghệ phát thanh - truyền hình
+049.05320203 Thư viện - Thiết bị trường học
+049.05320204 Thông tin đối ngoại
+049.05320302 Văn thư - Lưu trữ
+049.05320303 Lưu trữ và quản lý thông tin
+049.05320310 Bảo tồn và khai thác di tích, di sản lịch sử - văn hóa
+049.05320403 Quản lý xuất bản phẩm
+049.05340101 Kinh doanh thương mại và dịch vụ
+049.05340102 Kinh doanh xuất nhập khẩu
+049.05340103 Kinh doanh ngân hàng
+049.05340104 Kinh doanh bưu chính viễn thông
+049.05340105 Kinh doanh xăng dầu và khí đốt
+049.05340107 Kinh doanh vật liệu xây dựng
+049.05340108 Kinh doanh bất động sản
+049.05340109 Kinh doanh vận tải đường thủy
+049.05340110 Kinh doanh vận tải đường bộ
+049.05340111 Kinh doanh vận tải đường sắt
+049.05340112 Kinh doanh vận tải hàng không
+049.05340128 Quản lý doanh nghiệp
+049.05340129 Quản lý và kinh doanh du lịch
+049.05340130 Quản lý và kinh doanh khách sạn
+049.05340131 Quản lý và kinh doanh nhà hàng và dịch vụ ăn uống
+049.05340132 Quản lý và bán hàng siêu thị
+049.05340133 Quản lý kho hàng
+049.05340138 Nghiệp vụ bán hàng
+049.05340139 Bán hàng trong siêu thị
+049.05340142 Kế hoạch đầu tư
+049.05340306 Kế toán tin học
+049.05340307 Kế toán hành chính sự nghiệp
+049.05340308 Kế toán hợp tác xã
+049.05340309 Kế toán xây dựng
+049.05340407 Quản lý công trình đô thị
+049.05340415 Quản lý lao động tiền lương và bảo trợ xã hội
+049.05340416 Quản lý thiết bị trường học
+049.05440206 Khí tượng
+049.05480211 Quản trị hệ thống
+049.05480212 Lập trình/Phân tích hệ thống
+049.05480213 Vẽ thiết kế mỹ thuật có trợ giúp bằng máy tính
+049.05480218 Thiết kế và quản lý Website
+049.05510102 Công nghệ kỹ thuật công trình giao thông
+049.05510106 Công nghệ kỹ thuật nội thất và điện nước công trình
+049.05510107 Công trình thủy lợi
+049.05510114 Xây dựng công trình thủy điện
+049.05510115 Xây dựng công trình mỏ
+049.05510120 Thí nghiệm và kiểm tra chất lượng công trình xây dựng
+049.05510202 Công nghệ kỹ thuật ô tô - máy kéo
+049.05510205 Công nghệ kỹ thuật vỏ tàu thủy
+049.05510206 Công nghệ kỹ thuật máy nông - lâm nghiệp
+049.05510207 Công nghệ kỹ thuật máy và thiết bị hóa chất
+049.05510208 Công nghệ kỹ thuật thủy lực
+049.05510209 Công nghệ kỹ thuật kết cấu thép
+049.05510210 Công nghệ kỹ thuật đo lường
+049.05510212 Công nghệ chế tạo dụng cụ
+049.05510217 Công nghệ hàn
+049.05510301 Nhiệt điện
+049.05510302 Thủy điện
+049.05510305 Công nghệ kỹ thuật điều khiển tự động
+049.05510306 Công nghệ kỹ thuật chiếu sáng đô thị
+049.05510307 Công nghệ kỹ thuật điện tàu thủy
+049.05510308 Công nghệ kỹ thuật điện đầu máy và toa xe
+049.05510309 Công nghệ kỹ thuật điện máy bay
+049.05510310 Công nghệ kỹ thuật điện máy mỏ
+049.05510311 Công nghệ kỹ thuật thiết bị y tế
+049.05510402 Công nghệ hóa hữu cơ
+049.05510403 Công nghệ hóa vô cơ
+049.05510405 Công nghệ hóa nhựa
+049.05510407 Công nghệ hóa Silicat
+049.05510408 Công nghệ điện hóa
+049.05510411 Công nghệ sơn
+049.05510413 Công nghệ sơn điện di
+049.05510414 Công nghệ sơn ô tô
+049.05510416 Công nghệ kỹ thuật vật liệu
+049.05510420 Công nghệ gia công kim loại
+049.05510515 Sản xuất bao bì xi măng
+049.05510516 Sản xuất gạch Ceramic
+049.05510517 Sản xuất gạch Granit
+049.05510518 Sản xuất đá bằng cơ giới
+049.05510519 Sản xuất vật liệu chịu lửa
+049.05510520 Sản xuất vật liệu phụ trợ dùng trong đóng tàu
+049.05510521 Sản xuất bê tông nhựa nóng
+049.05510535 Sản xuất tấm lợp Fibro xi măng
+049.05510601 Quản lý sản xuất công nghiệp
+049.05510602 Công nghệ quản lý chất lượng
+049.05510701 Công nghệ kỹ thuật hóa dầu
+049.05510705 Kỹ thuật phân tích các sản phẩm hóa dầu và lọc dầu
+049.05510706 Kỹ thuật xăng dầu
+049.05510716 Vận hành trạm và đường ống dẫn dầu khí
+049.05510903 Địa chất công trình
+049.05510904 Địa chất thủy văn
+049.05510905 Địa chất thăm dò khoáng sản
+049.05510906 Địa chất dầu khí
+049.05510916 Biên chế bản đồ
+049.05510917 Hệ thống thông tin địa lý (GIS)
+049.05510918 Quản lý thông tin tư liệu địa chính
+049.05511003 Công nghệ hoàn thiện xuất bản phẩm
+049.05511005 Kỹ thuật khai thác mỏ lộ thiên
+049.05520115 Cơ khí động lực
+049.05520116 Cơ khí hóa chất
+049.05520117 Cơ khí chế tạo
+049.05520118 Cơ - Điện mỏ
+049.05520119 Cơ - Điện tuyển khoáng
+049.05520120 Cơ - Điện nông nghiệp
+049.05520128 Sửa chữa, lắp ráp xe máy
+049.05520129 Sửa chữa, vận hành tàu cuốc
+049.05520148 Sửa chữa cơ khí động lực
+049.05520150 Bảo trì và sửa chữa thiết bị cơ điện
+049.05520152 Bảo trì và sửa chữa thiết bị cơ khí
+049.05520153 Bảo trì và sửa chữa thiết bị luyện kim
+049.05520157 Bảo trì và sửa chữa thiết bị nhiệt
+049.05520158 Bảo trì và sửa chữa máy công cụ
+049.05520159 Bảo trì và sửa chữa ô tô
+049.05520160 Bảo trì và sửa chữa khung, vỏ ô tô
+049.05520161 Bảo trì và sửa chữa thiết bị cơ giới hạng nặng
+049.05520162 Bảo trì và sửa chữa xe máy
+049.05520164 Bảo trì và sửa chữa đầu máy, toa xe
+049.05520165 Bảo trì và sửa chữa máy bay
+049.05520166 Bảo trì và sửa chữa máy tàu thủy
+049.05520167 Bảo trì và sửa chữa thiết bị vô tuyến vận tải
+049.05520168 Bảo trì và sửa chữa hệ thống kỹ thuật vô tuyến khí tượng
+049.05520169 Bảo trì và sửa chữa máy xây dựng và máy nâng chuyển
+049.05520170 Bảo trì và sửa chữa máy, thiết bị công nghiệp
+049.05520171 Bảo trì và sửa chữa máy nông lâm nghiệp
+049.05520172 Bảo trì và sửa chữa thiết bị chế biến lương thực, thực phẩm
+049.05520173 Bảo trì và sửa chữa máy mỏ và thiết bị hầm lò
+049.05520174 Bảo trì và sửa chữa thiết bị sợi - dệt
+049.05520175 Bảo trì và sửa chữa thiết bị may
+049.05520176 Bảo trì và sửa chữa thiết bị hóa chất
+049.05520177 Bảo trì và sửa chữa thiết bị khoan dầu khí
+049.05520178 Bảo trì và sửa chữa thiết bị chế biến dầu khí
+049.05520179 Bảo trì và sửa chữa thiết bị sản xuất các sản phẩm da
+049.05520180 Bảo trì và sửa chữa thiết bị in
+049.05520181 Bảo trì và sửa chữa thiết bị y tế
+049.05520186 Vận hành máy đóng cọc và khoan cọc nhồi
+049.05520187 Vận hành máy nông nghiệp
+049.05520202 Kỹ thuật cơ điện sản xuất gốm, sứ, thủy tinh
+049.05520205 Kỹ thuật máy lạnh và điều hoà không khí
+049.05520215 Kỹ thuật thiết bị radar
+049.05520216 Kỹ thuật nguồn điện thông tin
+049.05520217 Kỹ thuật mạng ngoại vi và thiết bị đầu cuối
+049.05520222 Điện tử công nghiệp và dân dụng
+049.05520223 Điện công nghiệp và dân dụng
+049.05520230 Điện toa xe đường sắt
+049.05520236 Sửa chữa đồng hồ đo thời gian
+049.05520242 Xây lắp đường dây và trạm điện
+049.05520265 Hệ thống điện
+049.05520266 Quản lý và vận hành lưới điện
+049.05520303 Luyện kim đen
+049.05520306 Xử lý chất thải công nghiệp và y tế
+049.05520312 Cấp, thoát nước
+049.05529003 Kỹ thuật tua bin nước
+049.05529004 Kỹ thuật tua bin khí
+049.05529014 Lặn hướng dẫn tham quan, du lịch
+049.05540101 Công nghệ kỹ thuật chế biến và bảo quản lương thực
+049.05540107 Chế biến hạt điều
+049.05540108 Công nghệ kỹ thuật chế biến và bảo quản thực phẩm
+049.05540109 Chế biến sữa
+049.05540110 Sản xuất bột ngọt, gia vị
+049.05540111 Công nghệ kỹ thuật sản xuất đường, bánh kẹo
+049.05540113 Công nghệ kỹ thuật sản xuất muối
+049.05540114 Sản xuất muối từ nước biển
+049.05540115 Sản xuất muối công nghiệp
+049.05540116 Công nghệ kỹ thuật lên men
+049.05540120 Công nghệ kỹ thuật chế biến cồn, rượu, bia và nước giải khát
+049.05540121 Chế biến nước quả cô đặc
+049.05540122 Sản xuất đường glucoza
+049.05540123 Sản xuất đường mía
+049.05540127 Công nghệ kỹ thuật kiểm nghiệm chất lượng lương thực, thực phẩm
+049.05540128 Quản lý chất lượng lương thực, thực phẩm
+049.05540203 Công nghệ may và thời trang
+049.05540207 Thiết kế may đo áo dài
+049.05540208 Công nghệ giặt - là
+049.05540209 Công nghệ da giày và sản xuất các sản phẩm từ da
+049.05540210 Công nghệ kỹ thuật thuộc da
+049.05540301 Công nghệ kỹ thuật chế biến lâm sản
+049.05540302 Công nghệ kỹ thuật chế biến mủ cao su
+049.05540303 Công nghệ chế biến tinh dầu và hương liệu mỹ phẩm
+049.05580101 Thiết kế kiến trúc
+049.05580102 Họa viên kiến trúc
+049.05580103 Thiết kế cảnh quan, hoa viên
+049.05580202 Xây dựng dân dụng và công nghiệp
+049.05580203 Xây dựng cầu đường
+049.05580206 Bê tông
+049.05580207 Cốp pha - giàn giáo
+049.05580208 Cốt thép - hàn
+049.05580209 Nề - Hoàn thiện
+049.05580211 Mộc dân dụng
+049.05580212 Điện - nước
+049.05620101 Công nghệ kỹ thuật chế biến và bảo quản nông sản
+049.05620102 Công nghệ kỹ thuật chế biến sản phẩm cây nhiệt đới
+049.05620103 Công nghệ kỹ thuật chế biến và bảo quản sản phẩm cây công
+049.05620104 Công nghệ kỹ thuật chế biến và bảo quản sản phẩm cây ăn quả
+049.05620106 Sản xuất thức ăn chăn nuôi
+049.05620107 Nông vụ mía đường
+049.05620109 Trồng trọt
+049.05620110 Trồng trọt và bảo vệ thực vật
+049.05620112 Trồng rau
+049.05620119 Chăn nuôi - Thú y
+049.05620125 Thủy lợi tổng hợp
+049.05620126 Quản lý thủy nông
+049.05620127 Quản lý nông trại
+049.05620201 Lâm nghiệp
+049.05620306 Khai thác và bảo vệ nguồn lợi thủy sản
+049.05620307 Khai thác hàng hải thủy sản
+049.05620310 Khuyến ngư
+049.05640202 Dược thú y
+049.05720201 Y sỹ y học cổ truyền
+049.05720302 Y sỹ
+049.05720303 Y sỹ y học dự phòng
+049.05720304 Dân số y tế
+049.05720401 Dược sỹ trung cấp
+049.05760103 Công tác công đoàn
+049.05760104 Lao động - Xã hội
+049.05760201 Dịch vụ xã hội
+049.05760202 Chăm sóc và hỗ trợ gia đình
+049.05810101 Du lịch lữ hành
+049.05810102 Du lịch sinh thái
+049.05810108 Đặt giữ chỗ du lịch
+049.05810109 Đại lý lữ hành
+049.05810203 Nghiệp vụ lễ tân
+049.05810204 Nghiệp vụ lưu trú
+049.05810205 Nghiệp vụ nhà hàng, khách sạn
+049.05810206 Nghiệp vụ nhà hàng
+049.05810208 Kỹ thuật pha chế và phục vụ đồ uống
+049.05810301 Thể dục thể thao
+049.05810401 Dịch vụ thẩm mỹ
+049.05810402 Tạo mẫu và chăm sóc sắc đẹp
+049.05810403 Kỹ thuật chăm sóc tóc
+049.05840103 Khai thác cảng hàng không
+049.05840104 Khai thác vận tải đường biển
+049.05840105 Khai thác vận tải thủy nội địa
+049.05840106 Khai thác vận tải đường bộ
+049.05840107 Khai thác vận tải đường không
+049.05840108 Khai thác vận tải đường sắt
+049.05840113 Vận hành máy tàu thủy
+049.05840114 Dịch vụ trên tàu biển
+049.05840118 Đặt chỗ bán vé
+049.05840119 Dịch vụ trên tàu bay
+049.05840124 Điều khiển tàu hỏa
+049.05850101 Quản lý tài nguyên nước
+049.05850107 Quản lý tài nguyên biển và hải đảo
+049.05850108 Bảo tồn và phát triển đa dạng sinh học
+049.05850111 An toàn phóng xạ
+049.05850201 An toàn lao động
+049.05850202 Bảo hộ lao động và môi trường
+049.05860202 Đặc công
+049.05860205 Điệp báo chiến dịch
+049.05860207 Trinh sát
+049.05860208 Trinh sát biên phòng
+049.05860209 Trinh sát đặc nhiệm
+049.05860210 Trinh sát kỹ thuật
+049.05860211 Huấn luyện động vật nghiệp vụ
+049.05860212 Kỹ thuật mật mã quân sự
+049.05860213 Quân khí
+049.05860214 Vũ khí bộ binh
+049.05860215 Kỹ thuật cơ điện tăng thiết giáp
+049.05860216 Sử dụng và sửa chữa thiết bị vô tuyến phòng không
+049.05860217 Sửa chữa xe máy công binh
+049.05860218 Sửa chữa và khai thác khí tài hóa học
+049.05860219 Khí tài quang học
+049.05860220 Phân tích chất độc quân sự
+049.06140201 Giáo dục mầm non
+049.06140202 Giáo dục tiểu học
+049.06140203 Giáo dục đặc biệt
+049.06140204 GDCD
+049.06140206 Giáo dục thể chất
+049.06140207 Huấn luyện thể thao
+049.06140208 Giáo dục quốc phòng - an ninh
+049.06140209 Sư phạm Toán học
+049.06140210 Sư phạm Tin học
+049.06140211 Sư phạm Vật lý
+049.06140212 Sư phạm Hóa học
+049.06140213 Sư phạm Sinh học
+049.06140214 Sư phạm Kỹ thuật công nghiệp
+049.06140215 Sư phạm Kỹ thuật nông nghiệp
+049.06140216 Sư phạm Kinh tế gia đình
+049.06140217 Sư phạm Ngữ văn
+049.06140218 Sư phạm Lịch sử
+049.06140219 Sư phạm Địa lý
+049.06140220 Sư phạm Công tác Đội Thiếu niên Tiền phong HCM
+049.06140221 Sư phạm Âm nhạc
+049.06140222 Sư phạm Mỹ thuật
+049.06140223 Sư phạm Tiếng Bana
+049.06140224 Sư phạm Tiếng Êđê
+049.06140226 Sư phạm Tiếng Khmer
+049.06140229 Sư phạm Tiếng M`nông
+049.06140230 Sư phạm Tiếng Xê đăng
+049.06140231 Sư phạm Tiếng Anh
+049.06210101 Kỹ thuật điêu khắc gỗ
+049.06210211 Diễn viên kịch - điện ảnh
+049.06210230 Sản xuất phim
+049.06210231 Sản xuất phim hoạt hình
+049.06210233 Phục vụ điện ảnh, sân khấu
+049.06210235 Sản xuất nhạc cụ
+049.06210405 Thiết kế mỹ thuật sân khấu - điện ảnh
+049.06210408 Đúc, dát đồng mỹ nghệ
+049.06210409 Chạm khắc đá
+049.06210410 Gia công đá quý
+049.06210411 Kim hoàn
+049.06210413 Kỹ thuật sơn mài và khảm trai
+049.06210414 Đồ gốm mỹ thuật
+049.06210418 Trang trí nội thất
+049.06210419 Thiết kế trang trí sản phẩm, bao bì
+049.06210420 Thiết kế tạo dáng, tạo mẫu sản phẩm vật liệu xây dựng
+049.06210423 Gia công và thiết kế sản phẩm mộc
+049.06220201 Phiên dịch tiếng Anh hàng không
+049.06220202 Phiên dịch tiếng Anh thương mại
+049.06220203 Phiên dịch tiếng Anh du lịch
+049.06220204 Phiên dịch tiếng Nhật kinh tế, thương mại
+049.06220205 Phiên dịch tiếng Đức kinh tế, thương mại
+049.06220206 Tiếng Anh
+049.06220208 Tiếng Pháp
+049.06220209 Tiếng Trung Quốc
+049.06220211 Tiếng Hàn Quốc
+049.06220212 Tiếng Nhật
+049.06220213 Tiếng Thái
+049.06220214 Tiếng Khơ me
+049.06220215 Tiếng Lào
+049.06222024 Ngôn ngữ học so sánh, đối chiếu
+049.06310301 Giáo dục đồng đẳng
+049.06320101 Phóng viên, biên tập đài cơ sở
+049.06320201 Thư viện
+049.06320301 Văn thư hành chính
+049.06320305 Lưu trữ
+049.06320306 Thư ký
+049.06320308 Thư ký văn phòng
+049.06320309 Bảo tàng
+049.06320401 Phát hành xuất bản phẩm
+049.06340113 Kinh doanh xuất bản phẩm văn hóa
+049.06340116 Quản trị kinh doanh vận tải đường thủy nội địa
+049.06340117 Quản trị kinh doanh vận tải đường bộ
+049.06340118 Quản trị kinh doanh vận tải đường sắt
+049.06340119 Quản trị kinh doanh vận tải hàng không
+049.06340120 Quản trị kinh doanh lương thực - thực phẩm
+049.06340121 Quản trị kinh doanh vật tư nông nghiệp
+049.06340123 Quản trị kinh doanh vật tư xây dựng
+049.06340124 Quản trị kinh doanh thiết bị vật tư văn phòng
+049.06340125 Quản trị kinh doanh xăng dầu và gas
+049.06340126 Quản trị kinh doanh bất động sản
+049.06340127 Quản lý kinh doanh điện
+049.06340134 Dịch vụ thương mại hàng không
+049.06340136 Marketing du lịch
+049.06340137 Marketing thương mại
+049.06340138 Quản trị bán hàng
+049.06340141 Logistic
+049.06340201 Tài chính doanh nghiệp
+049.06340203 Tài chính tín dụng
+049.06340205 Bảo hiểm xã hội
+049.06340302 Kế toán doanh nghiệp
+049.06340303 Kế toán lao động, tiền lương và bảo hiểm xã hội
+049.06340304 Kế toán vật tư
+049.06340305 Kế toán ngân hàng
+049.06340401 Quản trị nhân sự
+049.06340404 Quản trị doanh nghiệp vừa và nhỏ
+049.06340405 Quản trị nhà máy sản xuất may
+049.06340406 Quản lý nhà đất
+049.06340408 Quản lý giao thông đô thị
+049.06340409 Quản lý khai thác công trình thủy lợi
+049.06340410 Quản lý khu đô thị
+049.06340411 Quản lý cây xanh đô thị
+049.06340412 Quản lý công trình đường thủy
+049.06340413 Quản lý công trình biển
+049.06340414 Quản lý tòa nhà
+049.06380201 Dịch vụ pháp lý
+049.06380202 Công chứng
+049.06420203 Vi sinh - hóa sinh
+049.06440201 Quan trắc khí tượng hàng không
+049.06440202 Quan trắc khí tượng nông nghiệp
+049.06440203 Quan trắc hải văn
+049.06440204 Quan trắc khí tượng bề mặt
+049.06440206 Khí tượng học
+049.06440207 Thủy văn
+049.06460202 Thống kê doanh nghiệp
+049.06460203 Hệ thống thông tin kinh tế
+049.06480102 Kỹ thuật sửa chữa, lắp ráp máy tính
+049.06480103 Thiết kế mạch điện tử trên máy tính
+049.06480104 Truyền thông và mạng máy tính
+049.06480202 Công nghệ thông tin (ứng dụng phần mềm)
+049.06480204 Tin học văn phòng
+049.06480205 Tin học viễn thông ứng dụng
+049.06480206 Tin học ứng dụng
+049.06480207 Xử lý dữ liệu
+049.06480208 Lập trình máy tính
+049.06480209 Quản trị cơ sở dữ liệu
+049.06480210 Quản trị mạng máy tính
+049.06480214 Vẽ và thiết kế trên máy tính
+049.06480217 Thiết kế trang web
+049.06480219 An ninh mạng
+049.06510108 Xây dựng và hoàn thiện công trình thủy lợi
+049.06510109 Xây dựng công trình thủy
+049.06510110 Xây dựng và bảo dưỡng công trình giao thông đường sắt
+049.06510111 Bảo dưỡng, sửa chữa công trình giao thông đường sắt đô thị
+049.06510112 Lắp đặt cầu
+049.06510113 Lắp đặt giàn khoan
+049.06510116 Kỹ thuật xây dựng mỏ
+049.06510117 Trùng tu di tích lịch sử
+049.06510118 Kỹ thuật phục chế, gia công nhà gỗ cổ
+049.06510119 Sửa chữa, bảo trì cảng hàng không
+049.06510204 Công nghệ kỹ thuật đóng mới thân tàu biển
+049.06510213 Công nghệ chế tạo vỏ tàu thủy
+049.06510214 Công nghệ chế tạo, bảo dưỡng toa xe
+049.06510215 Công nghệ chế tạo, bảo dưỡng đầu máy
+049.06510216 Công nghệ ô tô
+049.06510312 Công nghệ kỹ thuật điện tử, truyền thông
+049.06510406 Công nghệ hóa nhuộm
+049.06510409 Công nghệ chống ăn mòn kim loại
+049.06510410 Công nghệ mạ
+049.06510412 Công nghệ sơn tĩnh điện
+049.06510415 Công nghệ sơn tàu thủy
+049.06510417 Công nghệ nhiệt luyện
+049.06510418 Công nghệ đúc kim loại
+049.06510419 Công nghệ cán, kéo kim loại
+049.06510422 Công nghệ kỹ thuật tài nguyên nước
+049.06510501 Công nghệ sản xuất bột giấy và giấy
+049.06510502 Công nghệ sản xuất alumin
+049.06510503 Công nghệ sản xuất sản phẩm từ cao su
+049.06510504 Công nghệ sản xuất chất dẻo từ Polyme
+049.06510505 Công nghệ sản xuất ván nhân tạo
+049.06510506 Công nghệ gia công kính xây dựng
+049.06510507 Sản xuất vật liệu hàn
+049.06510508 Sản xuất vật liệu nổ công nghiệp
+049.06510509 Sản xuất các chất vô cơ
+049.06510510 Sản xuất sản phẩm giặt tẩy
+049.06510511 Sản xuất phân bón
+049.06510512 Sản xuất thuốc bảo vệ thực vật
+049.06510513 Sản xuất sơn
+049.06510514 Sản xuất xi măng
+049.06510522 Sản xuất sứ xây dựng
+049.06510523 Sản xuất sản phẩm sứ dân dụng
+049.06510524 Sản xuất sản phẩm kính, thủy tinh
+049.06510525 Sản xuất pin, ắc quy
+049.06510526 Sản xuất khí cụ điện
+049.06510527 Sản xuất sản phẩm cách điện
+049.06510528 Sản xuất dụng cụ đo điện
+049.06510529 Sản xuất động cơ điện
+049.06510530 Sản xuất cáp điện và thiết bị đầu nối
+049.06510531 Sản xuất dụng cụ chỉnh hình
+049.06510532 Sản xuất dụng cụ phục hồi chức năng
+049.06510533 Sản xuất dụng cụ thể thao
+049.06510534 Sản xuất vật liệu không nung và cốt liệu
+049.06510536 Sản xuất gốm xây dựng
+049.06510537 Sản xuất sản phẩm gốm dân dụng
+049.06510538 Chế biến mủ cao su
+049.06510603 Kiểm nghiệm chất lượng lương thực, thực phẩm
+049.06510604 Kiểm nghiệm đường mía
+049.06510605 Kiểm nghiệm bột giấy và giấy
+049.06510606 Thí nghiệm và kiểm tra chất lượng cầu đường bộ
+049.06510607 Phân tích cơ lý hóa xi măng
+049.06510608 Phân tích các sản phẩm alumin và bauxit
+049.06510609 Kiểm tra và phân tích hóa chất
+049.06510610 Giám định khối lượng, chất lượng than
+049.06510611 Đo lường dao động và cân bằng động
+049.06510612 Kiểm tra phân tích kết cấu thép và kim loại
+049.06510613 Đo lường và phân tích các thành phần kim loại
+049.06510614 Kiểm nghiệm chất lượng cao su
+049.06510615 Kiểm nghiệm, phân tích gốm, sứ, thủy tinh
+049.06510702 Khoan khai thác dầu khí
+049.06510703 Khoan thăm dò dầu khí
+049.06510704 Sản xuất các sản phẩm lọc dầu
+049.06510707 Phân tích các sản phẩm lọc dầu
+049.06510708 Thí nghiệm các sản phẩm hóa dầu
+049.06510709 Vận hành thiết bị hóa dầu
+049.06510710 Vận hành trạm phân phối các sản phẩm dầu khí
+049.06510711 Vận hành trạm sản xuất khí, khí hóa lỏng
+049.06510712 Vận hành thiết bị chế biến dầu khí
+049.06510713 Vận hành thiết bị khai thác dầu khí
+049.06510714 Vận hành thiết bị lọc dầu
+049.06510715 Vận hành thiết bị sản xuất phân đạm từ khí dầu mỏ
+049.06510717 Chọn mẫu và hóa nghiệm dầu khí
+049.06510718 Sửa chữa thiết bị khai thác dầu khí
+049.06510801 Công nghệ chế tạo khuôn in
+049.06510802 Công nghệ in
+049.06510901 Công nghệ kỹ thuật địa chất
+049.06510902 Công nghệ kỹ thuật trắc địa
+049.06510907 Trắc địa - địa hình - địa chính
+049.06510908 Đo đạc bản đồ
+049.06510909 Đo đạc địa chính
+049.06510910 Trắc địa công trình
+049.06510911 Quan trắc khí tượng
+049.06510912 Khảo sát địa hình
+049.06510913 Khảo sát địa chất
+049.06510914 Khảo sát thủy văn
+049.06510915 Khoan thăm dò địa chất
+049.06511001 Công nghệ kỹ thuật mỏ
+049.06511002 Công nghệ tuyển khoáng
+049.06511004 Kỹ thuật khai thác mỏ hầm lò
+049.06511006 Vận hành thiết bị sàng tuyển than
+049.06511007 Vận hành thiết bị sàng tuyển quặng kim loại
+049.06511008 Khoan nổ mìn
+049.06511009 Khoan đào đường hầm
+049.06511010 Khoan khai thác mỏ
+049.06511011 Vận hành thiết bị mỏ hầm lò
+049.06511012 Vận hành trạm khí hóa than
+049.06511013 Vận hành, sửa chữa trạm xử lý nước thải mỏ hầm lò
+049.06520101 Kỹ thuật bảo dưỡng cơ khí tàu bay
+049.06520102 Kỹ thuật máy nông nghiệp
+049.06520103 Kỹ thuật lắp đặt ống công nghệ
+049.06520104 Chế tạo thiết bị cơ khí
+049.06520105 Chế tạo khuôn mẫu
+049.06520106 Gia công ống công nghệ
+049.06520107 Gia công và lắp dựng kết cấu thép
+049.06520108 Gia công khuôn dưỡng và phóng dạng tàu thủy
+049.06520109 Gia công lắp ráp hệ thống ống tàu thủy
+049.06520110 Gia công và lắp ráp nội thất tàu thủy
+049.06520111 Lắp ráp ô tô
+049.06520112 Lắp ráp hệ thống động lực tàu thủy
+049.06520113 Lắp đặt thiết bị cơ khí
+049.06520114 Lắp đặt thiết bị lạnh
+049.06520121 Cắt gọt kim loại
+049.06520122 Gò
+049.06520123 Hàn
+049.06520124 Rèn, dập
+049.06520125 Nguội chế tạo
+049.06520126 Nguội sửa chữa máy công cụ
+049.06520127 Nguội lắp ráp cơ khí
+049.06520130 Sửa chữa máy tàu biển
+049.06520131 Sửa chữa máy tàu thủy
+049.06520132 Sửa chữa thiết bị dệt
+049.06520133 Sửa chữa thiết bị may
+049.06520134 Sửa chữa thiết bị chế biến gỗ
+049.06520135 Sửa chữa thiết bị chế biến đường
+049.06520136 Sửa chữa thiết bị chế biến lương thực, thực phẩm
+049.06520137 Sửa chữa cơ khí ngành giấy
+049.06520138 Sửa chữa thiết bị in
+049.06520139 Sửa chữa thiết bị mỏ hầm lò
+049.06520140 Sửa chữa cơ máy mỏ
+049.06520141 Sửa chữa thiết bị hóa chất
+049.06520142 Sửa chữa thiết bị luyện kim
+049.06520143 Sửa chữa thiết bị khoan dầu khí
+049.06520144 Sửa chữa thiết bị chế biến dầu khí
+049.06520145 Sửa chữa máy nâng chuyển
+049.06520146 Sửa chữa máy thi công xây dựng
+049.06520147 Sửa chữa, lắp đặt thiết bị cơ khí xi măng
+049.06520149 Bảo trì thiết bị cơ điện
+049.06520151 Bảo trì hệ thống thiết bị cơ khí
+049.06520154 Bảo trì hệ thống thiết bị cảng hàng không
+049.06520155 Bảo trì hệ thống thiết bị công nghiệp
+049.06520163 Bảo dưỡng, sửa chữa tàu điện
+049.06520182 Vận hành cần, cầu trục
+049.06520183 Vận hành máy thi công nền
+049.06520184 Vận hành máy thi công mặt đường
+049.06520185 Vận hành máy xây dựng
+049.06520188 Vận hành, sửa chữa máy thi công đường sắt
+049.06520189 Vận hành, sửa chữa máy tàu cá
+049.06520190 Vận hành máy và thiết bị hóa chất
+049.06520191 Điều khiển tàu cuốc
+049.06520201 Kỹ thuật lắp đặt điện và điều khiển trong công nghiệp
+049.06520202 Kỹ thuật cơ điện sản xuất gốm sứ, thủy tinh
+049.06520203 Kỹ thuật cơ điện chế biến cao su
+049.06520204 Kỹ thuật cơ điện mỏ hầm lò
+049.06520205 Kỹ thuật máy lạnh và điều hoà không khí
+049.06520206 Kỹ thuật điện cảng hàng không
+049.06520207 Kỹ thuật điện tử cảng hàng không
+049.06520208 Kỹ thuật điện tàu bay
+049.06520209 Kỹ thuật điện tử tàu bay
+049.06520210 Kỹ thuật điện, điện tử tàu biển
+049.06520211 Kỹ thuật điện tử tàu thủy
+049.06520212 Kỹ thuật thiết bị thông tin hàng không
+049.06520213 Kỹ thuật dẫn đường hàng không
+049.06520214 Kỹ thuật thiết bị viễn thông và nghi khí hàng hải
+049.06520217 Kỹ thuật mạng ngoại vi và thiết bị dầu cuối
+049.06520218 Kỹ thuật đài trạm viễn thông
+049.06520219 Kỹ thuật lắp đặt đài trạm viễn thông
+049.06520220 Kỹ thuật truyền hình cáp
+049.06520221 Kỹ thuật truyền dẫn quang và vô tuyến
+049.06520224 Điện tử dân dụng
+049.06520225 Điện tử công nghiệp
+049.06520226 Điện dân dụng
+049.06520227 Điện công nghiệp
+049.06520228 Điện tàu thủy
+049.06520229 Điện đầu máy đường sắt
+049.06520231 Sửa chữa điện máy mỏ
+049.06520232 Sửa chữa điện máy công trình
+049.06520233 Sửa chữa, lắp đặt thiết bị điện xi măng
+049.06520234 Sửa chữa đường dây tải điện đang vận hành
+049.06520235 Sửa chữa thiết bị tự động hóa
+049.06520237 Sửa chữa đồng hồ đo điện, nhiệt, áp lực
+049.06520238 Sửa chữa thiết bị đo lường trọng lượng
+049.06520239 Lắp đặt điện công trình
+049.06520240 Lắp đặt thiết bị điện
+049.06520241 Lắp đặt, sửa chữa hệ thống truyền dẫn điện đường sắt
+049.06520243 Lắp đặt đường dây tải điện và trạm biến áp có điện áp từ 220 KV trở lên
+049.06520244 Lắp đặt đường dây tải điện và trạm biến áp có điện áp từ 110 KV trở xuống
+049.06520245 Vận hành điện trong nhà máy điện
+049.06520246 Vận hành nhà máy thủy điện
+049.06520248 Vận hành và sửa chữa trạm thủy điện
+049.06520249 Vận hành và sửa chữa trạm bơm điện
+049.06520250 Vận hành trạm, mạng điện
+049.06520251 Vận hành điện trong nhà máy thủy điện
+049.06520252 Vận hành thiết bị điện và đo lường điều khiển trên tàu thủy
+049.06520253 Vận hành tổ máy phát điện Diesel
+049.06520254 Vận hành nhà máy điện hạt nhân
+049.06520255 Vận hành, sửa chữa thiết bị lạnh
+049.06520256 Quản lý vận hành, sửa chữa đường dây và trạm biến áp có điện áp
+049.06520258 Điều độ lưới điện phân phối
+049.06520259 Đo lường điện
+049.06520260 Thí nghiệm điện
+049.06520261 Cơ điện lạnh thủy sản
+049.06520262 Cơ điện nông thôn
+049.06520263 Cơ điện tử
+049.06520264 Tự động hóa công nghiệp
+049.06520267 Hệ thống điện đường sắt đô thị
+049.06520268 Khai thác thiết bị dẫn đường vô tuyến mặt đất hàng không
+049.06520269 Bảo trì thiết bị điện trong nhà máy điện hạt nhân
+049.06520301 Luyện gang
+049.06520302 Luyện thép
+049.06520304 Luyện kim màu
+049.06520305 Luyện Ferro hợp kim
+049.06520307 Xử lý chất thải trong công nghiệp đóng tàu
+049.06520308 Xử lý chất thải trong sản xuất thép
+049.06520309 Xử lý nước thải công nghiệp
+049.06520310 Xử lý chất thải trong sản xuất cao su
+049.06520311 Kỹ thuật thoát nước và xử lý nước thải
+049.06520312 Cấp thoát nước
+049.06529001 Kỹ thuật lò hơi
+049.06529002 Kỹ thuật tua bin
+049.06529005 Kỹ thuật thiết bị hình ảnh y tế
+049.06529006 Kỹ thuật thiết bị điện tử y tế
+049.06529007 Kỹ thuật thiết bị xét nghiệm y tế
+049.06529008 Kỹ thuật thiết bị cơ điện y tế
+049.06529009 Kỹ thuật thiết bị sản xuất Dược
+049.06529010 Lắp đặt, vận hành và sửa chữa bơm, quạt, máy nén khí
+049.06529011 Lắp ráp và thử nghiệm lò hơi, tua bin
+049.06529012 Lặn trục vớt
+049.06529013 Lặn nghiên cứu khảo sát
+049.06529015 Lặn thi công
+049.06540102 Chế biến lương thực
+049.06540104 Chế biến thực phẩm
+049.06540105 Chế biến dầu thực vật
+049.06540106 Chế biến rau quả
+049.06540112 Sản xuất bánh, kẹo
+049.06540117 Sản xuất cồn
+049.06540118 Sản xuất rượu bia
+049.06540119 Sản xuất nước giải khát
+049.06540124 Công nghệ chế biến chè
+049.06540125 Chế biến cà phê, ca cao
+049.06540126 Chế biến thuốc lá
+049.06540201 Công nghệ sợi
+049.06540202 Công nghệ dệt
+049.06540203 Công nghệ may
+049.06540204 May thời trang
+049.06540206 Công nghệ may Veston
+049.06540211 Thuộc da
+049.06540212 Sản xuất hàng da, giầy
+049.06540301 Công nghệ chế bản điện tử
+049.06580204 Kỹ thuật thi công lắp dựng kính xây dựng
+049.06580205 Xây dựng cầu đường bộ
+049.06580210 Mộc xây dựng và trang trí nội thất
+049.06620105 Chế biến nông lâm sản
+049.06620111 Trồng cây lương thực, thực phẩm
+049.06620113 Trồng cây công nghiệp
+049.06620114 Trồng cây ăn quả
+049.06620116 Chăn nuôi gia súc, gia cầm
+049.06620117 Chăn nuôi và chế biến thịt Bò
+049.06620121 Khuyến nông lâm
+049.06620122 Kỹ thuật dâu tằm tơ
+049.06620123 Chọn và nhân giống cây trồng
+049.06620124 Kỹ thuật rau, hoa công nghệ cao
+049.06620129 Quản lý và kinh doanh nông nghiệp
+049.06620203 Làm vườn - cây cảnh
+049.06620204 Kỹ thuật cây cao su
+049.06620205 Sinh vật cảnh
+049.06620208 Kiểm lâm
+049.06620301 Chế biến và bảo quản thủy sản
+049.06620303 Nuôi trồng thủy sản nước ngọt
+049.06620304 Nuôi trồng thủy sản nước mặn, nước lợ
+049.06620305 Khai thác, đánh bắt hải sản
+049.06620309 Phòng và chữa bệnh thủy sản
+049.06620311 Kiểm ngư
+049.06640201 Dịch vụ thú y
+049.06640301 Sản xuất thuốc thú y
+049.06640302 Sản xuất thuốc thủy y
+049.06720202 Điều dưỡng y học cổ truyền
+049.06720302 Y sỹ đa khoa
+049.06720305 Kỹ thuật hình ảnh y học
+049.06720306 Kỹ thuật xét nghiệm y tế
+049.06720307 Kỹ thuật vật lý trị liệu và phục hồi chức năng
+049.06720401 Dược sĩ cao đẳng
+049.06720402 Kỹ thuật dược
+049.06720403 Kỹ thuật kiểm nghiệm thuốc
+049.06760203 Dịch vụ chăm sóc gia đình
+049.06810103 Hướng dẫn du lịch
+049.06810104 Quản trị lữ hành
+049.06810105 Quản trị du lịch MICE
+049.06810106 Quản trị dịch vụ giải trí, thể thao
+049.06810107 Điều hành tour du lịch
+049.06810202 Quản trị khu Resort
+049.06810203 Quản trị lễ tân
+049.06810204 Quản trị buồng phòng
+049.06810206 Quản trị nhà hàng
+049.06810207 Kỹ thuật chế biến món ăn
+049.06810209 Kỹ thuật pha chế đồ uống
+049.06810210 Kỹ thuật làm bánh
+049.06810404 Chăm sóc sắc đẹp
+049.06840101 Quản trị kinh doanh vận tải biển
+049.06840102 Khai thác vận tải
+049.06840109 Điều khiển phương tiện thủy nội địa
+049.06840110 Điều khiển tàu biển
+049.06840111 Khai thác máy tàu biển
+049.06840112 Khai thác máy tàu thủy
+049.06840113 Vận hành khai thác máy tàu
+049.06840116 Vận hành thiết bị xếp dỡ hàng hóa hàng hải
+049.06840117 Xếp dỡ cơ giới tổng hợp
+049.06840120 Lái tàu bay dân dụng
+049.06840121 Điều hành bay
+049.06840122 Kiểm soát không lưu
+049.06840123 Thông tin tín hiệu đường sắt
+049.06840125 Lái tàu đường sắt
+049.06840126 Điều hành chạy tàu hỏa
+049.06840127 Lái xe chuyên dụng
+049.06840128 Lái tàu điện
+049.06840129 Điều hành đường sắt đô thị
+049.06840130 Vận tải hành khách, hàng hóa đường sắt
+049.06840202 Kinh doanh thiết bị viễn thông tin học
+049.06840203 Kinh doanh dịch vụ Bưu chính Viễn thông
+049.06850104 Bảo vệ môi trường đô thị
+049.06850105 Bảo vệ môi trường công nghiệp
+049.06850106 Bảo vệ môi trường biển
+049.06850109 Xử lý dầu tràn trên biển
+049.06850110 Xử lý rác thải
+049.06869001 Vệ sỹ
+049.06869002 Bảo vệ
+049.07140101 Giáo dục học
+049.07140102 Khoa học giáo dục
+049.07140103 Công nghệ giáo dục
+049.07140107 Quản trị chất lượng giáo dục
+049.07140114 Quản lý giáo dục
+049.07140115 Công nghệ giáo dục
+049.07140116 Quản trị công nghệ giáo dục
+049.07140117 Quản trị trường học
+049.07140201 Giáo dục mầm non (Đại học)
+049.07140202 Giáo dục tiểu học
+049.07140203 Giáo dục đặc biệt
+049.07140204 Giáo dục công dân
+049.07140205 Giáo dục chính trị
+049.07140206 Giáo dục thể chất
+049.07140207 Huấn luyện thể thao
+049.07140208 Giáo dục quốc phòng - an ninh
+049.07140209 Sư phạm Toán học
+049.07140210 Sư phạm Tin học
+049.07140211 Sư phạm Vật lý
+049.07140212 Sư phạm Hoá học
+049.07140213 Sư phạm Sinh học
+049.07140214 Sư phạm Kỹ thuật công nghiệp
+049.07140217 Sư phạm Ngữ văn
+049.07140218 Sư phạm Lịch sử
+049.07140219 Sư phạm Địa lý
+049.07140221 Sư phạm Âm nhạc
+049.07140222 Sư phạm Mỹ thuật
+049.07140223 Sư phạm Tiếng Bana
+049.07140224 Sư phạm Tiếng Êđê
+049.07140225 Sư phạm Tiếng Jrai
+049.07140226 Sư phạm Tiếng Khmer
+049.07140227 Sư phạm Tiếng H`mong
+049.07140228 Sư phạm Tiếng Chăm
+049.07140229 Sư phạm Tiếng M`nông
+049.07140230 Sư phạm Tiếng Xê đăng
+049.07140231 Sư phạm Tiếng Anh
+049.07140232 Sư phạm Tiếng Nga
+049.07140233 Sư phạm Tiếng Pháp
+049.07140234 Sư phạm Tiếng Trung Quốc
+049.07140235 Sư phạm Tiếng Đức
+049.07140236 Sư phạm Tiếng Nhật
+049.07140237 Sư phạm Tiếng Hàn Quốc
+049.07140245 Sư phạm Nghệ thuật
+049.07140246 Sư phạm Công nghệ
+049.07140247 Sư phạm Khoa học tự nhiên
+049.07140248 Giáo dục pháp luật
+049.07140249 Sư phạm Lịch sử - Địa lí
+049.07140250 Sư phạm Tin học và Công nghệ tiểu học
+049.07149001 Kinh tế giáo dục
+049.07149002 Quản trị nhà trường
+049.07210101 Lý luận, lịch sử và phê bình mỹ thuật
+049.07210103 Hội hoạ
+049.07210104 Đồ hoạ
+049.07210105 Điêu khắc
+049.07210107 Gốm
+049.07210110 Mỹ thuật đô thị
+049.07210201 Âm nhạc học
+049.07210203 Sáng tác âm nhạc
+049.07210204 Chỉ huy âm nhạc
+049.07210205 Thanh nhạc
+049.07210206 Quản lý nghệ thuật
+049.07210207 Biểu diễn nhạc cụ phương tây
+049.07210208 Piano
+049.07210209 Nhạc Jazz
+049.07210210 Biểu diễn nhạc cụ truyền thống
+049.07210212 Công nghệ âm nhạc
+049.07210213 Nghệ thuật học
+049.07210215 Quản lý âm nhạc
+049.07210221 Lý luận, lịch sử và phê bình sân khấu
+049.07210225 Biên kịch sân khấu
+049.07210226 Diễn viên sân khấu kịch hát
+049.07210227 Đạo diễn sân khấu
+049.07210231 Lý luận, lịch sử và phê bình điện ảnh, truyền hình
+049.07210233 Biên kịch điện ảnh, truyền hình
+049.07210234 Diễn viên kịch, điện ảnh - truyền hình
+049.07210235 Đạo diễn điện ảnh, truyền hình
+049.07210236 Quay phim
+049.07210241 Lý luận, lịch sử và phê bình múa
+049.07210242 Diễn viên múa
+049.07210243 Biên đạo múa
+049.07210244 Huấn luyện múa
+049.07210301 Nhiếp ảnh
+049.07210302 Công nghệ điện ảnh, truyền hình
+049.07210303 Thiết kế âm thanh, ánh sáng
+049.07210304 Phim
+049.07210402 Thiết kế công nghiệp
+049.07210403 Thiết kế đồ họa
+049.07210404 Thiết kế thời trang
+049.07210405 Âm nhạc
+049.07210406 Thiết kế mỹ thuật sân khấu, điện ảnh
+049.07210407 Thiết kế kỹ thuật số
+049.07210408 Nghệ thuật số
+049.07210409 Thiết kế mỹ thuật số
+049.07210412 Phục chế mỹ thuật
+049.07210413 Giám tuyển mỹ thuật
+049.07220101 Tiếng Việt và văn hoá Việt Nam
+049.07220104 Hán Nôm
+049.07220105 Ngôn ngữ Jrai
+049.07220106 Ngôn ngữ Khmer
+049.07220107 Ngôn ngữ H`mong
+049.07220108 Ngôn ngữ Chăm
+049.07220110 Sáng tác văn học
+049.07220112 Văn hoá các dân tộc thiểu số Việt Nam
+049.07220113 Ngôn ngữ và văn hóa các dân tộc thiểu số Việt Nam
+049.07220201 Ngôn ngữ Anh
+049.07220202 Ngôn ngữ Nga
+049.07220203 Ngôn ngữ Pháp
+049.07220204 Ngôn ngữ Trung Quốc
+049.07220205 Ngôn ngữ Đức
+049.07220206 Ngôn ngữ Tây Ban Nha
+049.07220207 Ngôn ngữ Bồ Đào Nha
+049.07220208 Ngôn ngữ Italia
+049.07220209 Ngôn ngữ Nhật
+049.07220210 Ngôn ngữ Hàn Quốc
+049.07220211 Ngôn ngữ Ả rập
+049.07220214 Ngôn ngữ Thái Lan
+049.07229001 Triết học
+049.07229008 Chủ nghĩa xã hội khoa học
+049.07229009 Tôn giáo học
+049.07229010 Lịch sử
+049.07229020 Ngôn ngữ học
+049.07229030 Văn học
+049.07229040 Văn hoá học
+049.07229042 Quản lý văn hoá
+049.07229045 Gia đình học
+049.07229047 Di sản học
+049.07310101 Kinh tế
+049.07310102 Kinh tế chính trị
+049.07310104 Kinh tế đầu tư
+049.07310105 Kinh tế phát triển
+049.07310106 Kinh tế quốc tế
+049.07310107 Thống kê kinh tế
+049.07310108 Toán kinh tế
+049.07310109 Kinh tế số
+049.07310110 Quản lý kinh tế
+049.07310111 Nghiên cứu phát triển
+049.07310112 Kinh tế tài chính
+049.07310113 Kinh tế thể thao
+049.07310201 Chính trị học
+049.07310202 Xây dựng Đảng và chính quyền nhà nước
+049.07310205 Quản lý nhà nước
+049.07310206 Quan hệ quốc tế
+049.07310301 Xã hội học
+049.07310302 Nhân học
+049.07310399 Giới và phát triển
+049.07310401 Tâm lý học
+049.07310402 Tham vấn học đường
+049.07310403 Tâm lý học giáo dục
+049.07310501 Địa lý học
+049.07310601 Quốc tế học
+049.07310602 Châu Á học
+049.07310607 Thái Bình Dương học
+049.07310608 Đông phương học
+049.07310612 Trung Quốc học
+049.07310613 Nhật Bản học
+049.07310614 Hàn Quốc học
+049.07310620 Đông Nam Á học
+049.07310630 Việt Nam học
+049.07310631 Châu Á - Thái Bình Dương học
+049.07310639 Châu Mỹ học
+049.07310640 Hoa Kỳ học
+049.07320101 Báo chí
+049.07320104 Truyền thông đa phương tiện
+049.07320105 Truyền thông đại chúng
+049.07320106 Công nghệ truyền thông
+049.07320107 Truyền thông quốc tế
+049.07320108 Quan hệ công chúng
+049.07320109 Truyền thông doanh nghiệp
+049.07320110 Quảng cáo
+049.07320111 Truyền thông số
+049.07320201 Thông tin - thư viện
+049.07320205 Quản lý thông tin
+049.07320303 Lưu trữ học
+049.07320305 Bảo tàng học
+049.07320401 Xuất bản
+049.07320402 Kinh doanh xuất bản phẩm
+049.07329001 Công nghệ đa phương tiện
+049.07340101 Quản trị kinh doanh
+049.07340102 Quản trị - Luật
+049.07340108 Quản lý
+049.07340114 Digital Marketing
+049.07340115 Marketing
+049.07340116 Bất động sản
+049.07340120 Kinh doanh quốc tế
+049.07340121 Kinh doanh thương mại
+049.07340122 Thương mại điện tử
+049.07340123 Kinh doanh thời trang và dệt may
+049.07340124 Quản trị và Kinh doanh quốc tế
+049.07340125 Phân tích dữ liệu kinh doanh
+049.07340129 Quản trị kinh doanh thực phẩm
+049.07340201 Tài chính - Ngân hàng
+049.07340202 Tài chính và Kế toán
+049.07340203 Tài chính công
+049.07340204 Bảo hiểm
+049.07340205 Công nghệ tài chính
+049.07340206 Tài chính quốc tế
+049.07340207 Bảo hiểm - Tài chính
+049.07340301 Kế toán
+049.07340302 Kiểm toán
+049.07340303 Kế toán, Phân tích và Kiểm toán
+049.07340401 Khoa học quản lý
+049.07340403 Quản lý công
+049.07340404 Quản trị nhân lực
+049.07340405 Hệ thống thông tin quản lý
+049.07340406 Quản trị văn phòng
+049.07340408 Quan hệ lao động
+049.07340409 Quản lý dự án
+049.07340410 Quản trị công nghệ truyền thông
+049.07340411 Quản lý và phát triển nguồn nhân lực
+049.07340412 Quản trị sự kiện
+049.07340418 Quản lý và phát triển du lịch
+049.07340420 Khoa học dữ liệu và phân tích kinh doanh
+049.07349001 Quản trị thương hiệu
+049.07349002 Quản lý giải trí và sự kiện
+049.07380101 Luật
+049.07380102 Luật hiến pháp và luật hành chính
+049.07380103 Luật dân sự và tố tụng dân sự
+049.07380104 Luật hình sự và tố tụng hình sự
+049.07380107 Luật kinh tế
+049.07380108 Luật quốc tế
+049.07380109 Luật Thương mại quốc tế
+049.07380110 Luật kinh doanh
+049.07420101 Sinh học
+049.07420201 Công nghệ sinh học
+049.07420202 Kỹ thuật sinh học
+049.07420203 Sinh học ứng dụng
+049.07420204 Khoa học Y Sinh
+049.07420205 Công nghệ sinh học y dược
+049.07420207 Công nghệ thẩm mỹ
+049.07420215 Công nghệ sinh dược
+049.07429001 Quản trị Công nghệ sinh học
+049.07429002 Sinh dược học
+049.07440101 Thiên văn học
+049.07440102 Vật lý học
+049.07440106 Vật lý nguyên tử và hạt nhân
+049.07440107 Công nghệ vật lý điện tử tin học
+049.07440110 Cơ học
+049.07440112 Hoá học
+049.07440122 Khoa học vật liệu
+049.07440201 Địa chất học
+049.07440212 Bản đồ học
+049.07440217 Địa lý tự nhiên
+049.07440221 Biến đổi khí hậu
+049.07440222 Khí tượng và khí hậu học
+049.07440224 Thuỷ văn học
+049.07440225 Tài nguyên và môi trường nước
+049.07440228 Hải dương học
+049.07440229 Quản lý và phân tích dữ liệu khoa học
+049.07440230 Khoa học thông tin địa không gian
+049.07440298 Biến đổi khí hậu và phát triển bền vững
+049.07440299 Khí tượng thủy văn biển
+049.07440301 Khoa học môi trường
+049.07460101 Toán học
+049.07460107 Khoa học tính toán
+049.07460108 Khoa học dữ liệu
+049.07460112 Toán ứng dụng
+049.07460115 Toán cơ
+049.07460117 Toán tin
+049.07460201 Thống kê
+049.07480101 Khoa học máy tính
+049.07480102 Mạng máy tính và truyền thông dữ liệu
+049.07480103 Kỹ thuật phần mềm
+049.07480104 Hệ thống thông tin
+049.07480106 Kỹ thuật máy tính
+049.07480107 Trí tuệ nhân tạo
+049.07480108 Công nghệ kỹ thuật máy tính
+049.07480110 Máy tính và khoa học thông tin
+049.07480111 Tin học và kỹ thuật máy tính
+049.07480112 Khoa học dữ liệu và trí tuệ nhân tạo
+049.07480113 Khoa học máy tính và thông tin
+049.07480118 Hệ thống nhúng và IoT
+049.07480201 Công nghệ thông tin
+049.07480202 An toàn thông tin
+049.07480203 Kỹ thuật dữ liệu
+049.07480204 Khoa học và Kỹ thuật máy tính
+049.07480205 Trí tuệ nhân tạo và Khoa học dữ liệu
+049.07480206 Địa tin học
+049.07480207 Trí tuệ nhân tạo
+049.07480208 An ninh mạng
+049.07480209 Công nghệ tài chính và kinh doanh số
+049.07480210 Công nghệ thông tin ứng dụng
+049.07480298 Khoa học dữ liệu
+049.07489001 Công nghệ đổi mới sáng tạo
+049.07510101 Công nghệ kỹ thuật kiến trúc
+049.07510102 Công nghệ kỹ thuật công trình xây dựng
+049.07510103 Công nghệ kỹ thuật xây dựng
+049.07510104 Công nghệ kỹ thuật giao thông
+049.07510105 Công nghệ kỹ thuật vật liệu xây dựng
+049.07510106 Hệ thống kỹ thuật công trình xây dựng
+049.07510201 Công nghệ kỹ thuật cơ khí
+049.07510202 Công nghệ chế tạo máy
+049.07510203 Công nghệ kỹ thuật cơ - điện tử
+049.07510205 Công nghệ kỹ thuật ô tô
+049.07510206 Công nghệ kỹ thuật nhiệt
+049.07510207 Công nghệ kỹ thuật tàu thủy
+049.07510208 Năng lượng tái tạo
+049.07510209 Robot và trí tuệ nhân tạo
+049.07510210 Điện lạnh và điều hòa không khí
+049.07510211 Bảo dưỡng công nghiệp
+049.07510212 Công nghệ ô tô và giao thông thông minh
+049.07510300 Công nghệ kỹ thuật điện tử - tin học công nghiệp
+049.07510301 Công nghệ kỹ thuật điện, điện tử
+049.07510302 Công nghệ kỹ thuật điện tử – viễn thông
+049.07510303 Công nghệ kỹ thuật điều khiển và tự động hoá
+049.07510304 IOT và Trí tuệ nhân tạo ứng dụng
+049.07510306 Tự động hóa và tin học
+049.07510401 Công nghệ kỹ thuật hóa học
+049.07510402 Công nghệ vật liệu
+049.07510403 Công nghệ kỹ thuật năng lượng
+049.07510404 Kỹ thuật hoá phân tích
+049.07510406 Công nghệ kỹ thuật môi trường
+049.07510407 Công nghệ kỹ thuật hạt nhân
+049.07510410 Công nghệ quan trắc và giám sát tài nguyên môi trường
+049.07510601 Quản lý công nghiệp
+049.07510602 Quản lý năng lượng
+049.07510604 Kinh tế công nghiệp
+049.07510605 Logistics và quản lý chuỗi cung ứng
+049.07510606 Quản trị môi trường Doanh nghiệp
+049.07510701 Công nghệ dầu khí và khai thác dầu
+049.07510801 Công nghệ kỹ thuật in
+049.07519001 Công nghệ hàng không vũ trụ
+049.07519002 Công nghệ nông nghiệp
+049.07519003 Công nghệ kỹ thuật khuôn mẫu
+049.07519004 Thiết kế cơ khí và kiểu dáng công nghiệp
+049.07519005 Công nghệ kỹ thuật cơ điện tử ô tô
+049.07519007 Công nghệ Kỹ thuật năng lượng tái tạo
+049.07520101 Cơ kỹ thuật
+049.07520103 Kỹ thuật cơ khí
+049.07520107 Kỹ thuật Robot
+049.07520114 Kỹ thuật cơ điện tử
+049.07520115 Kỹ thuật nhiệt
+049.07520116 Kỹ thuật cơ khí động lực
+049.07520117 Kỹ thuật công nghiệp
+049.07520118 Kỹ thuật hệ thống công nghiệp
+049.07520119 Kỹ thuật cơ điện tử thông minh và robot
+049.07520120 Kỹ thuật hàng không
+049.07520121 Kỹ thuật không gian
+049.07520122 Kỹ thuật tàu thuỷ
+049.07520123 Khoa học Vũ trụ và Công nghệ vệ tinh
+049.07520130 Kỹ thuật ô tô
+049.07520137 Kỹ thuật In
+049.07520138 Kỹ thuật hàng hải
+049.07520139 Kỹ thuật hệ thống công nghiệp và logistics
+049.07520141 Công nghệ ô tô điện
+049.07520201 Kỹ thuật điện
+049.07520202 Thiết kế vi mạch
+049.07520204 Kỹ thuật ra đa - dẫn đường
+049.07520205 Kỹ thuật thuỷ âm
+049.07520206 Kỹ thuật biển
+049.07520207 Kỹ thuật điện tử - viễn thông
+049.07520208 Công nghệ internet vạn vật (IoT)
+049.07520209 Truyền thông số và Kỹ thuật đa phương tiện
+049.07520210 Kỹ thuật điện tử và tin học
+049.07520212 Kỹ thuật y sinh
+049.07520215 Kỹ thuật điện, điện tử
+049.07520216 Kỹ thuật điều khiển và tự động hoá
+049.07520217 Kỹ thuật Robot
+049.07520218 Kỹ thuật Robot và Trí tuệ nhân tạo
+049.07520219 Hệ thống giao thông thông minh
+049.07520220 Kỹ thuật thiết kế vi mạch
+049.07520301 Kỹ thuật hoá học
+049.07520309 Kỹ thuật vật liệu
+049.07520310 Kỹ thuật vật liệu kim loại
+049.07520311 Kỹ thuật hóa phân tích
+049.07520312 Kỹ thuật dệt
+049.07520320 Kỹ thuật môi trường
+049.07520401 Vật lý kỹ thuật
+049.07520402 Kỹ thuật hạt nhân
+049.07520403 Vật lý y khoa, khối ngành
+049.07520406 Kỹ thuật năng lượng
+049.07520408 Công nghệ bán dẫn
+049.07520501 Kỹ thuật địa chất
+049.07520502 Kỹ thuật địa vật lý
+049.07520503 Kỹ thuật trắc địa - bản đồ
+049.07520505 Đá quý Đá mỹ nghệ
+049.07520601 Kỹ thuật mỏ
+049.07520602 Kỹ thuật thăm dò và khảo sát
+049.07520604 Kỹ thuật dầu khí
+049.07520605 Kỹ thuật khí thiên nhiên
+049.07520606 Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên
+049.07520607 Kỹ thuật tuyển khoáng
+049.07529001 Kỹ thuật biển
+049.07540101 Công nghệ thực phẩm
+049.07540102 Kỹ thuật thực phẩm
+049.07540103 Công nghệ hóa thực phẩm
+049.07540104 Công nghệ sau thu hoạch
+049.07540105 Công nghệ chế biến thuỷ sản
+049.07540106 Đảm bảo chất lượng và an toàn thực phẩm
+049.07540108 Công nghệ và kinh doanh thực phẩm
+049.07540110 Khoa học và công nghệ thực phẩm
+049.07540202 Công nghệ sợi, dệt
+049.07540203 Công nghệ vật liệu dệt, may
+049.07540204 Công nghệ dệt, may
+049.07540206 Công nghệ da giày
+049.07540209 Công nghệ may
+049.07549001 Công nghệ chế biến lâm sản
+049.07549002 Kỹ nghệ gỗ và nội thất
+049.07580101 Kiến trúc
+049.07580102 Kiến trúc cảnh quan
+049.07580103 Kiến trúc nội thất
+049.07580104 Kiến trúc đô thị
+049.07580105 Quy hoạch vùng và đô thị
+049.07580106 Quản lý đô thị và công trình
+049.07580107 Quản lý đô thị
+049.07580108 Thiết kế nội thất
+049.07580109 Quản lý phát triển đô thị và bất động sản
+049.07580110 Thiết kế đô thị
+049.07580111 Bảo tồn di sản kiến trúc - đô thị
+049.07580112 Đô thị học
+049.07580201 Kỹ thuật xây dựng
+049.07580202 Kỹ thuật xây dựng công trình thủy
+049.07580203 Kỹ thuật xây dựng công trình biển
+049.07580204 Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm
+049.07580205 Kỹ thuật xây dựng công trình giao thông
+049.07580210 Kỹ thuật cơ sở hạ tầng
+049.07580211 Địa kỹ thuật xây dựng
+049.07580212 Kỹ thuật tài nguyên nước
+049.07580213 Kỹ thuật cấp thoát nước
+049.07580215 Kỹ thuật an toàn giao thông
+049.07580301 Kinh tế xây dựng
+049.07580302 Quản lý xây dựng
+049.07589001 Thiết kế xanh
+049.07620101 Nông nghiệp
+049.07620102 Khuyến nông
+049.07620103 Khoa học đất
+049.07620105 Chăn nuôi
+049.07620106 Chăn nuôi thú y
+049.07620108 Phân bón và dinh dưỡng cây trồng
+049.07620109 Nông học
+049.07620110 Khoa học cây trồng
+049.07620112 Bảo vệ thực vật
+049.07620113 Công nghệ rau hoa quả và cảnh quan
+049.07620114 Kinh doanh nông nghiệp
+049.07620115 Kinh tế nông nghiệp
+049.07620116 Phát triển nông thôn
+049.07620118 Nông nghiệp công nghệ cao
+049.07620119 Kinh doanh và Khởi nghiệp Nông thôn
+049.07620122 Nông nghiệp thông minh và bền vững
+049.07620190 Công nghệ nông nghiệp số
+049.07620191 Kinh doanh nông nghiệp số
+049.07620201 Lâm học
+049.07620202 Lâm nghiệp đô thị
+049.07620205 Lâm sinh
+049.07620210 Lâm nghiệp
+049.07620211 Quản lý tài nguyên rừng
+049.07620301 Nuôi trồng thuỷ sản
+049.07620302 Bệnh học thủy sản
+049.07620303 Khoa học thủy sản
+049.07620304 Khai thác thuỷ sản
+049.07620305 Quản lý thủy sản
+049.07640101 Thú y
+049.07720101 Y khoa
+049.07720110 Y học dự phòng
+049.07720115 Y học cổ truyền
+049.07720201 Dược học
+049.07720202 Công nghệ dược phẩm
+049.07720203 Hoá dược
+049.07720301 Điều dưỡng
+049.07720302 Hộ sinh
+049.07720399 Dụng cụ chỉnh hình chân tay giả
+049.07720401 Dinh dưỡng
+049.07720402 Dinh dưỡng và khoa học thực phẩm
+049.07720501 Răng - Hàm - Mặt
+049.07720502 Kỹ thuật phục hình răng
+049.07720601 Kỹ thuật xét nghiệm y học
+049.07720602 Kỹ thuật hình ảnh y học
+049.07720603 Kỹ thuật phục hồi chức năng
+049.07720604 Vật lý trị liệu
+049.07720605 Hoạt động trị liệu
+049.07720606 Ngôn ngữ trị liệu
+049.07720607 Kỹ thuật y học thể dục thể thao
+049.07720608 Dụng cụ chỉnh hình chân tay giả
+049.07720609 Khúc xạ nhãn khoa
+049.07720610 Kỹ thuật gây mê hồi sức
+049.07720699 Khúc xạ nhãn khoa
+049.07720701 Y tế công cộng
+049.07720801 Tổ chức và quản lý y tế
+049.07720802 Quản lý bệnh viện
+049.07729001 Y sinh học thể dục thể thao
+049.07760101 Công tác xã hội
+049.07760102 Công tác thanh thiếu niên
+049.07760103 Hỗ trợ giáo dục người khuyết tật
+049.07760104 Dân số và phát triển
+049.07810101 Du lịch
+049.07810102 Du lịch điện tử
+049.07810103 Quản trị dịch vụ du lịch và lữ hành
+049.07810104 Quản trị du lịch và khách sạn
+049.07810105 Du lịch địa chất
+049.07810106 Du lịch văn hóa
+049.07810201 Quản trị khách sạn
+049.07810202 Quản trị nhà hàng và Dịch vụ ăn uống
+049.07810203 Quản trị Khách sạn - Nhà hàng
+049.07810204 Quản lý Du lịch Quốc tế (CTTT)
+049.07810301 Quản lý thể dục thể thao
+049.07810302 Huấn luyện thể thao
+049.07810303 Golf
+049.07810501 Kinh tế gia đình
+049.07810502 Kỹ thuật nữ công
+049.07819009 Khoa học dinh dưỡng và ẩm thực
+049.07819010 Khoa học chế biến món ăn
+049.07840101 Khai thác vận tải
+049.07840102 Quản lý hoạt động bay
+049.07840104 Kinh tế vận tải
+049.07840106 Khoa học hàng hải
+049.07840110 Quản lý và vận hành hạ tầng
+049.07850101 Quản lý tài nguyên và môi trường
+049.07850102 Kinh tế tài nguyên thiên nhiên
+049.07850103 Quản lý đất đai
+049.07850104 Du lịch sinh thái
+049.07850105 Quản lý an toàn, sức khỏe và môi trường
+049.07850106 Quản lý tài nguyên thiên nhiên
+049.07850110 Quản lý phát triển đô thị và bất động sản
+049.07850118 Quản lý bất động sản
+049.07850195 Quản lý tổng hợp tài nguyên nước
+049.07850196 Quản lý tài nguyên khoáng sản
+049.07850197 Quản lý tài nguyên và môi trường biển đảo
+049.07850198 Quản lý tài nguyên nước
+049.07850199 Quản lý biển
+049.07850201 Bảo hộ lao động
+049.07850202 An toàn, Vệ sinh lao động
+049.07859002 Tài nguyên và du lịch sinh thái
+049.07859003 Môi trường, Sức khỏe và An toàn
+049.07859007 Cảnh quan và kỹ thuật hoa viên
+049.07860101 Trinh sát an ninh
+049.07860102 Trinh sát cảnh sát
+049.07860103 Trinh sát kỹ thuật
+049.07860104 Điều tra hình sự
+049.07860107 Kỹ thuật Công an nhân dân
+049.07860108 Kỹ thuật hình sự
+049.07860109 Quản lý nhà nước về an ninh trật tự
+049.07860110 Quản lý trật tự an toàn giao thông
+049.07860111 Thi hành án hình sự và hỗ trợ tư pháp
+049.07860112 Tham mưu, chỉ huy công an nhân dân
+049.07860113 Phòng cháy chữa cháy và cứu nạn cứu hộ
+049.07860114 An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+049.07860116 Hậu cần công an nhân dân
+049.07860117 Tình báo an ninh
+049.07860201 Chỉ huy tham mưu Lục quân
+049.07860202 Chỉ huy tham mưu Hải quân
+049.07860203 Chỉ huy tham mưu Không quân
+049.07860204 Chỉ huy tham mưu Phòng không
+049.07860205 Chỉ huy tham mưu Pháo binh
+049.07860206 Chỉ huy tham mưu Tăng - thiết giáp
+049.07860207 Chỉ huy tham mưu Đặc công
+049.07860214 Biên phòng
+049.07860215 Chỉ huy tham mưu tác chiến không gian mạng
+049.07860217 Tình báo quân sự
+049.07860218 Hậu cần quân sự
+049.07860219 Chỉ huy, tham mưu thông tin
+049.07860220 Chỉ huy, quản lý kỹ thuật
+049.07860222 Quân sự cơ sở
+049.07860226 Chỉ huy kỹ thuật Phòng không
+049.07860227 Chỉ huy kỹ thuật Tăng - thiết giáp
+049.07860228 Chỉ huy kỹ thuật Công binh
+049.07860229 Chỉ huy kỹ thuật Hoá học
+049.07860231 Trinh sát kỹ thuật
+049.07860232 Chỉ huy kỹ thuật Hải quân
+049.07860233 Chỉ huy kỹ thuật tác chiến điện tử
+049.07900101 Quản trị doanh nghiệp và công nghệ
+049.07900102 Marketing và truyền thông
+049.07900103 Quản trị nhân lực và nhân tài
+049.07900104 Kinh tế tài chính
+049.07900189 Quản trị và An ninh
+049.07900204 Quản trị đô thị thông minh và bền vững
+049.07900205 Quản trị tài nguyên di sản
+049.07903124 Kinh tế - Tài chính
+049.07904492 Khoa học & Quản lý môi trường (CTTT)
+049.07905419 Công nghệ thực phẩm (CTTT)
+049.07906425 Kinh tế nông nghiệp (CTTT)
+049.07908532 Quản lý tài nguyên thiên nhiên
+049.08140101 Giáo dục học
+049.08140108 Giáo dục và Phát triển cộng đồng
+049.08140110 Lý luận và phương pháp dạy học
+049.08140111 Lý luận và phương pháp dạy học bộ môn
+049.08140112 Quản trị trường học
+049.08140113 Giáo dục và Phát triển cộng đồng
+049.08140114 Quản lý giáo dục
+049.08140115 Đo lường và đánh giá trong giáo dục
+049.08140116 Thiết kế phương tiện giáo dục, giảng dạy
+049.08140117 Giáo dục quốc tế và so sánh
+049.08140118 Giáo dục đặc biệt
+049.08140119 Sư phạm Kỹ thuật Điện
+049.08140120 Sư phạm Kỹ thuật Ô tô
+049.08140121 Quản trị trường phổ thông
+049.08140202 Lý luận và phương pháp dạy học âm nhạc
+049.08210101 Lý luận và lịch sử mỹ thuật
+049.08210102 Mỹ thuật tạo hình
+049.08210201 Âm nhạc học
+049.08210202 Nghệ thuật âm nhạc
+049.08210206 Quản lý nghệ thuật
+049.08210210 Biểu diễn nhạc cụ truyền thống
+049.08210221 Lý luận và lịch sử sân khấu
+049.08210222 Nghệ thuật sân khấu
+049.08210231 Lý luận và lịch sử điện ảnh, truyền hình
+049.08210232 Nghệ thuật điện ảnh, truyền hình
+049.08210401 Lý luận và lịch sử mỹ thuật ứng dụng
+049.08210402 Thiết kế công nghiệp
+049.08210403 Thiết kế đồ họa
+049.08210404 Thiết kế thời trang
+049.08210406 Thiết kế mỹ thuật sân khấu, điện ảnh
+049.08210410 Mỹ thuật ứng dụng
+049.08220102 Ngôn ngữ Việt Nam
+049.08220104 Hán Nôm
+049.08220109 Ngôn ngữ các dân tộc thiểu số Việt Nam
+049.08220120 Lý luận văn học
+049.08220121 Văn học Việt Nam
+049.08220125 Văn học dân gian
+049.08220201 Ngôn ngữ Anh
+049.08220202 Ngôn ngữ Nga
+049.08220203 Ngôn ngữ Pháp
+049.08220204 Ngôn ngữ Trung Quốc
+049.08220205 Ngôn ngữ Đức
+049.08220209 Ngôn ngữ Nhật
+049.08220210 Ngôn ngữ Hàn Quốc
+049.08220241 Ngôn ngữ học so sánh, đối chiếu
+049.08220242 Văn học nước ngoài
+049.08222024 Ngôn ngữ học so sánh, đối chiếu
+049.08229001 Triết học
+049.08229008 Chủ nghĩa xã hội khoa học
+049.08229009 Tôn giáo học
+049.08229011 Lịch sử thế giới
+049.08229012 Lịch sử phong trào cộng sản, công nhân quốc tế và giải phóng dân tộc
+049.08229013 Lịch sử Việt Nam
+049.08229015 Lịch sử Đảng Cộng sản Việt Nam
+049.08229017 Khảo cổ học
+049.08229020 Ngôn ngữ học
+049.08229030 Văn học
+049.08229031 Văn học so sánh
+049.08229040 Văn hoá học
+049.08229041 Văn hoá dân gian
+049.08229042 Quản lý văn hoá
+049.08229043 Văn hóa so sánh
+049.08229047 Di sản học
+049.08310101 Kinh tế học
+049.08310102 Kinh tế chính trị
+049.08310104 Kinh tế đầu tư
+049.08310105 Kinh tế phát triển
+049.08310106 Kinh tế quốc tế
+049.08310107 Thống kê kinh tế
+049.08310108 Toán kinh tế
+049.08310110 Quản lý kinh tế
+049.08310201 Chính trị học
+049.08310202 Xây dựng Đảng và Chính quyền nhà nước
+049.08310204 Hồ Chí Minh học
+049.08310205 Quản lý nhà nước
+049.08310206 Quan hệ quốc tế
+049.08310301 Xã hội học
+049.08310302 Nhân học
+049.08310310 Dân tộc học
+049.08310313 Phát triển bền vững
+049.08310315 Phát triển con người
+049.08310317 Quyền con người
+049.08310401 Tâm lý học
+049.08310402 Tâm lý học lâm sàng
+049.08310403 Tham vấn học đường
+049.08310501 Địa lý học
+049.08310601 Quốc tế học
+049.08310602 Châu Á học
+049.08310608 Đông phương học
+049.08310612 Trung Quốc học
+049.08310613 Nhật Bản học
+049.08310614 Hàn Quốc học
+049.08310620 Đông Nam Á học
+049.08310630 Việt Nam học
+049.08319043 Văn hóa so sánh
+049.08320101 Báo chí học
+049.08320105 Truyền thông đại chúng
+049.08320107 Truyền thông quốc tế
+049.08320108 Quan hệ công chúng
+049.08320202 Thông tin học
+049.08320203 Khoa học thư viện
+049.08320303 Lưu trữ học
+049.08320305 Bảo tàng học
+049.08320401 Xuất bản
+049.08340101 Quản trị kinh doanh
+049.08340115 Marketing
+049.08340120 Kinh doanh quốc tế
+049.08340121 Kinh doanh thương mại
+049.08340122 Thương mại điện tử
+049.08340130 Quản trị bệnh viện
+049.08340201 Tài chính - Ngân hàng
+049.08340202 Quản trị tài chính
+049.08340204 Bảo hiểm
+049.08340205 Công nghệ tài chính
+049.08340301 Kế toán
+049.08340401 Khoa học quản lý
+049.08340402 Chính sách công
+049.08340403 Quản lý công
+049.08340404 Quản trị nhân lực
+049.08340405 Hệ thống thông tin quản lý
+049.08340406 Quản trị văn phòng
+049.08340408 Lãnh đạo học
+049.08340410 Quản lý kinh tế trình độ thạc sĩ
+049.08340412 Quản lý khoa học và công nghệ
+049.08340417 Quản lý an toàn và sức khỏe nghề nghiệp
+049.08340418 Quản lý du lịch bền vững
+049.08349010 Quản lý đô thị
+049.08380101 Luật
+049.08380102 Luật hiến pháp và luật hành chính
+049.08380103 Luật dân sự và tố tụng dân sự
+049.08380104 Luật hình sự và tố tụng hình sự
+049.08380105 Tội phạm học và phòng ngừa tội phạm
+049.08380106 Lý luận và lịch sử nhà nước và pháp luật
+049.08380107 Luật kinh tế
+049.08380108 Luật quốc tế
+049.08380109 Pháp luật về quyền con người
+049.08380110 Quản trị nhà nước và phòng, chống tham nhũng
+049.08420101 Sinh học
+049.08420102 Nhân chủng học
+049.08420103 Động vật học
+049.08420107 Vi sinh vật học
+049.08420108 Thuỷ sinh vật học
+049.08420111 Thực vật học
+049.08420114 Sinh học thực nghiệm
+049.08420116 Hoá sinh học
+049.08420120 Sinh thái học
+049.08420121 Di truyền học
+049.08420201 Công nghệ sinh học
+049.08440101 Thiên văn học
+049.08440102 Vật lý
+049.08440103 Vật lý lý thuyết và vật lý toán
+049.08440104 Vật lý chất rắn
+049.08440105 Vật lý vô tuyến và điện tử
+049.08440106 Vật lý nguyên tử và hạt nhân
+049.08440107 Cơ học vật rắn
+049.08440108 Cơ học chất lỏng và chất khí
+049.08440109 Cơ học
+049.08440110 Quang học
+049.08440111 Vật lý địa cầu
+049.08440112 Hoá học
+049.08440113 Hoá vô cơ
+049.08440114 Hoá hữu cơ
+049.08440118 Hoá phân tích
+049.08440119 Hoá lý thuyết và hoá lý
+049.08440120 Hóa môi trường
+049.08440122 Khoa học vật liệu
+049.08440201 Địa chất học
+049.08440202 Địa tin học
+049.08440205 Khoáng vật học và địa hóa học
+049.08440210 Địa vật lí
+049.08440212 Bản đồ học
+049.08440214 Bản đồ, viễn thám và hệ thông tin địa lý
+049.08440217 Địa lí tự nhiên
+049.08440218 Địa mạo và cổ địa lý
+049.08440220 Địa lý tài nguyên và môi trường
+049.08440221 Biến đổi khí hậu
+049.08440222 Khí tượng và khí hậu học
+049.08440224 Thuỷ văn học
+049.08440228 Hải dương học
+049.08440301 Khoa học môi trường
+049.08440302 Quản lý an toàn, sức khỏe và môi trường
+049.08440304 Quản lý, an toàn và sức khỏe môi trường
+049.08460101 Toán học
+049.08460102 Toán giải tích
+049.08460103 Phương trình vi phân và tích phân
+049.08460104 Đại số và lý thuyết số
+049.08460105 Hình học và tôpô
+049.08460106 Lý thuyết xác suất và thống kê toán học
+049.08460107 Khoa học tính toán
+049.08460108 Khoa học dữ liệu
+049.08460110 Cơ sở toán học cho tin học
+049.08460112 Toán ứng dụng
+049.08460113 Phương pháp toán sơ cấp
+049.08460117 Toán tin
+049.08460201 Thống kê
+049.08480101 Khoa học máy tính
+049.08480102 Mạng máy tính và truyền thông dữ liệu
+049.08480103 Kỹ thuật phần mềm
+049.08480104 Hệ thống thông tin
+049.08480106 Kỹ thuật máy tính
+049.08480107 Trí tuệ nhân tạo
+049.08480109 Khoa học dữ liệu
+049.08480201 Công nghệ thông tin
+049.08480202 An toàn thông tin
+049.08480204 Quản lý công nghệ thông tin
+049.08480205 Quản lý hệ thống thông tin
+049.08480206 Địa tin học
+049.08510601 Quản lý công nghiệp
+049.08510602 Quản lý năng lượng
+049.08510605 Logistics và quản lý chuỗi cung ứng
+049.08519001 Công nghệ Y - Dược
+049.08520101 Cơ kỹ thuật
+049.08520103 Kỹ thuật cơ khí
+049.08520114 Kỹ thuật cơ điện tử
+049.08520115 Kỹ thuật nhiệt
+049.08520116 Kỹ thuật cơ khí động lực
+049.08520117 Kỹ thuật công nghiệp
+049.08520118 Kỹ thuật hệ thống công nghiệp
+049.08520120 Kỹ thuật hàng không
+049.08520121 Kỹ thuật không gian
+049.08520122 Kỹ thuật tàu thuỷ
+049.08520130 Kỹ thuật ô tô
+049.08520135 Kỹ thuật năng lượng
+049.08520137 Kỹ thuật hàng hải
+049.08520138 Kỹ thuật in
+049.08520201 Kỹ thuật điện
+049.08520203 Kỹ thuật điện tử
+049.08520204 Kỹ thuật rađa - dẫn đường
+049.08520208 Kỹ thuật viễn thông
+049.08520209 Kỹ thuật mật mã
+049.08520212 Kỹ thuật y sinh
+049.08520216 Kỹ thuật điều khiển và tự động hóa
+049.08520301 Kỹ thuật hoá học
+049.08520305 Kỹ thuật hóa dầu và lọc dầu
+049.08520309 Kỹ thuật vật liệu
+049.08520320 Kỹ thuật môi trường
+049.08520401 Vật lý kỹ thuật
+049.08520402 Kỹ thuật hạt nhân
+049.08520501 Kỹ thuật địa chất
+049.08520502 Kỹ thuật địa vật lý
+049.08520503 Kỹ thuật trắc địa - bản đồ
+049.08520602 Kỹ thuật thăm dò và khảo sát
+049.08520603 Khai thác mỏ
+049.08520604 Kỹ thuật dầu khí
+049.08520607 Kỹ thuật tuyển khoáng
+049.08520608 Công trình biển
+049.08540101 Công nghệ thực phẩm
+049.08540104 Công nghệ sau thu hoạch
+049.08540105 Công nghệ chế biến thuỷ sản
+049.08540106 Đảm bảo chất lượng và an toàn thực phẩm
+049.08540203 Công nghệ vật liệu dệt, may
+049.08540204 Công nghệ dệt, may
+049.08549001 Kỹ thuật chế biến lâm sản
+049.08580101 Kiến trúc
+049.08580103 Kiến trúc nội thất
+049.08580104 Phát triển đô thị bền vững
+049.08580105 Quy hoạch vùng và đô thị
+049.08580106 Quản lý đô thị và công trình
+049.08580112 Đô thị học
+049.08580201 Kỹ thuật xây dựng
+049.08580202 Kỹ thuật xây dựng công trình thuỷ
+049.08580203 Kỹ thuật xây dựng công trình biển
+049.08580204 Kỹ thuật xây dựng công trình ngầm
+049.08580205 Kỹ thuật xây dựng công trình giao thông
+049.08580206 Kỹ thuật xây dựng công trình đặc biệt
+049.08580210 Kỹ thuật cơ sở hạ tầng
+049.08580211 Địa kỹ thuật xây dựng
+049.08580212 Kỹ thuật tài nguyên nước
+049.08580213 Kỹ thuật cấp thoát nước
+049.08580215 Kỹ thuật an toàn giao thông
+049.08580301 Kinh tế xây dựng
+049.08580302 Quản lý xây dựng
+049.08580408 Thiết kế nội thất
+049.08620103 Khoa học đất
+049.08620105 Chăn nuôi
+049.08620106 Chăn nuôi – thú y
+049.08620110 Khoa học cây trồng
+049.08620111 Di truyền và chọn giống cây trồng
+049.08620112 Bảo vệ thực vật
+049.08620115 Kinh tế nông nghiệp
+049.08620116 Phát triển nông thôn
+049.08620118 Hệ thống nông nghiệp
+049.08620120 Sinh thái nông nghiệp
+049.08620201 Lâm học
+049.08620205 Lâm sinh
+049.08620211 Quản lý tài nguyên rừng
+049.08620301 Nuôi trồng thuỷ sản
+049.08620302 Bệnh học thủy sản
+049.08620304 Khai thác thuỷ sản
+049.08620305 Quản lý thủy sản
+049.08620306 Quản lý tổng hợp vùng ven biển
+049.08640101 Thú y
+049.08720101 Khoa học y sinh
+049.08720102 Gây mê hồi sức
+049.08720103 Hồi sức cấp cứu và chống độc
+049.08720104 Ngoại khoa
+049.08720105 Sản phụ khoa
+049.08720106 Nhi khoa
+049.08720107 Nội khoa
+049.08720108 Ung thư
+049.08720109 Bệnh truyền nhiễm và các bệnh nhiệt đới
+049.08720110 Y học dự phòng
+049.08720111 Điện quang và y học hạt nhân
+049.08720113 Dịch tễ học thực địa
+049.08720115 Y học cổ truyền
+049.08720117 Dịch tễ học
+049.08720118 Dược lý và độc chất
+049.08720119 Phẫu thuật tạo hình, tái tạo và thẩm mỹ
+049.08720155 Tai - Mũi - Họng
+049.08720157 Mắt (Nhãn khoa)
+049.08720158 Khoa học thần kinh
+049.08720159 Khoa học thần kinh
+049.08720163 Y học dự phòng
+049.08720202 Công nghệ dược phẩm và bào chế thuốc
+049.08720203 Hóa dược
+049.08720205 Dược lý và dược lâm sàng
+049.08720206 Dược liệu - Dược học cổ truyền
+049.08720208 Hóa sinh dược
+049.08720210 Kiểm nghiệm thuốc và độc chất
+049.08720212 Tổ chức quản lý dược
+049.08720301 Điều dưỡng
+049.08720302 Hộ sinh
+049.08720401 Dinh dưỡng
+049.08720412 Tổ chức quản lý dược
+049.08720501 Răng - Hàm - Mặt
+049.08720601 Kỹ thuật xét nghiệm y học
+049.08720602 Kỹ thuật hình ảnh y học
+049.08720603 Kỹ thuật phục hồi chức năng
+049.08720701 Y tế công cộng
+049.08720801 Quản lý Y tế
+049.08720802 Quản lý bệnh viện
+049.08729001 Y học gia đình
+049.08729002 Giáo dục y học
+049.08729003 Y học Quân sự
+049.08729004 Y học biển
+049.08760101 Công tác xã hội
+049.08760102 Giáo dục và phát triển cộng đồng
+049.08760103 Hỗ trợ giáo dục người khuyết tật
+049.08810101 Du lịch
+049.08810102 Quản trị khách sạn
+049.08810103 Quản trị dịch vụ du lịch và lữ hành
+049.08810104 Quản trị khách sạn - Nhà hàng và Dịch vụ ăn uống
+049.08810106 Du lịch văn hóa
+049.08810201 Quản trị khách sạn
+049.08810202 Quản trị nhà hàng và dịch vụ ăn uống
+049.08810301 Quản lý thể dục thể thao
+049.08810302 Huấn luyện thể thao
+049.08840103 Tổ chức và quản lý vận tải
+049.08840106 Khoa học hàng hải
+049.08850101 Quản lý tài nguyên và môi trường
+049.08850102 Kinh tế tài nguyên
+049.08850103 Quản lý đất đai
+049.08850104 Quản lý biển đảo và đới bờ
+049.08850105 Quản lý an toàn, sức khỏe và môi trường
+049.08860101 Trinh sát an ninh
+049.08860102 Trinh sát cảnh sát
+049.08860103 Trinh sát kỹ thuật
+049.08860104 Điều tra hình sự
+049.08860107 Kỹ thuật Công an nhân dân
+049.08860108 Kỹ thuật hình sự
+049.08860109 Quản lý nhà nước về an ninh trật tự
+049.08860110 Quản lý trật tự an toàn giao thông
+049.08860111 Thi hành án hình sự và hỗ trợ tư pháp
+049.08860112 Tham mưu, chỉ huy công an nhân dân
+049.08860113 Phòng cháy chữa cháy và cứu nạn cứu hộ
+049.08860114 An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao
+049.08860116 Hậu cần công an nhân dân
+049.08860117 Tình báo an ninh
+049.08860118 An ninh phi truyền thống
+049.08860208 Nghệ thuật quân sự
+049.08860209 Lịch sử nghệ thuật quân sự
+049.08860210 Chiến lược quân sự
+049.08860211 Chiến lược quốc phòng
+049.08860212 Nghệ thuật chiến dịch
+049.08860213 Chiến thuật
+049.08860215 Biên phòng
+049.08860216 Quản lý biên giới và cửa khẩu
+049.08860217 Tình báo quân sự
+049.08860218 Hậu cần quân sự
+049.08860220 Chỉ huy, quản lý kỹ thuật
+049.08860221 Trinh sát quân sự
+049.08900103 Bảo hộ lao động
+049.08900201 Quản trị An ninh phi truyền thống
+049.08900202 Biến đổi khí hậu
+049.08900203 Khoa học bền vững
+049.08900204 Quản lý phát triển đô thị
+049.08900205 Di sản học
+049.08900301 Quản trị công nghệ và phát triển doanh nghiệp
+049.09140101 Giáo dục học
+049.09140102 Lý luận và lịch sử giáo dục
+049.09140110 Lý luận và phương pháp dạy học
+049.09140111 Lý luận và phương pháp dạy học bộ môn
+049.09140114 Quản lý giáo dục
+049.09140115 Đo lường và đánh giá trong giáo dục
+049.09140116 Thiết kế phương tiện giáo dục, giảng dạy
+049.09140117 Giáo dục quốc tế và so sánh
+049.09140118 Giáo dục đặc biệt
+049.09210101 Lý luận và lịch sử mỹ thuật
+049.09210102 Mỹ thuật tạo hình
+049.09210201 Âm nhạc học
+049.09210206 Quản lý nghệ thuật
+049.09210221 Lý luận và lịch sử sân khấu
+049.09210231 Lý luận và lịch sử điện ảnh, truyền hình
+049.09220102 Ngôn ngữ Việt Nam
+049.09220104 Hán Nôm
+049.09220109 Ngôn ngữ các dân tộc thiểu số Việt Nam
+049.09220120 Lý luận văn học
+049.09220121 Văn học Việt Nam
+049.09220125 Văn học dân gian
+049.09220201 Ngôn ngữ Anh
+049.09220202 Ngôn ngữ Nga
+049.09220203 Ngôn ngữ Pháp
+049.09220204 Ngôn ngữ Trung Quốc
+049.09220205 Ngôn ngữ Đức
+049.09220209 Ngôn ngữ Nhật
+049.09220210 Ngôn ngữ Hàn Quốc
+049.09220241 Ngôn ngữ học so sánh, đối chiếu
+049.09220242 Văn học nước ngoài
+049.09222024 Ngôn ngữ học so sánh, đối chiếu
+049.09229001 Triết học
+049.09229002 Chủ nghĩa duy vật biện chứng và duy vật lịch sử
+049.09229004 Logic học
+049.09229006 Đạo đức học
+049.09229007 Mỹ học
+049.09229008 Chủ nghĩa xã hội khoa học
+049.09229009 Tôn giáo học
+049.09229011 Lịch sử thế giới
+Lịch sử phong trào cộng sản, công nhân quốc tế và giải phóng
+049.09229012
+dân tộc
+049.09229013 Lịch sử Việt Nam
+049.09229015 Lịch sử Đảng Cộng sản Việt Nam
+049.09229017 Khảo cổ học
+049.09229020 Ngôn ngữ học
+049.09229030 Văn học
+049.09229040 Văn hoá học
+049.09229041 Văn hoá dân gian
+049.09229042 Quản lý văn hoá
+049.09229047 Di sản học
+049.09310101 Kinh tế học
+049.09310102 Kinh tế chính trị
+049.09310104 Kinh tế đầu tư
+049.09310105 Kinh tế phát triển
+049.09310106 Kinh tế quốc tế
+049.09310107 Thống kê kinh tế
+049.09310108 Toán kinh tế
+049.09310109 Kinh tế và quản lý tài nguyên biển
+049.09310110 Quản lý kinh tế
+049.09310116 Kinh tế và Quản lý
+049.09310201 Chính trị học
+049.09310202 Xây dựng Đảng và Chính quyền nhà nước
+049.09310204 Hồ Chí Minh học
+049.09310206 Quan hệ quốc tế
+049.09310301 Xã hội học
+049.09310302 Nhân học
+049.09310310 Dân tộc học
+049.09310401 Tâm lý học
+049.09310501 Địa lý học
+049.09310601 Quốc tế học
+049.09310608 Đông phương học
+049.09310612 Trung Quốc học
+049.09310613 Nhật Bản học
+049.09310620 Đông Nam Á học
+049.09310630 Việt Nam học
+049.09319042 Quản lý văn hóa
+049.09320101 Báo chí học
+049.09320105 Truyền thông đại chúng
+049.09320108 Quan hệ công chúng
+049.09320202 Thông tin học
+049.09320203 Khoa học thư viện
+049.09320303 Lưu trữ học
+049.09320305 Bảo tàng học
+049.09320401 Xuất bản
+049.09340101 Quản trị kinh doanh
+049.09340121 Kinh doanh thương mại
+049.09340201 Tài chính - Ngân hàng
+049.09340204 Bảo hiểm
+049.09340301 Kế toán
+049.09340401 Khoa học quản lý
+049.09340402 Chính sách công
+049.09340403 Quản lý công
+049.09340404 Quản trị nhân lực
+049.09340405 Hệ thống thông tin quản lý
+049.09340407 Quản trị và phát triển bền vững
+049.09340410 Quản lý kinh tế
+049.09340412 Quản lý khoa học và công nghệ
+049.09380101 Luật
+049.09380102 Luật hiến pháp và luật hành chính
+049.09380103 Luật dân sự và tố tụng dân sự
+049.09380104 Luật hình sự và tố tụng hình sự
+049.09380105 Tội phạm học và phòng ngừa tội phạm
+049.09380106 Lý luận và lịch sử nhà nước và pháp luật
+049.09380107 Luật kinh tế
+049.09380108 Luật quốc tế
+049.09389001 Pháp luật về quyền con người
+049.09420101 Sinh học
+049.09420102 Nhân chủng học
+049.09420103 Động vật học
+049.09420104 Sinh lý học người và động vật
+049.09420105 Ký sinh trùng học
+049.09420106 Côn trùng học
+049.09420107 Vi sinh vật học
+049.09420108 Thuỷ sinh vật học
+049.09420111 Thực vật học
+049.09420112 Sinh lý học thực vật
+049.09420113 Tuyến trùng học
+049.09420115 Lý sinh học
+049.09420116 Hoá sinh học
+049.09420120 Sinh thái học
+049.09420121 Di truyền học
+049.09420201 Công nghệ sinh học
+049.09440101 Thiên văn học
+049.09440103 Vật lý lý thuyết và vật lý toán
+049.09440104 Vật lý chất rắn
+049.09440105 Vật lý vô tuyến và điện tử
+049.09440106 Vật lý nguyên tử và hạt nhân
+049.09440107 Cơ học vật rắn
+049.09440108 Cơ học chất lỏng và chất khí
+049.09440109 Cơ học
+049.09440110 Quang học
+049.09440111 Vật lý địa cầu
+049.09440112 Hoá học
+049.09440113 Hoá vô cơ
+049.09440114 Hoá hữu cơ
+049.09440117 Hoá học các hợp chất thiên nhiên
+049.09440118 Hoá phân tích
+049.09440119 Hoá lý thuyết và hoá lý
+049.09440120 Hóa môi trường
+049.09440122 Khoa học vật liệu
+049.09440123 Vật liệu điện tử
+049.09440125 Vật liệu cao phân tử và tổ hợp
+049.09440127 Vật liệu quang học, quang điện tử và quang tử
+049.09440129 Kim loại học
+049.09440201 Địa chất học
+049.09440205 Khoáng vật học và địa hóa học
+049.09440210 Địa vật lí
+049.09440212 Bản đồ học
+049.09440214 Bản đồ, viễn thám và hệ thông tin địa lý
+049.09440217 Địa lí tự nhiên
+049.09440218 Địa mạo và cổ địa lý
+049.09440220 Địa lý tài nguyên và môi trường
+049.09440221 Biến đổi khí hậu
+049.09440222 Khí tượng và khí hậu học
+049.09440224 Thuỷ văn học
+049.09440228 Hải dương học
+049.09440301 Khoa học môi trường
+049.09440303 Môi trường đất và nước
+049.09440305 Độc học môi trường
+049.09440306 Bảo tồn thiên nhiên, môi trường và phát triển bền vững
+049.09460101 Toán học
+049.09460102 Toán giải tích
+049.09460103 Phương trình vi phân và tích phân
+049.09460104 Đại số và lý thuyết số
+049.09460105 Hình học và tôpô
+049.09460106 Lý thuyết xác suất và thống kê toán học
+049.09460107 Khoa học tính toán
+049.09460110 Cơ sở toán học cho tin học
+049.09460112 Toán ứng dụng
+049.09460117 Toán tin
+049.09460201 Thống kê
+049.09480101 Khoa học máy tính
+049.09480102 Mạng máy tính và truyền thông dữ liệu
+049.09480103 Kỹ thuật phần mềm
+049.09480104 Hệ thống thông tin
+049.09480106 Kỹ thuật máy tính
+049.09480107 Trí tuệ nhân tạo
+049.09480111 Tin học và Kỹ thuật máy tính
+049.09480201 Công nghệ thông tin
+049.09480202 An toàn thông tin
+049.09510601 Quản lý công nghiệp
+049.09510602 Quản lý Năng lượng
+049.09510605 Logistics và quản lý chuỗi cung ứng
+049.09519001 Công nghệ Y - Dược
+049.09520101 Cơ kỹ thuật
+049.09520103 Kỹ thuật cơ khí
+049.09520114 Kỹ thuật cơ điện tử
+049.09520115 Kỹ thuật nhiệt
+049.09520116 Kỹ thuật cơ khí động lực
+049.09520118 Kỹ thuật hệ thống công nghiệp
+049.09520121 Kỹ thuật không gian
+049.09520122 Kỹ thuật tàu thuỷ
+049.09520130 Kỹ thuật ô tô
+049.09520135 Kỹ thuật năng lượng
+049.09520137 Kỹ thuật in
+049.09520138 Kỹ thuật hàng hải
+049.09520201 Kỹ thuật điện
+049.09520203 Kỹ thuật điện tử
+049.09520204 Kỹ thuật rađa - dẫn đường
+049.09520208 Kỹ thuật viễn thông
+049.09520209 Kỹ thuật mật mã
+049.09520212 Kỹ thuật y sinh
+049.09520216 Kỹ thuật điều khiển và tự động hóa
+049.09520301 Kỹ thuật hoá học
+049.09520305 Kỹ thuật hóa dầu và lọc dầu
+049.09520309 Kỹ thuật vật liệu
+049.09520320 Kỹ thuật môi trường
+049.09520401 Vật lý kỹ thuật
+049.09520402 Kỹ thuật hạt nhân
+049.09520501 Kỹ thuật địa chất
+049.09520502 Kỹ thuật địa vật lý
+049.09520503 Kỹ thuật trắc địa - bản đồ
+049.09520602 Kỹ thuật thăm dò và khảo sát
+049.09520603 Khai thác mỏ
+049.09520604 Kỹ thuật dầu khí
+049.09520607 Kỹ thuật tuyển khoáng
+049.09540101 Công nghệ thực phẩm
+049.09540104 Công nghệ sau thu hoạch
+049.09540105 Công nghệ chế biến thuỷ sản
+049.09540203 Công nghệ vật liệu dệt, may
+049.09540204 Công nghệ dệt, may
+049.09549001 Kỹ thuật chế biến lâm sản
+049.09580101 Kiến trúc
+049.09580105 Quy hoạch vùng và đô thị
+049.09580106 Quản lý đô thị và công trình
+049.09580201 Kỹ thuật xây dựng
+049.09580202 Kỹ thuật xây dựng công trình thuỷ
+049.09580203 Kỹ thuật xây dựng công trình biển
+049.09580204 Kỹ thuật xây dựng công trình ngầm
+049.09580205 Kỹ thuật xây dựng công trình giao thông
+049.09580206 Kỹ thuật xây dựng công trình đặc biệt
+049.09580210 Kỹ thuật cơ sở hạ tầng
+049.09580211 Địa kỹ thuật xây dựng
+049.09580212 Kỹ thuật tài nguyên nước
+049.09580213 Kỹ thuật cấp thoát nước
+049.09580302 Quản lý xây dựng
+049.09620103 Khoa học đất
+049.09620105 Chăn nuôi
+049.09620107 Dinh dưỡng và thức ăn chăn nuôi
+049.09620108 Di truyền và chọn giống vật nuôi
+049.09620110 Khoa học cây trồng
+049.09620111 Di truyền và chọn giống cây trồng
+049.09620112 Bảo vệ thực vật
+049.09620115 Kinh tế nông nghiệp
+049.09620116 Phát triển nông thôn
+049.09620125 Nông nghiệp hữu cơ
+049.09620205 Lâm sinh
+049.09620207 Di truyền và chọn giống cây lâm nghiệp
+049.09620208 Điều tra và quy hoạch rừng
+049.09620211 Quản lý tài nguyên rừng
+049.09620301 Nuôi trồng thuỷ sản
+049.09620302 Bệnh học thủy sản
+049.09620304 Khai thác thuỷ sản
+049.09620305 Quản lý thủy sản
+049.09640101 Thú y
+049.09640102 Bệnh lý học và chữa bệnh vật nuôi
+049.09640104 Ký sinh trùng và vi sinh vật học thú y
+049.09640106 Sinh sản và bệnh sinh sản gia súc
+049.09640108 Dịch tễ học thú y
+049.09720101 Khoa học y sinh
+049.09720102 Gây mê hồi sức
+049.09720103 Hồi sức cấp cứu và chống độc
+049.09720104 Ngoại khoa
+049.09720105 Sản phụ khoa
+049.09720106 Nhi khoa
+049.09720107 Nội khoa
+049.09720108 Ung thư
+049.09720109 Bệnh truyền nhiễm và các bệnh nhiệt đới
+049.09720110 Y học dự phòng
+049.09720111 Điện quang và y học hạt nhân
+049.09720113 Y học cổ truyền
+049.09720115 Y học cổ truyền
+049.09720117 Dịch tễ học
+049.09720118 Dược lý và độc chất
+049.09720119 Phẫu thuật tạo hình, tái tạo và thẩm mỹ
+049.09720155 Tai - Mũi - Họng
+049.09720157 Mắt (Nhãn khoa)
+049.09720158 Khoa học thần kinh
+049.09720163 Y học dự phòng
+049.09720202 Công nghệ dược phẩm và bào chế thuốc
+049.09720203 Hóa dược
+049.09720205 Dược lý và dược lâm sàng
+049.09720206 Dược liệu - Dược học cổ truyền
+049.09720208 Hóa sinh dược
+049.09720210 Kiểm nghiệm thuốc và độc chất
+049.09720212 Tổ chức quản lý dược
+049.09720301 Điều dưỡng
+049.09720302 Hộ sinh
+049.09720401 Dinh dưỡng
+049.09720501 Răng - Hàm - Mặt
+049.09720601 Kỹ thuật xét nghiệm y học
+049.09720602 Kỹ thuật hình ảnh y học
+049.09720603 Kỹ thuật phục hồi chức năng
+049.09720701 Y tế công cộng
+049.09720801 Quản lý Y tế
+049.09720802 Quản lý bệnh viện
+049.09729003 Y học quân sự
+049.09760101 Công tác xã hội
+049.09810101 Du lịch
+049.09810302 Huấn luyện thể thao
+049.09840103 Tổ chức và quản lý vận tải
+049.09840106 Khoa học hàng hải
+049.09850101 Quản lý tài nguyên và môi trường
+049.09850103 Quản lý đất đai
+049.09860101 Trinh sát an ninh
+049.09860102 Trinh sát cảnh sát
+049.09860103 Trinh sát kỹ thuật
+049.09860104 Điều tra hình sự
+049.09860107 Kỹ thuật Công an nhân dân
+049.09860108 Kỹ thuật hình sự
+049.09860109 Quản lý nhà nước về an ninh trật tự
+049.09860110 Quản lý trật tự an toàn giao thông
+049.09860111 Thi hành án hình sự và hỗ trợ tư pháp
+049.09860112 Tham mưu, chỉ huy công an nhân dân
+049.09860113 Phòng cháy chữa cháy và cứu nạn cứu hộ
+049.09860116 Hậu cần công an nhân dân
+049.09860117 Tình báo an ninh
+049.09860209 Lịch sử nghệ thuật quân sự
+049.09860210 Chiến lược quân sự
+049.09860211 Chiến lược quốc phòng
+049.09860212 Nghệ thuật chiến dịch
+049.09860213 Chiến thuật
+049.09860214 Biên phòng
+049.09860216 Quản lý biên giới và cửa khẩu
+049.09860217 Tình báo quân sự
+049.09860218 Hậu cần quân sự
+049.09860220 Chỉ huy, quản lý kỹ thuật
+049.09860221 Trinh sát quân sự
+049.09900202 Biến đổi khí hậu và phát triển bền vững
+049.09900205 Di sản học
+049.51140201 Giáo dục mầm non (Cao đẳng)
+049.51140202 Giáo dục tiểu học
+049.51140217 Sư phạm Ngữ văn
+049.51140231 Sư phạm Tiếng Anh
+049.72101a1 Nghệ thuật thị giác
+049.7220212QTD Văn hóa và truyền thông xuyên quốc gia
+049.72290a1 Điện ảnh và Nghệ thuật đại chúng
+049.73106a1 Kinh doanh thương mại Hàn Quốc
+049.73401a1 Kinh doanh số
+049.74401a1 Công nghệ bán dẫn
+049.74402a1 Khoa học quản lý và kinh tế đất đai
+049.7480107TD Quản trị và phân tích dữ liệu
+049.75202a1 Thiết kế vi mạch
+049.75290a1 Thiết kế công nghiệp và Đồ họa
+049.7540118QTD Công nghệ thực phẩm và sức khỏe
+049.7720301A Điều dưỡng đa khoa
+049.7720301B Điều dưỡng nha khoa
+049.7720301C Điều dưỡng gây mê hồi sức
+049.7720301D Điều dưỡng phụ sản
+049.81401a1 Khoa học giáo dục
+049.82290a1 Công nghiệp văn hóa và sáng tạo
+049.8220214.01QTD Ngôn ngữ học ứng dụng tiếng Anh
+049.83401a1 Thương mại điện tử
+049.84401a1 Công nghệ bán dẫn
+049.84490a1 Khoa học tích hợp
+049.85202a1 Thiết kế vi mạch
+049.8900501.01QTD Địa lý
+049.khac Khác

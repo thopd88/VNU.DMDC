@@ -1,0 +1,23 @@
+50. Danh mục ngành kinh tế
+Mã Tên
+050.00000007 Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác
+050.00000003 Công nghiệp chế biến, chế tạo
+050.00000005 Cung cấp nước; hoạt động quản lý và xử lý rác thải, nước thải
+050.00000009 Dịch vụ lưu trú và ăn uống
+050.00000016 Giáo dục và đào tạo
+050.00000013 Hoạt động chuyên môn, khoa học và công nghệ
+050.00000021 Hoạt động của các tổ chức và cơ quan quốc tế
+050.00000015 Hoạt động của đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng; bảo đảm xã hội bắt buộc
+050.00000014 Hoạt động hành chính và dịch vụ hỗ trợ
+050.00000012 Hoạt động kinh doanh bất động sản
+050.00000020 Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình
+050.00000011 Hoạt động tài chính, ngân hàng và bảo hiểm
+050.00000019 Hoạt động dịch vụ khác
+050.00000002 Khai khoáng
+050.00000018 Nghệ thuật, vui chơi và giải trí
+050.00000001 Nông nghiệp, lâm nghiệp và thuỷ sản
+050.00000004 Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí
+050.00000010 Thông tin và truyền thông
+050.00000008 Vận tải kho bãi
+050.00000006 Xây dựng
+050.00000017 Y tế và hoạt động trợ giúp xã hội

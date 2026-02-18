@@ -1,0 +1,20 @@
+33. Danh mục danh hiệu vinh dự và giải thưởng nhà nước
+Mã Tên
+033.00000050 Nhà giáo Nhân dân
+033.00000051 Nhà giáo ưu tú
+033.00000052 Giải thưởng Nhà nước
+033.00000053 Giải thưởng Hồ Chí Minh
+033.00000054 Giải thưởng Tạ Quang Bửu
+033.00000055 Giải thưởng Kovalevskaia
+033.00000056 Giải thưởng Bảo Sơn
+033.00000058 Anh hùng Lao động
+033.00000059 Nghệ sĩ ưu tú
+033.00000060 Nghệ sĩ Nhân dân
+033.00000061 Nghệ nhân ưu tú
+033.00000062 Nghệ nhân Nhân dân
+033.00000063 Anh hùng lực lượng vũ trang
+033.00000064 Chiến sĩ thi đua
+033.00000066 Thầy thuốc nhân dân
+033.00000067 Thầy thuốc ưu tú
+033.00000065 Chưa xác định
+033.00000057 Giải thưởng khác

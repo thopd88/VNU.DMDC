@@ -1,0 +1,7 @@
+119. Danh mục trạng thái văn bản triển khai quyền tự chủ theo luật GDĐH
+Mã Tên
+119.00000001 Đã ban hành
+119.00000002 Chưa ban hành
+119.00000004 Còn hiệu lực
+119.00000005 Hiệu lực một phần
+119.00000003 Hết hiệu lực

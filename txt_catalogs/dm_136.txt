@@ -1,0 +1,7 @@
+136. Danh mục phân loại hoạt động tài chính
+Mã Tên
+136.00000001 Biên chế và kinh phí thực hiện tiền lương nguồn NSNN
+136.00000002 Biên chế và kinh phí thực hiện tiền lương nguồn Trường
+136.00000003 Thanh toán kinh phí khoa học công nghệ nguồn NSNN
+136.00000004 Thanh toán kinh phí khoa học công nghệ nguồn Trường
+136.00000005 Miễn giảm học phí

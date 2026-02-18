@@ -1,0 +1,5 @@
+27. Danh mục kết quả kiểm định
+Mã Tên
+027.00000001 Đạt
+027.00000002 Đạt có điều kiện
+027.00000003 Chưa kiểm định

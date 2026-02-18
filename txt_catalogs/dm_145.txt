@@ -1,0 +1,95 @@
+145. Danh mục cơ quan chủ quản
+Mã Tên
+145.00000021 Chính phủ
+145.00000001 Ban Cơ yếu Chính phủ
+145.00000002 Ban Chấp hành Trung ương Đảng cộng sản Việt Nam
+145.00000003 Bộ Công an
+145.00000004 Bộ Công Thương
+145.00000005 Bộ Giáo dục và Đào tạo
+145.00000006 Bộ Giao thông vận tải
+145.00000007 Bộ Kế hoạch và Đầu tư
+145.00000008 Bộ Khoa học và Công nghệ
+145.00000009 Bộ Lao động - Thương binh và Xã hội
+145.00000010 Bộ Nội vụ
+145.00000011 Bộ Nông nghiệp và Phát triển nông thôn
+145.00000012 Bộ Ngoại giao
+145.00000013 Bộ Quốc phòng
+145.00000014 Bộ Tài chính
+145.00000015 Bộ Tài nguyên và Môi trường
+145.00000016 Bộ Tư pháp
+145.00000017 Bộ Thông tin và Truyền thông
+145.00000018 Bộ Văn hóa, Thể thao và Du lịch
+145.00000019 Bộ Xây dựng
+145.00000020 Bộ Y tế
+145.00000022 Học viện Chính trị Quốc gia Hồ Chí Minh
+145.00000087 Viện Hàn lâm Khoa học và Công nghệ Việt Nam
+145.00000088 Viện Hàn lâm Khoa học Xã hội Việt Nam
+145.00000089 Viện Kiểm sát nhân dân tối cao
+145.00000024 Ngân hàng Nhà nước Việt Nam
+145.00000025 Tập đoàn Dầu khí Quốc gia Việt Nam
+145.00000026 Tập đoàn Dệt may Việt Nam
+145.00000027 Tòa án nhân dân tối cao
+145.00000028 Tổng Liên đoàn Lao động Việt Nam
+145.00000029 Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh
+145.00000030 Trung ương Hội Liên hiệp Phụ nữ Việt Nam
+145.00000031 UBND tỉnh Bà Rịa - Vũng Tàu
+145.00000032 UBND tỉnh Bạc Liêu
+145.00000033 UBND tỉnh Bắc Giang
+145.00000034 UBND tỉnh Bắc Kạn
+145.00000035 UBND tỉnh Bắc Ninh
+145.00000036 UBND tỉnh Bến Tre
+145.00000037 UBND tỉnh Bình Dương
+145.00000038 UBND tỉnh Bình Định
+145.00000039 UBND tỉnh Bình Phước
+145.00000040 UBND tỉnh Bình Thuận
+145.00000041 UBND tỉnh Cà Mau
+145.00000042 UBND tỉnh Cao Bằng
+145.00000043 UBND tỉnh Cần Thơ
+145.00000044 UBND tỉnh Đắk Lắk
+145.00000045 UBND tỉnh Điện Biên
+145.00000046 UBND tỉnh Đồng Nai
+145.00000047 UBND tỉnh Gia Lai
+145.00000048 UBND tỉnh Hà Giang
+145.00000049 UBND tỉnh Hà Tĩnh
+145.00000050 UBND tỉnh Hải Dương
+145.00000051 UBND tỉnh Hậu Giang
+145.00000052 UBND tỉnh Hòa Bình
+145.00000053 UBND tỉnh Hưng Yên
+145.00000054 UBND tỉnh Kiên Giang
+145.00000055 UBND tỉnh Kon Tum
+145.00000056 UBND tỉnh Khánh Hòa
+145.00000057 UBND tỉnh Lai Châu
+145.00000058 UBND tỉnh Lạng Sơn
+145.00000059 UBND tỉnh Lâm Đồng
+145.00000060 UBND tỉnh Long An
+145.00000061 UBND tỉnh Nam Định
+145.00000062 UBND tỉnh Nghệ An
+145.00000063 UBND tỉnh Phú Thọ
+145.00000064 UBND tỉnh Phú Yên
+145.00000065 UBND tỉnh Quảng Bình
+145.00000066 UBND tỉnh Quảng Nam
+145.00000067 UBND tỉnh Quảng Ninh
+145.00000068 UBND tỉnh Quảng Ngãi
+145.00000069 UBND tỉnh Quảng Trị
+145.00000070 UBND tỉnh Sóc Trăng
+145.00000071 UBND tỉnh Sơn La
+145.00000072 UBND tỉnh Tây Ninh
+145.00000073 UBND tỉnh Tiền Giang
+145.00000074 UBND tỉnh Tuyên Quang
+145.00000075 UBND tỉnh Thái Bình
+145.00000076 UBND tỉnh Thanh Hóa
+145.00000077 UBND tỉnh Thừa Thiên Huế
+145.00000078 UBND tỉnh Trà Vinh
+145.00000079 UBND tỉnh Vĩnh Long
+145.00000080 UBND tỉnh Vĩnh Phúc
+145.00000081 UBND tỉnh Yên Bái
+145.00000090 UBND tỉnh Ninh Bình
+145.00000092 UBND tỉnh Đồng Tháp
+145.00000082 UBND TP. Cần Thơ
+145.00000083 UBND TP. Hà Nội
+145.00000084 UBND TP. Hải Phòng
+145.00000085 UBND TP. Hồ Chí Minh
+145.00000093 UBND TP. Đà Nẵng
+145.00000086 Ủy ban Dân tộc
+145.00000023 Nước ngoài
+145.00000091 Khác

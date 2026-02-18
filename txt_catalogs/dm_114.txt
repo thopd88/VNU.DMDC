@@ -1,0 +1,4 @@
+114. Danh mục trạng thái phòng ban
+Mã Tên
+114.00000001 Đang hoạt động
+114.00000002 Dừng hoạt động

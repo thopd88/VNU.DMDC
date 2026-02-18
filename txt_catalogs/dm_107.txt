@@ -1,0 +1,5 @@
+107. Danh mục loại nhiệm vụ bảo vệ môi trường
+Mã Tên
+107.00000001 Nhiệm vụ chuyên môn
+107.00000002 Nhiệm vụ tập huấn
+107.00000003 Nhiệm vụ tuyên truyền

@@ -1,0 +1,7 @@
+5. Danh mục chức danh hội đồng/ban
+Mã Tên
+005.00000001 Chủ tịch
+005.00000002 Phó Chủ tịch
+005.00000003 Phó Chủ tịch thường trực
+005.00000004 Ủy viên
+005.00000005 Thư ký

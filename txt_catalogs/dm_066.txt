@@ -1,0 +1,7 @@
+66. Danh mục trạng thái của chương trình đào tạo
+Mã Tên
+066.00000003 Chương trình mới phê duyệt chưa thực hiện tuyển sinh
+066.00000001 Đang tuyển sinh và đào tạo
+066.00000002 Dừng tuyển sinh (vẫn đang đào tạo)
+066.00000005 Dừng tuyển sinh và đào tạo
+066.00000004 Khác

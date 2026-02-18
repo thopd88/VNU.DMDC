@@ -1,0 +1,5 @@
+13. Danh mục đơn vị cấp bằng
+Mã Tên
+013.00000001 Cơ sở nước ngoài cấp
+013.00000002 Cơ sở Việt Nam cấp
+013.00000003 Cấp 2 bằng

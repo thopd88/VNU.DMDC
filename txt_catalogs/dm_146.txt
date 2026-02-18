@@ -1,0 +1,4 @@
+146. Danh mục loại quyết định
+Mã Tên
+146.00000001 Bộ quyết định
+146.00000002 Trường công nhận

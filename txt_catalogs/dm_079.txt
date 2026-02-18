@@ -1,0 +1,7 @@
+79. Danh mục nguồn kinh phí cho đề án/dự án/chương trình
+Mã Tên
+079.00000001 Ngân sách Nhà nước
+079.00000002 Ngân sách của Bộ
+079.00000003 Ngân sách của cơ sở
+079.00000004 ODA
+079.00000005 Khác

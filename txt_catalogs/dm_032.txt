@@ -1,0 +1,13 @@
+32. Danh mục loại sách/tạp chí
+Mã Tên
+032.00000051 Chuyên khảo
+032.00000052 Chương sách được xuất bản quốc tế bởi các nhà xuất bản uy tín thuộc danh mục Scopus, DBLP, zbMATH, SCImago
+032.00000050 Giáo trình
+032.00000053 Giáo trình giảng dạy thực hành
+032.00000059 Tài liệu hướng dẫn
+032.00000058 Tham khảo
+032.00000057 Xây dựng case study mô phỏng
+032.00000054 Xây dựng chương trình đào tạo cho những ngành mới mở đại học/sau đại học đã được phê duyệt
+032.00000055 Xây dựng dự án được phê duyệt
+032.00000056 Xây dựng quy chế, quy định được phê duyệt
+032.00000060 Khác

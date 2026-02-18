@@ -1,0 +1,5 @@
+134. Danh mục trạng thái ngành đào tạo
+Mã Tên
+134.00000001 Đang đào tạo
+134.00000003 Dừng tuyển sinh (vẫn đang đào tạo)
+134.00000002 Dừng đào tạo
