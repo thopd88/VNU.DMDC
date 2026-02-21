@@ -1,0 +1,14 @@
+-- Data for LOAI_BOI_DUONG (9 rows)
+
+
+
+INSERT INTO LOAI_BOI_DUONG (Ma, Ten) VALUES
+  ('103.00000050', 'Cán bộ quản lý giáo dục'),
+  ('103.00000051', 'Nghiệp vụ quản lý'),
+  ('103.00000052', 'Nghiệp vụ sư phạm'),
+  ('103.00000053', 'Tiêu chuẩn chức danh nghề nghiệp'),
+  ('103.00000054', 'Biên soạn giáo trình chuyên môn đã được xuất bản'),
+  ('103.00000055', 'Các nội dung khác: Tập huấn, đào tạo, chuyển giao kỹ thuật, bồi dưỡng chuyên môn nghiệp vụ ngắn hạn trong và ngoài nước theo hình thức tập trung hoặc trực tuyến (E-learning) được cấp chứng chỉ, chứng nhận, xác nhận.'),
+  ('103.00000056', 'CBYT tham gia giảng dạy liên quan đến chuyên môn nghiệp vụ'),
+  ('103.00000057', 'Hội thảo, hội nghị, tọa đàm khoa học trong và ngoài nước về lĩnh vực chuyên môn y tế có xác nhận của đơn vị chủ trì tổ chức.'),
+  ('103.00000058', 'Thực hiện nghiên cứu khoa học; hướng dẫn luận án, luận văn; viết bài báo khoa học đã được công bố theo quy định');

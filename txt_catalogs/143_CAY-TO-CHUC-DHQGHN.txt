@@ -1,5 +1,5 @@
 143. Danh mục cây tổ chức ĐHQGHN
-Mã|Tên đơn vị|Đơn vị cha
+Mã|Tên|Đơn vị cha
 143.G25.39.000|Trung tâm Giáo dục Quốc phòng và An ninh|G25
 143.G25.39.100|Ban Giám đốc|143.G25.39.000
 143.G25.39.001|Phòng Hành chính - Tổng hợp|143.G25.39.000

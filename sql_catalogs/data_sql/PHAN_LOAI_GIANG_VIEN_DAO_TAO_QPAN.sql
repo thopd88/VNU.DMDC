@@ -1,0 +1,7 @@
+-- Data for PHAN_LOAI_GIANG_VIEN_DAO_TAO_QPAN (2 rows)
+
+
+
+INSERT INTO PHAN_LOAI_GIANG_VIEN_DAO_TAO_QPAN (Ma, Ten) VALUES
+  ('120.00000001', 'Cử nhân'),
+  ('120.00000002', 'Văn bằng 2');

@@ -1,0 +1,14 @@
+-- Data for LOAI_PHONG_THI_NGHIEM (9 rows)
+
+
+
+INSERT INTO LOAI_PHONG_THI_NGHIEM (Ma, Ten) VALUES
+  ('047.00000001', 'Phòng lab thí nghiệm hóa học, vật lý'),
+  ('047.00000007', 'Phòng lab chiếu phim hoặc phòng tối'),
+  ('047.00000010', 'Phòng lab STEM'),
+  ('047.00000002', 'Phòng thí nghiệm y tế'),
+  ('047.00000003', 'Phòng thí nghiệm y tế công cộng'),
+  ('047.00000004', 'Phòng thí nghiệm nghiên cứu và sản xuất các loại thuốc hoặc các công nghệ đặc biệt'),
+  ('047.00000005', 'Phòng thí nghiệm phương tiện truyền thông'),
+  ('047.00000006', 'Phòng thí nghiệm nghiên cứu, học tập'),
+  ('047.00000008', 'Phòng thí nghiệm máy tính');

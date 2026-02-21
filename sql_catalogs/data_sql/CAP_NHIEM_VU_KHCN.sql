@@ -1,0 +1,16 @@
+-- Data for CAP_NHIEM_VU_KHCN (11 rows)
+
+
+
+INSERT INTO CAP_NHIEM_VU_KHCN (Ma, Ten) VALUES
+  ('082.00000050', 'Cấp Quốc gia'),
+  ('082.00000051', 'Cấp Bộ'),
+  ('082.00000052', 'Cấp Tỉnh/thành phố'),
+  ('082.00000053', 'Cấp Cơ sở'),
+  ('082.00000058', 'Cấp Nhà nước'),
+  ('082.00000059', 'Cấp Sở'),
+  ('082.00000057', 'Đại học Quốc gia Hà Nội'),
+  ('082.00000060', 'Cấp trường'),
+  ('082.00000055', 'Nafosted'),
+  ('082.00000056', 'Đề tài đạt giải'),
+  ('082.00000054', 'Khác');

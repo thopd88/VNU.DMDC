@@ -1,6 +1,6 @@
 76. Danh mục xã/phường
 *Danh mục xã/phường theo Quyết định số 19/2025/QĐ-TTg ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam (Danh mục xã, phường).
-Mã|Tên đơn vị hành chính|Tỉnh (thành phố)
+Mã|Tên|Tỉnh
 076.00000070|Phường Hoàn Kiếm|Thành phố Hà Nội
 076.00000073|Phường Cửa Nam|Thành phố Hà Nội
 076.00000004|Phường Ba Đình|Thành phố Hà Nội

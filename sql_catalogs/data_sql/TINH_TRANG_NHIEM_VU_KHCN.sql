@@ -1,0 +1,11 @@
+-- Data for TINH_TRANG_NHIEM_VU_KHCN (6 rows)
+
+
+
+INSERT INTO TINH_TRANG_NHIEM_VU_KHCN (Ma, Ten) VALUES
+  ('101.00000050', 'Hoàn thành nhiệm vụ'),
+  ('101.00000051', 'Đã nghiệm thu cấp cơ sở và gửi hồ sơ nghiệm thu cấp Bộ'),
+  ('101.00000052', 'Đang hoàn thiện để nghiệm thu cấp cơ sở'),
+  ('101.00000053', 'Đang thực hiện'),
+  ('101.00000054', 'Dừng nhiệm vụ'),
+  ('101.00000055', 'Không hoàn thành nhiệm vụ');

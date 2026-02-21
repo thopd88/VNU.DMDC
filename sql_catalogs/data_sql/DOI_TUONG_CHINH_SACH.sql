@@ -1,0 +1,25 @@
+-- Data for DOI_TUONG_CHINH_SACH (20 rows)
+
+
+
+INSERT INTO DOI_TUONG_CHINH_SACH (Ma, Ten) VALUES
+  ('012.00000050', 'Anh hùng Lực lượng vũ trang nhân dân'),
+  ('012.00000051', 'Anh hùng lao động'),
+  ('012.00000052', 'Thương binh'),
+  ('012.00000053', 'Con của liệt sỹ'),
+  ('012.00000054', 'Con của thương binh'),
+  ('012.00000055', 'Con của bệnh binh'),
+  ('012.00000056', 'Con của người hưởng chính sách'),
+  ('012.00000057', 'Bà mẹ Việt Nam anh hùng'),
+  ('012.00000058', 'Bệnh Binh'),
+  ('012.00000059', 'Bệnh binh có thương tật đặc biệt'),
+  ('012.00000060', 'Con người nhiễm chất độc màu da cam'),
+  ('012.00000061', 'Gia đình bệnh binh'),
+  ('012.00000062', 'Gia đình có người bị địch bắt, tù đày'),
+  ('012.00000063', 'Gia đình liệt sỹ'),
+  ('012.00000064', 'Gia đình thương binh'),
+  ('012.00000065', 'Lão thành cách mạng'),
+  ('012.00000066', 'Liệt sỹ'),
+  ('012.00000067', 'Người hưởng chính sách như thương binh'),
+  ('012.00000068', 'Quân nhân bị bệnh nghề nghiệp'),
+  ('012.00000069', 'Thương binh có thương tật đặc biệt');

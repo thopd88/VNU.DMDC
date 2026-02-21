@@ -1,0 +1,7 @@
+-- Data for PHAN_LOAI_DOI_TUONG_THAM_GIA_NCKH (2 rows)
+
+
+
+INSERT INTO PHAN_LOAI_DOI_TUONG_THAM_GIA_NCKH (Ma, Ten) VALUES
+  ('133.00000001', 'Đội ngũ'),
+  ('133.00000002', 'Người học');

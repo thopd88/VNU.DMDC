@@ -1,0 +1,10 @@
+-- Data for MUC_GIAI_THUONG (5 rows)
+
+
+
+INSERT INTO MUC_GIAI_THUONG (Ma, Ten) VALUES
+  ('098.00000001', 'Giải nhất'),
+  ('098.00000002', 'Giải nhì'),
+  ('098.00000003', 'Giải ba'),
+  ('098.00000004', 'Giải khuyến khích'),
+  ('098.00000005', 'Khác');

@@ -1,0 +1,7 @@
+-- Data for THANH_VIEN_NHOM_NGHIEN_CUU_MANH (2 rows)
+
+
+
+INSERT INTO THANH_VIEN_NHOM_NGHIEN_CUU_MANH (Ma, Ten) VALUES
+  ('100.00000001', 'Trưởng nhóm'),
+  ('100.00000002', 'Thành viên nhóm');

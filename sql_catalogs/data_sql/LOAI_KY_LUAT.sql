@@ -1,0 +1,14 @@
+-- Data for LOAI_KY_LUAT (9 rows)
+
+
+
+INSERT INTO LOAI_KY_LUAT (Ma, Ten) VALUES
+  ('044.00000057', 'Bãi nhiệm'),
+  ('044.00000056', 'Buộc thôi việc'),
+  ('044.00000054', 'Cách chức'),
+  ('044.00000051', 'Cảnh cáo'),
+  ('044.00000053', 'Giáng chức'),
+  ('044.00000052', 'Hạ bậc lương'),
+  ('044.00000050', 'Khiển trách'),
+  ('044.00000055', 'Miễn nhiệm'),
+  ('044.00000058', 'Khác');

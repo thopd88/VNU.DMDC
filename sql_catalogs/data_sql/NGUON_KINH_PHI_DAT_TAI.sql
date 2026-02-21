@@ -1,0 +1,10 @@
+-- Data for NGUON_KINH_PHI_DAT_TAI (5 rows)
+
+
+
+INSERT INTO NGUON_KINH_PHI_DAT_TAI (Ma, Ten) VALUES
+  ('148.00000050', 'Đơn vị chủ trì'),
+  ('148.00000051', 'Quỹ phát triển khoa học và Công nghệ Quốc gia Hà Nội'),
+  ('148.00000052', 'Văn phòng chương trình trọng điểm Đại học Quốc gia Hà Nội'),
+  ('148.00000053', 'Đại học Quốc gia Hà Nội'),
+  ('148.00000054', 'Khác');

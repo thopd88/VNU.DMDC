@@ -1,0 +1,13 @@
+-- Data for KHU_VUC (8 rows)
+
+
+
+INSERT INTO KHU_VUC (Ma, Ten) VALUES
+  ('029.00000001', 'Biên giới - Hải đảo'),
+  ('029.00000002', 'Đô thị'),
+  ('029.00000003', 'Đồng bằng'),
+  ('029.00000004', 'Miền núi - vùng sâu'),
+  ('029.00000006', 'Nông thôn'),
+  ('029.00000005', 'Trung du'),
+  ('029.00000007', 'Vùng kinh tế đặc biệt'),
+  ('029.00000008', 'Khác');

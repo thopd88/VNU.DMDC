@@ -1,0 +1,15 @@
+-- Data for GIA_DINH_CHINH_SACH (10 rows)
+
+
+
+INSERT INTO GIA_DINH_CHINH_SACH (Ma, Ten) VALUES
+  ('087.00000050', 'Hộ nghèo'),
+  ('087.00000051', 'Hộ cận nghèo'),
+  ('087.00000052', 'Hộ đặc biệt khó khăn'),
+  ('087.00000053', 'Hộ gia đình là người dân tộc thiểu số'),
+  ('087.00000054', 'Hộ gia đình có người là thương binh, bệnh binh, người có công với cách mạng'),
+  ('087.00000055', 'Hộ gia đình bị ảnh hưởng bởi chất độc màu da cam do chiến tranh để lại'),
+  ('087.00000057', 'Con Bệnh binh'),
+  ('087.00000058', 'Con liệt sĩ'),
+  ('087.00000059', 'Con thương binh'),
+  ('087.00000056', 'Không');

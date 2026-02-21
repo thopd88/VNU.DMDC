@@ -1,0 +1,17 @@
+-- Data for DANH_GIA_KET_QUA_NHIEM_VU_KHCN (12 rows)
+
+
+
+INSERT INTO DANH_GIA_KET_QUA_NHIEM_VU_KHCN (Ma, Ten) VALUES
+  ('144.00000050', 'Xuất sắc'),
+  ('144.00000051', 'Đạt'),
+  ('144.00000052', 'Không đạt'),
+  ('144.00000053', 'Tốt'),
+  ('144.00000054', 'Khá'),
+  ('144.00000055', 'Trung bình'),
+  ('144.00000056', 'Không nghiệm thu'),
+  ('144.00000057', 'Sáng kiến được công nhận'),
+  ('144.00000058', 'Sáng kiến không được công nhận'),
+  ('144.00000059', 'Phê duyệt'),
+  ('144.00000060', 'Không phê duyệt'),
+  ('144.00000061', 'Ưu tiên phê duyệt');

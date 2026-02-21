@@ -1,5 +1,5 @@
 153. Danh mục xã, phường cũ
-Mã|Tên xã/phường|Tên quận/huyện|Tên tỉnh/thành phố
+Mã|Tên|Huyện|Tỉnh
 153.00000001|Phường Phúc Xá|Quận Ba Đình|Thành phố Hà Nội
 153.00000004|Phường Trúc Bạch|Quận Ba Đình|Thành phố Hà Nội
 153.00000006|Phường Vĩnh Phúc|Quận Ba Đình|Thành phố Hà Nội

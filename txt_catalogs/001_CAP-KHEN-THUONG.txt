@@ -1,5 +1,5 @@
 1. Danh mục cấp khen thưởng
-Mã|Tên danh mục chi tiết
+Mã|Tên
 001.00000050|Chủ tịch nước
 001.00000051|Chính phủ
 001.00000052|Bộ
